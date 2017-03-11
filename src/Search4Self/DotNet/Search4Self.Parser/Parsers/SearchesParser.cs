@@ -28,9 +28,9 @@ namespace Search4Self.Parser.Parsers
                     }
                 }
 
-                var processInfo = new ProcessStartInfo(pythonExecutablePath)
+                var processInfo = new ProcessStartInfo("python")
                 {
-                    Arguments = $"python {folderName}",
+                    Arguments = $"{pythonExecutablePath} {folderName}",
                     UseShellExecute = false,
                     RedirectStandardOutput = true
                 };
