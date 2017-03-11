@@ -1,0 +1,72 @@
+[ {
+  "contentDetails" : {
+    "caption" : "false",
+    "definition" : "sd",
+    "dimension" : "2d",
+    "duration" : "PT4M23S",
+    "hasCustomThumbnail" : false,
+    "licensedContent" : false,
+    "projection" : "rectangular"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/RpuewVUNYm836CH0imZgAq33tVw\"",
+  "fileDetails" : {
+    "fileName" : "Video-0004.mp4"
+  },
+  "id" : "83ASgJ2IFaQ",
+  "kind" : "youtube#video",
+  "player" : {
+    "embedHtml" : "<iframe width=\"480\" height=\"360\" src=\"//www.youtube.com/embed/83ASgJ2IFaQ\" frameborder=\"0\" allowfullscreen></iframe>"
+  },
+  "processingDetails" : {
+    "processingStatus" : "terminated"
+  },
+  "snippet" : {
+    "categoryId" : "24",
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "well...it's a turtle actually",
+    "liveBroadcastContent" : "none",
+    "localized" : {
+      "description" : "well...it's a turtle actually",
+      "title" : "Crazy Turtle hunting fish"
+    },
+    "publishedAt" : "2008-09-07T18:32:38.000Z",
+    "tags" : [ "crazy", "turtle" ],
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/83ASgJ2IFaQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/83ASgJ2IFaQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/83ASgJ2IFaQ/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Crazy Turtle hunting fish"
+  },
+  "statistics" : {
+    "commentCount" : "3",
+    "dislikeCount" : "0",
+    "favoriteCount" : "0",
+    "likeCount" : "6",
+    "viewCount" : "2890"
+  },
+  "status" : {
+    "embeddable" : true,
+    "license" : "youtube",
+    "privacyStatus" : "public",
+    "publicStatsViewable" : true,
+    "uploadStatus" : "processed"
+  },
+  "topicDetails" : {
+    "relevantTopicIds" : [ "/m/068hy", "/m/03glg", "/m/019_rr" ],
+    "topicCategories" : [ "https://en.wikipedia.org/wiki/Pet", "https://en.wikipedia.org/wiki/Lifestyle_(sociology)", "https://en.wikipedia.org/wiki/Hobby" ]
+  }
+} ]

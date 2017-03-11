@@ -1,0 +1,93 @@
+[ {
+  "contentDetails" : {
+    "videoId" : "OZrnTu21G3M",
+    "videoPublishedAt" : "2013-07-10T12:44:20.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/Bx4EdPE_4yBCyAPxZSvM5aE5884\"",
+  "id" : "VVVqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLk9acm5UdTIxRzNN",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "",
+    "playlistId" : "UUjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 0,
+    "publishedAt" : "2013-07-10T12:44:20.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "OZrnTu21G3M"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/OZrnTu21G3M/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/OZrnTu21G3M/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/OZrnTu21G3M/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/OZrnTu21G3M/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/OZrnTu21G3M/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Poftim eroare"
+  },
+  "status" : {
+    "privacyStatus" : "unlisted"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "83ASgJ2IFaQ",
+    "videoPublishedAt" : "2008-09-07T18:32:38.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/-4GHCN_gT7SVHTevr1vt-CaIffU\"",
+  "id" : "VVVqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLjgzQVNnSjJJRmFR",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "well...it's a turtle actually",
+    "playlistId" : "UUjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 1,
+    "publishedAt" : "2008-09-07T18:32:38.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "83ASgJ2IFaQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/83ASgJ2IFaQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/83ASgJ2IFaQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/83ASgJ2IFaQ/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Crazy Turtle hunting fish"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+} ]

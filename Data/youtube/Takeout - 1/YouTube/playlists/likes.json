@@ -1,0 +1,4144 @@
+[ {
+  "contentDetails" : {
+    "videoId" : "HZkGf7EmlyM",
+    "videoPublishedAt" : "2011-03-08T12:55:53.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/4r-ifrGiZdFHe5vy5tOk7j8Ozag\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLkhaa0dmN0VtbHlN",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Black Sun Empire - Eraser\nhttp://soundcloud.com/blacksunempire\nhttp://www.myspace.com/blacksunempire\n\nfrom \"Lights And Wires\"\nbuy it here: http://blacksunempire.bandcamp.com/album/lights-and-wires\n\nArtwork by kentarou\nhttp://konachan.com/post/show/85898/animal-bird-brown_hair-city-clouds-kentarou-phone-",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 0,
+    "publishedAt" : "2016-11-18T18:35:28.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "HZkGf7EmlyM"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/HZkGf7EmlyM/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/HZkGf7EmlyM/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/HZkGf7EmlyM/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/HZkGf7EmlyM/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/HZkGf7EmlyM/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Black Sun Empire - Eraser [HQ]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "HyRnf7CkSyI",
+    "videoPublishedAt" : "2015-03-27T14:32:43.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/7V6sTz8eW8uW2k5qtYVYYBfwASQ\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLkh5Um5mN0NrU3lJ",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "BARREN EARTH - Set Alight (OFFICIAL VIDEO). Order here:http://smarturl.it/barrenearthCMDISTRO\nhttp://smarturl.it/oltiTUNES\nsmarturl.it/oltAMAZONMP3\nhttp://smarturl.it/oltAMAZON\n\nTaken from the album \"On Lonely Towers\". Century Media Records 2015.",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 1,
+    "publishedAt" : "2016-09-05T21:51:42.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "HyRnf7CkSyI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/HyRnf7CkSyI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/HyRnf7CkSyI/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/HyRnf7CkSyI/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/HyRnf7CkSyI/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/HyRnf7CkSyI/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "BARREN EARTH - Set Alight (OFFICIAL VIDEO)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "xyDkyFjzFVc",
+    "videoPublishedAt" : "2015-07-28T15:17:22.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/Nl3qA1jv1S73BX0A1YnDPdCqE-E\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLnh5RGt5Rmp6RlZj",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Go gives us powerful abstraction through interfaces with no bureaucracy. In my quest to find the right balance between pragmatism and abstraction, I have developed some useful patterns that leverage Go’s interfaces to make code modular, lean and clean.\n\nThis is a hands-on opinionated talk about software craftsmanship and sane abstraction techniques. This is a talk where you’ll learn how to embrace the interface.",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 2,
+    "publishedAt" : "2016-03-20T15:19:00.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "xyDkyFjzFVc"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/xyDkyFjzFVc/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/xyDkyFjzFVc/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/xyDkyFjzFVc/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/xyDkyFjzFVc/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/xyDkyFjzFVc/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "GopherCon 2015: Tomas Senart - Embrace the Interface"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "eEeLVRQYcVA",
+    "videoPublishedAt" : "2016-01-10T16:00:45.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/LX9vrmkquN1XII_kIq6AOr_fFqk\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLmVFZUxWUlFZY1ZB",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Buy the album on one of these sites:\n\nLOUDR: \nhttps://loudr.fm/release/leo-metal-covers-volume-6/SxHek\n\nITUNES:\nhttps://itunes.apple.com/us/album/leo-metal-covers-volume-6/id1072469477\n\nAMAZON:\nhttps://www.amazon.com/gp/product/B01A7MT4FM/ref=sr_1_45_rd?ie=UTF8&child=B01A7MTAKG&qid=1452377545&sr=1-45%3C/a%3E\n\nGOOGLE PLAY:\nhttps://play.google.com/store/music/album/Leo_Leo_Metal_Covers_Volume_6?id=Bvsptp4pjhryx2atfje7oyucuoy&hl=en\n\nFree download link to the Ace of Spades cover here:\nhttps://www.dropbox.com/s/b90jbpjohsvutbz/Ace%20of%20Spades%20Metal.mp3?dl=0\n\nThanks so much for the support folks!",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 3,
+    "publishedAt" : "2016-01-10T16:03:42.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "eEeLVRQYcVA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/eEeLVRQYcVA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/eEeLVRQYcVA/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/eEeLVRQYcVA/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/eEeLVRQYcVA/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/eEeLVRQYcVA/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "ALBUM RELEASE!"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "PsNwl-XjNYQ",
+    "videoPublishedAt" : "2012-10-07T17:27:29.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/Q2iTR-Cl9iPmJ-G9Phe7IVY9t6A\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLlBzTndsLVhqTllR",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Dethklok Dethalbum II Full album. Enjoy.",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 4,
+    "publishedAt" : "2015-12-29T09:20:23.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "PsNwl-XjNYQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/PsNwl-XjNYQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/PsNwl-XjNYQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/PsNwl-XjNYQ/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/PsNwl-XjNYQ/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/PsNwl-XjNYQ/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Dethklok Dethalbum II Full album"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "HswIHVN5D4o",
+    "videoPublishedAt" : "2013-09-03T09:06:38.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/YqgXFWvtByO4OveJcLrH6jG9Ves\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLkhzd0lIVk41RDRv",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "「アウターサイエンス｜じん」\nじん（自然の敵P）2ndALBUM「メカクシティレコーズ」収録楽曲になります。\n\n音楽家・小説家の顔を持つマルチクリエイター\"じん\"が2011年2月17日「人造エ­­ネミー」を動画サイトへ公開し始まった\"カゲロウプロジェクト\"。\n現在では関連動画再生数2000万再生を越える大ヒットを記録。ニコニコ動画、第４回­­動画アワードでは「如月アテンション」がグランプリを受賞。 そして2012年5月に待望ファーストアルバム「メカクシティデイズ」が発売されオリ­­コンウィークリー初登場6位を記録、 続くファーストシングル「チルドレンレコード」はオリコンウィークリー初登場3位を記­­録し「第27回日本ゴールドディスク大賞」 ベスト５ニュー・アーティストを受賞！更に自身執筆の「カゲロウデイズ -in a daze-」が発売され続刊「カゲロウデイズII -a headphone actor-」合わせ70万部を突破！ 月刊少年コミックジーンにて漫画版「カゲロウデイズ」が連載がスタートする等、数々の­­記録を打ち立てた一連の楽曲群\"カゲロウプロジェクト\"待望のセカンド・アルバム、­「­チルドレンレコード」「群青レイン」を再ミックスし、更に新曲を多数追加し、遂に­堂々­の完結編、初回限定盤・通常版の２種、発売！\n\n発売日：2013.05.29\nレーベル：株式会社 ソニーミュージック・ダイレクト\n\n［収録曲］\nロスタイムメモリー、チルドレンレコード(Re Ver.)、夜咄ディセイブ、夕景イエスタデイ、アヤノの幸福理論、群青レイン(Re Ver.)、オツキミリサイタル、マリーの架空世界　他（全13曲収録）",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 5,
+    "publishedAt" : "2015-12-24T15:38:19.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "HswIHVN5D4o"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/HswIHVN5D4o/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/HswIHVN5D4o/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/HswIHVN5D4o/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/HswIHVN5D4o/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/HswIHVN5D4o/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "【じん】アウターサイエンス【MV】"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "jyQXQbFH3P0",
+    "videoPublishedAt" : "2012-09-15T10:39:12.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/Oq_16dD7LpJB7fTTv072Veg0A7U\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLmp5UVhRYkZIM1Aw",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 6,
+    "publishedAt" : "2015-12-02T21:38:22.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "jyQXQbFH3P0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/jyQXQbFH3P0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/jyQXQbFH3P0/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/jyQXQbFH3P0/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/jyQXQbFH3P0/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Abdomene-8 Minute Pentru Un Abdomen Perfect."
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "3vnVzoEz_Zs",
+    "videoPublishedAt" : "2015-11-13T15:55:17.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/dxf9T2SVLqhAl3CuOX0FLQd6h6Q\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLjN2blZ6b0V6X1pz",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Original by Aqua\n\nYou can buy my albums or singles here:\nLOUDR ► http://bit.ly/1YTc7Mk\nITUNES ► http://apple.co/1Lni4PR\nAMAZON ► http://amzn.to/1U2rqUa\nGOOGLE PLAY ► http://bit.ly/1SOd6Nx\n\nFrog Leap Studios Merchandise here:\nUS ► http://bit.ly/1qZ64KP\nEU ► http://bit.ly/1NXI3Zz\n\nBecome a Patreon and get all the songs and support me doing more music covers:\nhttp://www.patreon.com/frogleapstudios\n\nHi there, my name is Leo and I run a studio on the westside of Norway where I record and produce bands, do video work and play live shows. \n\nOn my youtube channel there is lots of videos with covers, gear reviews , studio updates and other shenaningans.\n\nFor my covers I play everything myself as well as record, mix, master, shoot and edit the music & videos.\n\nPlease subscribe if you like what you see/hear and I am forever gratefull to everyone who buys songs so I can keep doing this as a living.\n\nI do not add people I dont know on my personal facebook page, so please follow these links which are my \"fan\" pages:\nYoutube ► http://youtube.com/leolego\nFacebook ► https://www.facebook.com/FrogLeapStudios\nTwitter ► https://twitter.com/FrogLeapStudios\nInstagram ► https://instagram.com/frogleapstudios\nWebsite ► http://frogleapstudios.com\n\nLeo uses:\nChapman Guitars: http://www.chapmanguitars.co.uk\nToontrack: https://www.toontrack.com\nCleartone Strings: http://www.cleartonestrings.com\nAalberg Audio: http://aalbergaudio.com\nTC Helicon: http://www.tc-helicon.com\nOrtega Guitars: http://ortegaguitars.com\n\nContact: \nfrogleapstudios@gmail.com",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 7,
+    "publishedAt" : "2015-11-22T18:47:47.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "3vnVzoEz_Zs"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/3vnVzoEz_Zs/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/3vnVzoEz_Zs/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/3vnVzoEz_Zs/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/3vnVzoEz_Zs/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/3vnVzoEz_Zs/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Barbie Girl (metal cover by Leo Moracchioli)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "gz6CcrmoVf8",
+    "videoPublishedAt" : "2015-09-27T09:57:00.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/AUjtm9X7cFcVUbRAgw3hwduD0uU\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLmd6NkNjcm1vVmY4",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Monuments live @ Rockstadt Extreme Fest 2015, Rasnov, Romania.\n\nMulticam editing by Andrei Calmuc\n\nAll music rights belong to Monuments\n\nhttps://www.facebook.com/thisismonuments\n\nOfficial website fest:\nhttp://www.rockstadtextremefest.ro\nOfficial facebook fest:\nhttps://www.facebook.com/rockstadtextremefest",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 8,
+    "publishedAt" : "2015-09-27T10:53:59.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "gz6CcrmoVf8"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/gz6CcrmoVf8/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/gz6CcrmoVf8/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/gz6CcrmoVf8/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/gz6CcrmoVf8/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/gz6CcrmoVf8/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Monuments - Live at Rockstadt Extreme Fest 2015 | HD"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "3zx1ZtxUbGE",
+    "videoPublishedAt" : "2015-06-03T12:07:00.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/B11Yvz5-9TD6mM5xsFDKy496QgM\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLjN6eDFadHhVYkdF",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Pre-order \"Blessed & Possessed\" now: \nhttp://www.powerwolf.napalmrecords.com\nDownload on iTunes: http://smarturl.it/BlessedPossessedDL\n\nAfter their critically acclaimed number 1-CHART-album „Preachers Of The Night“ POWERWOLF are back with their the new masterpiece „Blessed & Possessed“. The density of hits and anthems on their sixth epic is nearly unchristianly - firing hit after hit. The Mystic and bombastic title track “Blessed & Possessed” enthralls the listener from the beginning and leads to a top-flight direction, by presenting metal hymns with emotiveness and pure magic. POWERWOLF are bursting with imagination, they have cultivated their well proven trademarks and deliver first class Power Metal („Dead until dark“), the finest Speed Metal („Christ & combat“), great Hard Rock trips („Sacramental sister“) and even orchestral madness („Let there be night“).\n\nRelease Dates: \nG/A/S/Europe/AUS: 10.07.2015\nUK/NO/FR/DK/IT:  13.07.2015\nSE/ESP: 15.07.2015\nUSA/CAN: 10.07.2015\n\nPOWERWOLF will present Blessed & Possessed live at their \"Wolfsnächte Tour 2015\":\n\n03.09.15 CH - Pratteln / Z7\n04.09.15 DE – Speyer / Halle 101\n05.09.15 DE – Köln / Live Music Hall\n09.09.15 UK – London / 02 Academy Islington\n10.09.15 FR – Paris / Trabendo\n11.09.15 CH - Vevey / Rocking Chair\n12.09.15 FR – Strasbourg / La Laiterie\n01.10.15 DE – Bremen / Aladin\n02.10.15 DE – Oberhausen / Turnbinenhalle\n03.10.15 DE – Hamburg / Grosse Freiheit\n22.10.15 DE – Berlin / C-Club\n23.10.15 DE – Leipzig / Hellraiser\n24.10.15 DE – München / Backstage\n29.10.15 DE – Ravensburg / Oberschwabenhalle\n30.10.15 DE – Geiselwind / Music Hall\n31.10.15 DE – Stuttgart / LKA Longhorn\n07.11.15 DE – Saarbrücken / Garage\nTickets: http://bit.ly/17SkZfZ",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 9,
+    "publishedAt" : "2015-09-23T17:37:53.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "3zx1ZtxUbGE"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/3zx1ZtxUbGE/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/3zx1ZtxUbGE/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/3zx1ZtxUbGE/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/3zx1ZtxUbGE/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/3zx1ZtxUbGE/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "POWERWOLF - Armata Strigoi (Official Lyric Video) | Napalm Records"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "QDDwwePbDtw",
+    "videoPublishedAt" : "2013-05-18T16:44:03.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/ToUTV8L7AOuWP64y-UukYbtK2MA\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLlFERHd3ZVBiRHR3",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Sameer Ajmani \n\nConcurrency is the key to designing high performance network services. This talk expands on last year's popular Go Concurrency Patterns talk to dive deeper into Go's concurrency primitives, and see how tricky concurrency problems can be solved gracefully with simple Go code.\n\nFor all I/O 2013 sessions, go to https://developers.google.com/live",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 10,
+    "publishedAt" : "2015-09-23T10:05:07.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "QDDwwePbDtw"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/QDDwwePbDtw/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/QDDwwePbDtw/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/QDDwwePbDtw/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/QDDwwePbDtw/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/QDDwwePbDtw/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Google I/O 2013 - Advanced Go Concurrency Patterns"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "4-WqkCZ7p-o",
+    "videoPublishedAt" : "2012-10-18T09:50:06.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/iQFbcIhYqHAz0bRY90FIim2DM_U\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLjQtV3FrQ1o3cC1v",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "---------------------------Disclaimer--------------------------\n\"Copyright Disclaimer Under Section 107 of the Copyright Act 1976,\nallowance is made for 'fair use' for purposes such as criticism, \ncomment, news reporting, teaching, scholarship, and research. \nFair use is a use permitted by copyright statute that might otherwise be infringing.Non-profit, educational or personal use tips the balance in favor of fair use.\"\n\nAll audio and third party content in this video belong to their rightful owners.\n________________________________________\n\nGintama OST 2 :\nSong Track : 31 - Jinsei wa Belt Conveyor no You\nBy : Kamagata Eiichi\nAnime : Gintama\n\nThere are some missing OST because (example) 01 - Temeera! Hajimeruzee!, is when Gintama the anime shows the title of the Episode. Other Various are Short OPs, EDs and commercial break.\n\nShort OPs and EDs last for a minute and I'm pretty sure people rather listen to the full length ones (2~6mins).",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 11,
+    "publishedAt" : "2015-09-18T14:51:50.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "4-WqkCZ7p-o"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/4-WqkCZ7p-o/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/4-WqkCZ7p-o/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/4-WqkCZ7p-o/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Gintama OST 2 : 31 Jinsei wa Belt Conveyor no You"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "5wa9J7iXOh0",
+    "videoPublishedAt" : "2012-01-18T16:49:30.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/7GF7iHqP1MpJ3Tn4wILfWgzhrKU\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLjV3YTlKN2lYT2gw",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 12,
+    "publishedAt" : "2015-09-16T13:34:58.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "5wa9J7iXOh0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/5wa9J7iXOh0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/5wa9J7iXOh0/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/5wa9J7iXOh0/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/5wa9J7iXOh0/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Hangouts On Air: Google Recruiters Share Resume Tips & Tricks"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "noScmXCbQAk",
+    "videoPublishedAt" : "2014-05-21T06:03:52.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/mvv5A17fhSmHo-tkzYSb9-hZq0o\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLm5vU2NtWENiUUFr",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "\"Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"\n0:00 Murmaider\n3:25 Go Into The Water\n7:45 Awaken\n11:23 Bloodrocuted \n13:41 Go Forth And Die\n18:03 Fansong\n20:56 Better Metal Snake\n24:22 The Lost Vikings \n28:50 Thunderhorse\n31:34 Briefcase Full Of Guts\n34:19 Birthday Dethday\n37:07 Hatredcopter\n40:04 Castratikron\n43:01 Face Fisted\n47:18 Dethharmonic\n51:49 Deththeme\n52:23 Duncan Hills Coffee Jingle\n53:39 Blood Ocean\n56:29 Murdertrain A Comin'\n1:00:01 Pickles Intro\n1:00:36 Kill You\n1:04:17 Hatredy\n1:08:34 Dethklok Gets In Tune",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 13,
+    "publishedAt" : "2015-09-02T23:29:47.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "noScmXCbQAk"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/noScmXCbQAk/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/noScmXCbQAk/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/noScmXCbQAk/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/noScmXCbQAk/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/noScmXCbQAk/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Dethklok-The Dethalbum Deluxe Edition + Bonus CD Full Album HD"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "C3aSamiv2F0"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/skU7A3fa7RVcnRI8aaDZRzShLBo\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLkMzYVNhbWl2MkYw",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "This video is unavailable.",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 14,
+    "publishedAt" : "2015-04-08T15:31:05.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "C3aSamiv2F0"
+    },
+    "title" : "Deleted video"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "HzWRWQRB3FM",
+    "videoPublishedAt" : "2014-04-29T15:17:10.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/_Jb0fwY4X7Ie-NEuYpg3dnaLc9A\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLkh6V1JXUVJCM0ZN",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "You clicked on a [RO]manian video. This started out as a Romaian channel back at the end of 2013. In 2016 I decided to move exclusively to producing English content, but I decided to leave these here for my people to enjoy. So stop whining and click the RED annotation or the card at the start of the episode to go to the English shows. https://youtube.com/user/ROMERCIAL\nEpisodul 11, Splat!\nSpoturi/Reclame: Dacia, Tocmai.ro, Ciocolata ROM (Kandia)\nRomercial Facebook la: https://www.facebook.com/ROMERCIAL",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 15,
+    "publishedAt" : "2015-04-01T22:33:17.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "HzWRWQRB3FM"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/HzWRWQRB3FM/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/HzWRWQRB3FM/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/HzWRWQRB3FM/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/HzWRWQRB3FM/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/HzWRWQRB3FM/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "[RO] Căpșuni pentru multe guri || Romercial S.01 Ep.11"
+  },
+  "status" : {
+    "privacyStatus" : "unlisted"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "zZkyCzEj9vg",
+    "videoPublishedAt" : "2010-03-06T15:08:45.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/stwgbylbo2F94I6Q9x7wwYNWEdY\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLnpaa3lDekVqOXZn",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Lyrics:\r\n\r\n A black shape sits on a deck in a red glistening puddle,\r\nsobbing and shaking, curled up in a huddle.\r\nThe shape of a man amidst silence and slaughter,\r\nclothes torn and drenched in blood and salt water.\r\n\r\n\"His fortune to dust, his fortune to dust!\r\nHis triumph in vain, his triumph in vain!\r\nRiches to ashes! His tears lost in rain!\"\r\n\r\nA ship made of mist like quicksilver thread.\r\nThis skeleton vessel sings songs for the dead.\r\nTo take a deep breath and set his mind back in motion,\r\nhe stumbles upright and fumbles to the prow.\r\n\r\nHis eyes now closed to hear his dear ocean,\r\nhe feels the world has altered somehow.\r\nDeafening silence, the ocean seems gone.\r\nHardly a whisper nor notes of wind song\r\n\r\n\"His fortune to dust, his fortune to dust!\r\nHis triumph in vain, his triumph in vain!\r\nRiches to ashes! His tears lost in rain!\"\r\n\r\nIn a final attempt to end this bitter roam,\r\nhe looks at the stars with their comforting glare.\r\nBut the lights above that once guided him home,\r\nscattered and shattered, are no longer there.\r\n\r\nNow dawning upon him like rays of the sun,\r\nhis state and fate cannot be undone.\r\nThe captain now trapped on this skeleton vessel,\r\nadrift on the void in a black floating castle.\r\n\r\nChained to a twilight and bound to his boat,\r\nswearing his vengeance on others afloat.\r\nLights at the end that have the world in their grip.\r\nHe shall have his conquest\r\nas death came through a phantom ship!",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 16,
+    "publishedAt" : "2015-02-12T00:09:06.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "zZkyCzEj9vg"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/zZkyCzEj9vg/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/zZkyCzEj9vg/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/zZkyCzEj9vg/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Carach Angren-The Shining Was a Portent of Gloom"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "7_Ne6AUTiSY",
+    "videoPublishedAt" : "2014-06-01T05:17:03.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/C4OTa8F1w2ai0clp52CG34P7JXg\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLjdfTmU2QVVUaVNZ",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Anime: Fate/Zero, Guilty Crown, Shingeki no Kyojin, Evangelion, Naruto, Gintama, Fairy Tail, One Piece\nMusic: Existence - Audiomachine\nVietsub: Cero\n\nFanpage: https://www.facebook.com/amvvietnam\nVimeo: https://vimeo.com/user24879683\nWebsite: http://amvvietnam.tk\n________________________________________\nSoftware: Aegisub, MeGUI\n\nSource: http://www.bilibili.tv/video/av1157281/",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 17,
+    "publishedAt" : "2015-01-11T15:15:31.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "7_Ne6AUTiSY"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/7_Ne6AUTiSY/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/7_Ne6AUTiSY/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/7_Ne6AUTiSY/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/7_Ne6AUTiSY/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "【MAD】 ASMV What you are living for [Vietsub]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "9dPUzmWms04",
+    "videoPublishedAt" : "2014-05-13T16:58:24.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/E_UByZzRVqivOCkj0UMLnFMA-VU\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLjlkUFV6bVdtczA0",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "coldrain's album 'The Revelation' is out now!\n►Get it on iTunes: http://smarturl.it/therevelation\n-----\nLyrics:\n\nlie after lie\nthe truth is abused by the wise \nblinded by pride, losing all sight\nwe never question all the answers\ncan't you see it's time to draw the line\nbefore all that's left is nothing but demise\nopen your eyes\n\nwe can't breathe we can't bleed\nsurrounded by the enemy \nthe war is on, the war is on\nwe can't eat we can't sleep\nuntil we make them scream defeat\nthe war is on \n\nthe war is on, so fight till you drop\nstand your ground and never give up \ndon't give up\n\nwe will not die young\nwith a hole in our hearts \nthere is no salvation\nwe will not die young\nuntil the battle is won\n\nwe can't breathe we can't bleed\nsurrounded by the enemy \nthe war is on, the war is on\nwe can't eat we can't sleep\nuntil we make them scream defeat\nthe war is on \n\nwhen darkness turns to light\n will we see ourselves and know\nwe're still alive\n\nwe can't breathe we can't bleed\nsurrounded by the enemy \nthe war is on, the war is on\nwe can't eat we can't sleep\nuntil we make them scream defeat\nthe war is on \n\nso let us sing, the war is on\n----\nSubscribe for more great videos: http://hopel.es/HRYouTube\nFollow Hopeless Records on Twitter: @HopelessRecords\nFollow coldrain on Twitter: @coldrain_jp\nFollow coldrain on Facebook: https://www.facebook.com/coldrainofficial\n\nhttp://coldrain.jp/\nhttp://www.hopelessrecords.com",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 18,
+    "publishedAt" : "2014-06-26T09:51:14.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "9dPUzmWms04"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/9dPUzmWms04/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/9dPUzmWms04/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/9dPUzmWms04/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/9dPUzmWms04/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/9dPUzmWms04/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Coldrain - The War Is On (Official Music Video)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "9qlA9D4caXE",
+    "videoPublishedAt" : "2008-10-12T21:28:49.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/CEHMLEDjk98qacr7BVIDmKzGTPw\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLjlxbEE5RDRjYVhF",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Joe Satriani - Hands in the air",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 19,
+    "publishedAt" : "2014-04-27T12:59:05.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "9qlA9D4caXE"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/9qlA9D4caXE/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/9qlA9D4caXE/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/9qlA9D4caXE/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Joe Satriani - Hands in the air"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "OAq7iFhpeOU",
+    "videoPublishedAt" : "2012-11-22T20:45:57.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/cWuXN-be04mcRN6D3Qo7zgKduxs\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLk9BcTdpRmhwZU9V",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "All Rights Reserved to its owner ( All that remains).\nI DO NOT OWN THIS VIDEO AND THE MUSIC ON IT.\n\nThe purpose of my videos is to promote the bands and their albums. Most of the bands/albums posted here are stuffs that I like and listen to..\nI'm just sharing them to let others know about these great bands and hopefully buy their albums and merchandise.\nSo if you like a band, then go buy their albums so they can continue making more music for us to enjoy.",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 20,
+    "publishedAt" : "2014-03-26T20:27:10.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "OAq7iFhpeOU"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/OAq7iFhpeOU/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/OAq7iFhpeOU/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/OAq7iFhpeOU/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/OAq7iFhpeOU/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/OAq7iFhpeOU/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "TRIVIUM - Watch The World Burn [New] VIDEO 2012"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "KwdcFVsmYtU",
+    "videoPublishedAt" : "2014-01-18T07:50:21.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/aZRnlihz-xpfktHu1MHH5TYaFic\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLkt3ZGNGVnNtWXRV",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "http://amonamarth.com/\n**NEW VERSION WITH STEREO AUDIO AT: http://www.youtube.com/watch?v=hv13U4VewFo\n\nOrder at: http://www.metalblade.com/amonamarth\nAmon Amarth's video for \"Father of the Wolf\" from the album \"Deceiver of the Gods\".\n\nScreenplay By: Daniel J.W. Hughes\nStory By: Ramon Boutviseth\nStarring: Davis Osborne & Ryan Barringer\nExecutive Producers: Brian Slagel & Justin Arcangel\nProduced & Directed by Ramon Boutviseth\n\n\"Amon Amarth\" \"Father of the Wolf\" \"Deceiver of the Gods\" \"Metal Blade Official\"",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 21,
+    "publishedAt" : "2014-03-26T20:23:10.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "KwdcFVsmYtU"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/KwdcFVsmYtU/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/KwdcFVsmYtU/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/KwdcFVsmYtU/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/KwdcFVsmYtU/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/KwdcFVsmYtU/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Amon Amarth \"Father of the Wolf\" (OFFICIAL VIDEO)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "VFE6aCdqVrg",
+    "videoPublishedAt" : "2011-01-31T01:54:03.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/AeJLqNbkJibLmwP4xVK3aHXuyrQ\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLlZGRTZhQ2RxVnJn",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Album: Durarara!! Original Soundtrack [Vol.1]\nInterprete: Makoto Yoshimori.\nAño: 2010",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 22,
+    "publishedAt" : "2014-02-14T00:00:45.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "VFE6aCdqVrg"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/VFE6aCdqVrg/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/VFE6aCdqVrg/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/VFE6aCdqVrg/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Durarara!! OST [Vol.1] The Sought-after Extraordinary #02"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "8lZmSrhQn8I",
+    "videoPublishedAt" : "2009-12-04T19:16:23.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/Q9ACIELFO9Rl6bMOKUPU8vPiqcY\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLjhsWm1TcmhRbjhJ",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "I have just released my debut album, \"Into The Moonlight\", on Elusive Sound Entertainment Records! To check it out and buy please go to my website:\r\nhttp://www.ericmaldonado.com\r\n\r\nPLEASE READ IN FULL:\r\nWell Its that time of year again!!\r\n\r\n\r\nHere is my annual Christmas guitar video, I spent a lot of time working\r\non this arrangement and I really like the way it came out. I hope you do too :-)\r\n\r\n\r\nThere are a lot of overdubs and cool little things happening throughout the tune, such as the \r\nCarol of the Bells section, there is about\r\n6 guitars in it! and the Joy to the World intro has some nice panning and stacking(not sure if you'll be able to hear it knowing YouTube).\r\n\r\n* Please visit my website for information about me, my playing history, endorsements, pics and other cool stuff!\r\nhttp://www.ericmaldonado.com/\r\n\r\n\r\n\r\n* This work is copyright protected:\r\nhttp://myfreecopyright.com/registered_mcn/CAX8S_VGBJE_KGELH\r\nPlease contact me for permission to use this song.\r\n\r\n\r\n______________________________________________\r\n\r\n\r\n\r\nNow for the gear heads.\r\n\r\nI recorded all guitar and bass tracks using my Line 6 POD X3, AMT DT-2, HALO Morbus 6 & my sisters Ibanez EX series Bass.\r\nI also used many Virtual Instrument plug ins\r\nand used Pro Tools (DAW software) to record, mix, program, and master the tracks on my computer(PC running Windows XP).\r\nNote that in the video I'm simply demonstrating how to play the main guitar parts.\r\n\r\nSpecial thanks goes to PetrucciFever!\r\nhttp://www.youtube.com/user/PetrucciFever\r\n\r\nIf it wasn't for his White Christmas video I would probably never have done this.\r\nPlease download his FREE album. You will LOVE it!\r\nhttp://rapidshare.com/files/180475697/PetrucciFever_s_Guitarified.rar\r\n\r\n\r\n\r\n\r\nFind me/become a fan/visit me on:\r\nFacebook:\r\nhttp://www.facebook.com/pages/Eric-Maldonado/43523860059?ref=ts\r\n\r\nMyspace:\r\nhttp://www.myspace.com/ericmaldonadorocks\r\n\r\n\r\nReverbnation:\r\nhttp://www.revernation.com/ericmaldonado\r\n\r\n\r\n____________________________________________\r\nThanks for watching my video. Please let me know what you think!\r\n\r\n\r\nI hope everyone is doing well and having a great Holiday season!\r\n\r\nMerry Christmas!!!\r\n-Eric\r\nwww.EricMaldonado.com",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 23,
+    "publishedAt" : "2013-12-24T14:44:17.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "8lZmSrhQn8I"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/8lZmSrhQn8I/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/8lZmSrhQn8I/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/8lZmSrhQn8I/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/8lZmSrhQn8I/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/8lZmSrhQn8I/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "- Christmas Carol Rock!! Hard Rock Electric Guitar! - Eric Maldonado -"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Tx8aZJMK8mo",
+    "videoPublishedAt" : "2013-12-12T15:38:02.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/0Z5Tf-3uV4J9GMPaTVp7HlHMKCc\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLlR4OGFaSk1LOG1v",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Free Download: http://bit.ly/18Ei196\n\nBecome a fan of Crystal Skies\nFB: https://facebook.com/crystalskiesofficial\nSoundcloud: http://soundcloud.com/crystalskies\n\nArtwork by Sakura Ai\nArtwork link: http://bit.ly/1cDrCBG\n------------------------------------------------------------\nStay connected with us\nFB: http://on.fb.me/tWNN6B\n@epicnetwork\nGoogle+ http://google.com/+EpicNetworkMusic\nSoundcloud: http://snd.sc/1hQlDce\n------------------------------------------------------------\nTrack's title: Crystal Skies - Paradise Lost (Feat. Abigail)",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 24,
+    "publishedAt" : "2013-12-14T10:14:53.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Tx8aZJMK8mo"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Tx8aZJMK8mo/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Tx8aZJMK8mo/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Tx8aZJMK8mo/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/Tx8aZJMK8mo/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Crystal Skies - Paradise Lost (Feat. Abigail)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "bZ1DlJxsUg8",
+    "videoPublishedAt" : "2013-11-07T18:57:13.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/fYwgMrvuLW3wOPqXhDgO6IVXWO4\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLmJaMURsSnhzVWc4",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "bestamvsofalltime anime music video (amv)\nAnimegraphy 2013 amv edited by qyll. All Animegraphy here https://www.youtube.com/playlist?list=PLlts7S-MKOl3gyAkUSGp39Nsqy90nre_A\n\nLatest amv in this playlist - https://www.youtube.com/playlist?list=PLlts7S-MKOl1rnANNQlylKHI5S6Jt7CJ3\n\nMusic - The Temper Trap - Love Lost, The Vaccines - If You Wanna, The XX - Intro\nAnime - https://www.facebook.com/photo.php?fbid=466596433456359&set=a.288868661229138.67491.288858587896812&type=1 (Facebook post). There's also the comments & the video it's self will normally have this information within. I can't type the anime name here.\n\nFacebook for latest amv with all information - http://www.facebook.com/Icanonlycarry10lolisatatime\n\namv editors channel - n/a\n\n ♫ ♫ ♫ ♫ ♫ ♫ ♫ ♫ ♫ ♫ ♫ ♫\n\nAll AMV (anime music video) - https://www.youtube.com/playlist?list=PLlts7S-MKOl1rnANNQlylKHI5S6Jt7CJ3\n\nAction amv (anime music video) - https://www.youtube.com/playlist?list=PLC877BB0D11085A63\n\nDance & Fun amv (anime music video) - https://www.youtube.com/playlist?list=PL67595BA2D682318B\n\nDrama & Sentimental amv (anime music video) - https://www.youtube.com/playlist?list=PL0F26AE09BFF68969\n\nOther amv (anime music video) - https://www.youtube.com/playlist?list=PLF3BB68F0B2C0BA64\n\nCrossover amv (anime music video) - https://www.youtube.com/playlist?list=PLlts7S-MKOl0D9ubx7T2Zn-OdNFJ8Jdhg\n\nThe Best amv (anime music video) - https://www.youtube.com/playlist?list=PL1E98A898C6C495E9\n\nPlaylists are a rough categorization. For example if an amv is primarily a fun, romantic character profile, it will probably be listed under Dance & Fun just because of the fun side.\n\n ♫ ♫ ♫ ♫ ♫ ♫ ♫ ♫ ♫ ♫ ♫ ♫\n\nBestamvsofalltime is a chain of channels for showcasing ''better then average'' amv. To me this can involve many things but it's not limited to only godly editing.\n\nhttps://www.youtube.com/user/TheBestAMVsOfAllTime/channels?view=60",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 25,
+    "publishedAt" : "2013-11-26T21:54:13.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "bZ1DlJxsUg8"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/bZ1DlJxsUg8/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/bZ1DlJxsUg8/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/bZ1DlJxsUg8/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/bZ1DlJxsUg8/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/bZ1DlJxsUg8/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "AMV - Animegraphy 2013 - Bestamvsofalltime Anime MV ♫"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "WjM6tVi9Y8k",
+    "videoPublishedAt" : "2013-10-27T13:41:24.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/k46D7KEMD97uM2YDgGvtg4BV6CE\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLldqTTZ0Vmk5WThr",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Download ''Vanity'' for free\nhttps://soundcloud.com/aleksander-vinter/savant-vanity\n\nBecome a fan of Savant\nFB: https://facebook.com/SavantOfficial\nhttp://savantofficial.com/\n\nArtwork by Niken Anindita\nArtwork link: http://megatruh.deviantart.com/art/these-are-a-few-269339844\n------------------------------------------------------------\nStay connected with us\nFB: http://on.fb.me/tWNN6B\n@epicnetwork\nGoogle+ http://google.com/+EpicNetworkMusic\nSoundcloud: http://snd.sc/1hQlDce\n------------------------------------------------------------\nTrack's title: Savant - Vanity",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 26,
+    "publishedAt" : "2013-11-06T11:16:56.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "WjM6tVi9Y8k"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/WjM6tVi9Y8k/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/WjM6tVi9Y8k/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/WjM6tVi9Y8k/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/WjM6tVi9Y8k/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Savant - Vanity"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "_9Bfj8zQyIQ",
+    "videoPublishedAt" : "2013-10-23T20:19:14.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/9XL81o1P59ko4DD9NtvTHeD7ejc\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLl85QmZqOHpReUlR",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Download Kredo's Cells LP for FREE\nhttps://bitly.com/KREDO-CELLS-FREE\n\nBecome a fan of Kredo\nFB: https://facebook.com/OfficialKredo\n@OfficialKredo\n\nArtwork by Niken Anindita\nArtwork link: http://megatruh.deviantart.com/art/10-000-meters-below-198003382\n------------------------------------------------------------\nStay connected with us\nFB: http://on.fb.me/tWNN6B\n@epicnetwork\nGoogle+ http://goo.gl/txaqJA\nSoundcloud: http://snd.sc/1hQlDce\n------------------------------------------------------------\nTrack's title: Kredo - Gorgeous George",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 27,
+    "publishedAt" : "2013-10-23T21:11:10.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "_9Bfj8zQyIQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/_9Bfj8zQyIQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/_9Bfj8zQyIQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/_9Bfj8zQyIQ/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/_9Bfj8zQyIQ/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Kredo - Gorgeous George"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Yu1zT1KjbPk",
+    "videoPublishedAt" : "2008-09-16T20:01:16.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/UOvPhXSSWSx8dgGPKZtuOfEo14Y\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLll1MXpUMUtqYlBr",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Only music - Nujabes - Battlecry\nI do NOT own ANY content shown in this video. All copyrights go to the rightful owners. Made for entertainment purposes only.",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 28,
+    "publishedAt" : "2013-08-12T13:12:11.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Yu1zT1KjbPk"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Yu1zT1KjbPk/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Yu1zT1KjbPk/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Yu1zT1KjbPk/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Samurai Champloo opening music (FULL)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "bymf0QeHKQk",
+    "videoPublishedAt" : "2013-07-09T12:35:47.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/LzZls2Y8fiZq1Oz1UF3EwN1OYvs\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLmJ5bWYwUWVIS1Fr",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "This is the annoying flickering issue that is commonly caused in windows 8 by a conflicting driver from Nvidia. \n\nI have provided two alternative fixes in this video that you can use to fix yours.\n\nIt has worked for me and i hope that it will work for you all aswell. \n\n1st step: the most successful driver by nvidia is 314.22, this has no issues so far at all but the most recent drivers or the drivers since this driver have all been buggy and has performance issues in them. But if you guys dont wanna revert to this old driver and wanna stick to the new one then do step two.\n\nStep two: plug your HDMi cable into the laptop and let it boot up then as it tries to transmit data to two different screens at once on bootup and eliminates the flickering issue, But this step is temporary.\n\nI have addressed this issue to nvidia but they said they would try to fix it in the upcoming driver releases, which i hope they do.\n\nSo if it helps, pls subscribe to my channel and i will keep you guys posted.\n\nThanks",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 29,
+    "publishedAt" : "2013-07-16T10:06:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "bymf0QeHKQk"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/bymf0QeHKQk/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/bymf0QeHKQk/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/bymf0QeHKQk/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/bymf0QeHKQk/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/bymf0QeHKQk/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Windows 8 flickering issue caused by Nvidia Driver 320.18, 320.49, Fixed in two different ways!"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "gW_eamDKu9w",
+    "videoPublishedAt" : "2013-07-02T18:42:23.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/vm4hmA1mG9gTPCbRlbtWZ9gm0m4\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLmdXX2VhbURLdTl3",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Get it from Beatport: http://www.beatport.com/release/shape-shift/1112648\n\nBecome a fan of Tom Budin\nhttps://www.facebook.com/TomBudinMusic\n\nBecome a fan of Auratic\nhttp://www.facebook.com/TheAuratic\n\nFollow DUSTLA on\nhttps://www.facebook.com/DUSTLA\n------------------------------------------------------------\nArt by Kalkulation\nhttp://kalkulation.deviantart.com/\n\nArtwork source: http://kalkulation.deviantart.com/art/cogwheel-105763541\n------------------------------------------------------------\nOur links\nFacebook: https://www.facebook.com/epicnetworkrecords\nTwitter: https://twitter.com/epicnetwork\nGoogle+ http://goo.gl/uO7n1\nSoundcloud: http://soundcloud.com/epicnetworkrecords\n------------------------------------------------------------\nTrack's title: Tom Budin & Auratic - Shape Shift",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 30,
+    "publishedAt" : "2013-07-04T12:08:23.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "gW_eamDKu9w"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/gW_eamDKu9w/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/gW_eamDKu9w/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/gW_eamDKu9w/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/gW_eamDKu9w/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Tom Budin & Auratic - Shape Shift"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "k9brh-SAfAo",
+    "videoPublishedAt" : "2013-06-24T00:33:32.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/f6Ft1NVNnZE82cQVvvPZNqZ2gys\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLms5YnJoLVNBZkFv",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "✪ ENM Chill & Relax ✪ http://enm.link/ChillNRelax\nSee the official video of Black Cat: http://www.youtube.com/watch?v=K9n8hIjt0rg\nFree Download: https://www.facebook.com/CoyoteKissesMusic/app_220150904689418\n\nBecome a fan of Coyote Kisses\nhttps://www.facebook.com/CoyoteKissesMusic\n------------------------------------------------------------\nArt by Kagaminlover\nhttp://kagaminlover.deviantart.com/\n\nArtwork source: http://kagaminlover.deviantart.com/art/City01-380107552\n------------------------------------------------------------\nOur links\nFacebook: https://www.facebook.com/epicnetworkrecords\nTwitter: https://twitter.com/epicnetwork\nGoogle+ http://goo.gl/uO7n1\nSoundcloud: http://soundcloud.com/epicnetworkrecords\n------------------------------------------------------------\nTrack's title: Coyote Kisses - Black Cat",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 31,
+    "publishedAt" : "2013-07-02T10:47:38.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "k9brh-SAfAo"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/k9brh-SAfAo/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/k9brh-SAfAo/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/k9brh-SAfAo/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/k9brh-SAfAo/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Coyote Kisses - Black Cat"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "2S5jJofL2tg"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/_RL9W6NGl67N9olxsLc49_XfOM0\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLjJTNWpKb2ZMMnRn",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "This video is unavailable.",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 32,
+    "publishedAt" : "2013-06-30T14:22:32.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "2S5jJofL2tg"
+    },
+    "title" : "Deleted video"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Hzi4sUwiO6E",
+    "videoPublishedAt" : "2007-10-12T12:41:46.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/ApzV3DWwKWjBttZJFHa6ds9vkPs\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLkh6aTRzVXdpTzZF",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Great Song.",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 33,
+    "publishedAt" : "2013-06-26T18:17:18.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Hzi4sUwiO6E"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Hzi4sUwiO6E/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Hzi4sUwiO6E/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Hzi4sUwiO6E/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Apocalyptica - Peace"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "DN4r74UeRec",
+    "videoPublishedAt" : "2011-03-18T04:00:45.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/xLQvoDHR5HEdbyyCeHxgSXVazJ0\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLkRONHI3NFVlUmVj",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Music video by Apocalyptica featuring Tomoyasu Hotei performing Grace. (C) 2008 20-20 Entertainment, LLC",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 34,
+    "publishedAt" : "2013-06-26T13:35:05.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "DN4r74UeRec"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/DN4r74UeRec/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/DN4r74UeRec/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/DN4r74UeRec/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/DN4r74UeRec/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/DN4r74UeRec/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Apocalyptica - Grace ft. Tomoyasu Hotei"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "BpeQeSDL_08",
+    "videoPublishedAt" : "2013-06-21T15:35:25.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/vrZYA0cVxxxT7cHlKf4WKohyCOs\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLkJwZVFlU0RMXzA4",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Sign Sakurasou No Pet Na Kanojo petition for season 2: http://goo.gl/Yc3SC\n\nBuy the full track on Beatport: http://www.beatport.com/release/fusk-asker-bully/1111545\n\nBecome a fan of Fusk Asker\nhttps://www.facebook.com/fuskasker\n\nFollow Audiophile Live on\nhttps://www.facebook.com/AudiophileLive\n------------------------------------------------------------\nArt by TempestDH\nhttp://tempestdh.deviantart.com/\n\nArtwork source: http://tempestdh.deviantart.com/art/Shiina-Mashiro-333009478\n------------------------------------------------------------\nOur links\nFacebook: https://www.facebook.com/epicnetworkrecords\nTwitter: https://twitter.com/epicnetwork\nGoogle+ http://goo.gl/uO7n1\nSoundcloud: http://soundcloud.com/epicnetworkrecords\n------------------------------------------------------------\nTrack's title: Fusk Asker - Bully",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 35,
+    "publishedAt" : "2013-06-21T18:39:37.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "BpeQeSDL_08"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/BpeQeSDL_08/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/BpeQeSDL_08/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/BpeQeSDL_08/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/BpeQeSDL_08/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Fusk Asker - Bully"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "XHV72-Bem4g",
+    "videoPublishedAt" : "2013-06-20T16:53:01.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/IVPlsq6WnZekhIRjpvjCbYQHEgw\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLlhIVjcyLUJlbTRn",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Download track: https://www.facebook.com/Felxprod?sk=app_190322544333196\n\nBecome a fan of Felxprod\nhttps://www.facebook.com/Felxprod\n------------------------------------------------------------\nArt by Kurot\nhttp://kurot.deviantart.com/\n\nhttp://kurot.deviantart.com/art/a-world-with-just-you-and-me-140951896\n------------------------------------------------------------\nOur links\nFacebook: https://www.facebook.com/epicnetworkrecords\nTwitter: https://twitter.com/epicnetwork\nGoogle+ http://goo.gl/uO7n1\nSoundcloud: http://soundcloud.com/epicnetworkrecords\n------------------------------------------------------------\nTrack's title: Felxprod - Under The Shadow",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 36,
+    "publishedAt" : "2013-06-20T19:46:17.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "XHV72-Bem4g"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/XHV72-Bem4g/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/XHV72-Bem4g/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/XHV72-Bem4g/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/XHV72-Bem4g/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Felxprod - Under The Shadow"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "aAjFx2aUKAw"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/wYd7LWn6oeoVIo_iTYSeAiDgdwo\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLmFBakZ4MmFVS0F3",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "This video is unavailable.",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 37,
+    "publishedAt" : "2013-06-11T19:39:18.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "aAjFx2aUKAw"
+    },
+    "title" : "Deleted video"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "K3u5h9cPTBw",
+    "videoPublishedAt" : "2009-03-22T14:24:50.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/aKciracUoo_oKJHx3ExLzpL5PiY\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLkszdTVoOWNQVEJ3",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Lyrics & Music: MONORAL\nSung by: MONORAL\nSong: Kiri\n\nYou complete my fate\nThe world unwinds inside of me\nYou complete my fate\nThe halo crawls away\nYou repeat my fate\nRewinding all we can\nYou refill my place\nYou refill my place\nCome and save me\nCome and save me\n\nYou complete my fate\nThe heavens stroll inside of me\nYou repeat my fate\nRevealing who we are\nYou refill my place\nYou refill my place\nCome and save me\n\nBelieve in me\nDrink the wine\nTake my hand\nFill me up\nBelieve in me\nDrink the wine\nTake my hand\nLet me follow",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 38,
+    "publishedAt" : "2013-06-11T15:38:52.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "K3u5h9cPTBw"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/K3u5h9cPTBw/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/K3u5h9cPTBw/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/K3u5h9cPTBw/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Ergo Proxy opening [Full]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "MwHfKw_lsYY",
+    "videoPublishedAt" : "2013-05-28T20:58:42.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/xc3v0TUPuoRz3AQUz7n2CJBSfC0\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLk13SGZLd19sc1lZ",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Get Singularity's Horizon EP on Beatport: http://www.beatport.com/release/horizon-ep/1086590\nDownload Alone (Au5 & Fractal Remix) for free: https://www.facebook.com/FractalMusic/app_208195102528120\n\nBecome a fan of Singularity\nhttps://www.facebook.com/singularitymusic\n\nBecome a fan of Au5\nhttps://www.facebook.com/TheAu5\n\nBecome a fan of Fractal\nhttps://www.facebook.com/FractalMusic\n------------------------------------------------------------\nEpic Network:\nFacebook: https://www.facebook.com/epicnetworkrecords\nTwitter: https://twitter.com/epicnetwork\nGoogle+ http://goo.gl/uO7n1\nSoundcloud: http://soundcloud.com/epicnetworkrecords\n------------------------------------------------------------\nArtwork by Escente\nhttp://escente.deviantart.com/\n\nWallpaper Download: \nhttp://escente.deviantart.com/art/After-School-349860058\n------------------------------------------------------------\nTrack's title: Singularity - Alone (Au5 & Fractal Remix)",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 39,
+    "publishedAt" : "2013-06-08T14:54:05.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "MwHfKw_lsYY"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/MwHfKw_lsYY/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/MwHfKw_lsYY/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/MwHfKw_lsYY/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/MwHfKw_lsYY/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Singularity - Alone (Au5 & Fractal Remix)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "6vjg7dQhARY",
+    "videoPublishedAt" : "2010-03-12T04:30:52.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/mOAvHwWPV_MKZxHyjltzORzeriI\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLjZ2amc3ZFFoQVJZ",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Incredible song from opeth... no more words needed....\n\n\nLyrics:\n\n\nI hear the baying of the hounds\nIn the distance, I hear them devouring\nPest-ridden jackals of the earth\nDiabolical beasts and roaming the forests\nIn wait and constant protectors\nCalling you to sit by his side\nYour self-loathing image in his flesh\nA revelation upon which you linger\n\nHis words are flies\nSwarming towards the true insects\nFeasting on buried dreams\nAnd spreading decay upon your skin\nHis eyes spew forth a darkness\nThat cut through and paralyse\nCasts light upon your secrets\nForced to confront your enemies\n\nHis mouth is a vortex\nSucking you into it's pandemonium\nFools you with a helping hand of ashes\nReached out in false dismay\nHis body is a country\nThe cities lay dead beyond despair\nFriends turned enemies unable to come clean \nIn a rising fog of reeking death\n\nEverything you believed is a lie\nEveryone you loved is a death-burden\nSo you take comfort in him\nAnd you are receptive to stark wishes\nNo longer struggling to declare your stand\nYou would inflict no harm to others\nThey are unaware and in a loop of futile events\nYou are everything, they are nothing\n\nDrown in the deep mire\nWith past desires\nBeneath the mire\nDrown desire now with you\n\nLined up verses on dead skin\n\"The tainted lips of a stranger \nResting upon hers\"\n\nAnd I embrace bereavement\nEverything beloved is shattered anyway\nI would devote myself to anyone\nI would accept any flaws\n\nI am too weak to resist\nTension vibrating with horror\nFinding the outcast in my eyes\nPushing nerves on a puppet\nEndless poison in my veins\nClean intent now tainted with death\n\nAnd so, cold touch now inhumane\nEvery waking hour\nAwaiting a reverie to unfold\nAnd now they are calling me\nLouder by the minute\nThe baying of the hounds\nCalling me back to my home",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 40,
+    "publishedAt" : "2013-06-08T09:02:56.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "6vjg7dQhARY"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/6vjg7dQhARY/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/6vjg7dQhARY/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/6vjg7dQhARY/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "The Baying of the Hounds - Opeth"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "2IznFsOFMzI",
+    "videoPublishedAt" : "2013-05-08T15:20:32.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/NDzIYZwxRATrh8d5OBxJ_5bEvTM\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLjJJem5Gc09GTXpJ",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Wallpaper: http://mmdprogramvocaloid.deviantart.com/art/Angelus-Lapsis-368517664\nFrom / Album: [http://www.chrishaighmusic.co.uk/]\nAuto-Replay: http://hdsoundi.com/video-131\nMusic By: Chris Haigh\n\nWebsite: http://www.chrishaighmusic.co.uk/\nFacebook: https://www.facebook.com/ChrisHaighMusic\nSoundcloud: https://soundcloud.com/chris-haigh\n\nx - - - Note: Our Opinion May Differ - - - x\nAnimeFlow: http://animeflow.net/\nFacebook Fan Page: https://www.facebook.com/HDSounDI\nBackUp Channel: http://www.youtube.com/subscription_center?add_user=thepicore",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 41,
+    "publishedAt" : "2013-05-13T08:10:04.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "2IznFsOFMzI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/2IznFsOFMzI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/2IznFsOFMzI/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/2IznFsOFMzI/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/2IznFsOFMzI/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/2IznFsOFMzI/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Most Epic Music Ever: Epic Courage"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "iGB4CmrgBwA",
+    "videoPublishedAt" : "2013-05-11T15:00:54.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/jVNoquAPgy1Ou3L0d6M-3ET68sc\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLmlHQjRDbXJnQndB",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Get it on iTunes: https://itunes.apple.com/album/skyward-ep/id640102228\nTrackitdown: http://www.trackitdown.net/track/tunedef/skyward/dubstep/5725241.html\nJunodownload: http://www.junodownload.com/artists/Tunedef/releases/\n\nBecome a fan of TuneDEF\nhttps://www.facebook.com/TUNEDEF\n------------------------------------------------------------\nEpic Network:\nFacebook: https://www.facebook.com/epicnetworkrecords\nTwitter: https://twitter.com/epicnetwork\nGoogle+ http://goo.gl/uO7n1\nSoundcloud: http://soundcloud.com/epicnetworkrecords\n------------------------------------------------------------\nArtwork by 1-kilometer\nhttp://1-kilometer.deviantart.com/\n\nWallpaper Download: \nhttp://1-kilometer.deviantart.com/art/N-and-Touko-190837472\n------------------------------------------------------------\nTrack's title: TuneDEF - Chromatic",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 42,
+    "publishedAt" : "2013-05-12T18:24:33.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "iGB4CmrgBwA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/iGB4CmrgBwA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/iGB4CmrgBwA/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/iGB4CmrgBwA/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/iGB4CmrgBwA/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/iGB4CmrgBwA/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "TuneDEF - Chromatic"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "fprusZszOhk",
+    "videoPublishedAt" : "2013-05-07T11:11:56.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/kCT6bfkl5-dr2E9vcIun-jY6gkg\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLmZwcnVzWnN6T2hr",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Get it on Beatport: http://beatport.com/release/thundercolor-ep/1087653\n\nBecome a fan of Coyote Kisses\nhttps://www.facebook.com/CoyoteKissesMusic\n------------------------------------------------------------\nEpic Network:\nFacebook: https://www.facebook.com/epicnetworkrecords\nTwitter: https://twitter.com/epicnetwork\nGoogle+ http://goo.gl/uO7n1\nSoundcloud: http://soundcloud.com/epicnetworkrecords\n------------------------------------------------------------\nArtwork by Jennifer Paras\nhttp://annria2002.deviantart.com\n\nWallpaper Download: \nhttp://annria2002.deviantart.com/art/Athol-and-Riiko-343460261\n------------------------------------------------------------\nTrack's title: Coyote Kisses - This is How You Know",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 43,
+    "publishedAt" : "2013-05-11T11:49:22.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "fprusZszOhk"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/fprusZszOhk/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/fprusZszOhk/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/fprusZszOhk/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/fprusZszOhk/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/fprusZszOhk/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Coyote Kisses - This is How You Know"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "3fCWFvhWuBU",
+    "videoPublishedAt" : "2013-05-02T17:26:39.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/OATqtq6Zvjo9NshIBwTPunrcAfc\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLjNmQ1dGdmhXdUJV",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Get Lock N Bounce's 'Getting Wet' EP on Beatport: http://www.beatport.com/release/getting-wet/1085358\n\nBecome a fan of Lock N Bounce\nhttps://www.facebook.com/Lock.N.Bounce.music\n\nFollow Jet Set Trash Records\nhttps://www.facebook.com/JetSetTrashRecords\n------------------------------------------------------------\nEpic Network:\nFacebook: https://www.facebook.com/epicnetworkrecords\nTwitter: https://twitter.com/epicnetwork\nGoogle+ http://goo.gl/uO7n1\nSoundcloud: http://soundcloud.com/epicnetworkrecords\n------------------------------------------------------------\nArtwork by Soemei\nhttp://673rokunami.deviantart.com/\n\nWallpaper Download: \nhttp://673rokunami.deviantart.com/art/Wareta-Ringo-343795090\n------------------------------------------------------------\nTrack's title: Lock N Bounce - Getting Wet",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 44,
+    "publishedAt" : "2013-05-10T20:11:25.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "3fCWFvhWuBU"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/3fCWFvhWuBU/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/3fCWFvhWuBU/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/3fCWFvhWuBU/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/3fCWFvhWuBU/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/3fCWFvhWuBU/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Lock N Bounce - Getting Wet"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "ZNM0ENUCO5I"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/Ro6X3P1BovFqFCVk6RKFqECcf6M\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLlpOTTBFTlVDTzVJ",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "This video is private.",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 45,
+    "publishedAt" : "2013-05-10T20:04:27.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "ZNM0ENUCO5I"
+    },
+    "title" : "Private video"
+  },
+  "status" : {
+    "privacyStatus" : "private"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "f6vgWn0ehQ0",
+    "videoPublishedAt" : "2013-05-10T18:05:13.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/g3jiHy3-JClo-L5nkNNIcaZEfC8\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLmY2dmdXbjBlaFEw",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Get 'Destroy it' EP on Beatport: http://www.beatport.com/release/destroy-it/1081772\n\nBecome a fan of Black Tiger Sex Machine\nhttps://www.facebook.com/official.btsm\n\nBecome a fan of Urban Contact\nhttps://www.facebook.com/UrbanContact\n\nFollow Kannibalen Records on\nhttps://www.facebook.com/Kannibalen.Records\n------------------------------------------------------------\nEpic Network:\nFacebook: https://www.facebook.com/epicnetworkrecords\nTwitter: https://twitter.com/epicnetwork\nGoogle+ http://goo.gl/uO7n1\nSoundcloud: http://soundcloud.com/epicnetworkrecords\n------------------------------------------------------------\nArtwork by TempestDH\nhttp://tempestdh.deviantart.com/\n\nWallpaper Download: \nhttp://tempestdh.deviantart.com/art/Sexy-girl-359454449\n------------------------------------------------------------\nTrack's title: Black Tiger Sex Machine - Destroy It (Urban Contact Remix)",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 46,
+    "publishedAt" : "2013-05-10T19:32:32.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "f6vgWn0ehQ0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/f6vgWn0ehQ0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/f6vgWn0ehQ0/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/f6vgWn0ehQ0/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/f6vgWn0ehQ0/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/f6vgWn0ehQ0/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Black Tiger Sex Machine - Destroy It (Urban Contact Remix)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "TyJsoZjj_60"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/M5zrcmWGiXCNdLx5q8OmAvxo12Q\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLlR5SnNvWmpqXzYw",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "This video is unavailable.",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 47,
+    "publishedAt" : "2013-05-06T19:19:40.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "TyJsoZjj_60"
+    },
+    "title" : "Deleted video"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "UErBiRMfkt4",
+    "videoPublishedAt" : "2011-12-03T17:03:48.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/9mmEohS0U3nj3LK8HtmaChC9KHs\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLlVFckJpUk1ma3Q0",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Artist: Mudvayne\r\nAlbum: The End of All Things to Come\r\nSong: Trapped In the Wake of a Dream\r\nYear: 2002\r\nTrack Number: 02\r\n\r\nTo buy this album online visit the link below:\r\nhttp://www.amazon.com/End-All-Things-Come/dp/B0000787EO/ref=sr_1_1?ie=UTF8&qid=1322928929&sr=8-1",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 48,
+    "publishedAt" : "2013-05-06T18:40:16.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "UErBiRMfkt4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/UErBiRMfkt4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/UErBiRMfkt4/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/UErBiRMfkt4/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/UErBiRMfkt4/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/UErBiRMfkt4/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Mudvayne - Trapped In the Wake of a Dream"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "ASO_zypdnsQ",
+    "videoPublishedAt" : "2013-04-13T11:59:04.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/yaCk2YdFcoofGiXaXdmgGDC-OZg\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLkFTT196eXBkbnNR",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "PSY - DADDY(feat. CL of 2NE1) M/V @ https://youtu.be/FrG4TEcSuRg\nPSY - 나팔바지(NAPAL BAJI) M/V @ https://youtu.be/tF27TNC_4pc\n\nPSY - 7TH ALBUM '칠집싸이다' on iTunes @ http://smarturl.it/PSY_7THALBUM\n\nPSY - GENTLEMAN on iTunes @ http://smarturl.it/PsyGentlemaniT\n \n#PSY #싸이 #GENTLEMAN #젠틀맨\n\nMore about PSY@\nhttp://www.psypark.com/\nhttp://www.youtube.com/officialpsy\nhttp://www.facebook.com/officialpsy\nhttp://twitter.com/psy_oppa\nhttp://iTunes.com/PSY\nhttp://sptfy.com/PSY\nhttp://weibo.com/psyoppa\nhttp://twitter.com/ygent_official",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 49,
+    "publishedAt" : "2013-05-05T12:38:27.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "ASO_zypdnsQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/ASO_zypdnsQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/ASO_zypdnsQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/ASO_zypdnsQ/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/ASO_zypdnsQ/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/ASO_zypdnsQ/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "PSY - GENTLEMAN M/V"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "DaWmVvKwk4Y",
+    "videoPublishedAt" : "2013-05-03T19:34:52.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/cE1DHrJhrqDiFoAyy2cP2AoRh54\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLkRhV21Wdkt3azRZ",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "✪ ENM Chill & Relax ✪ http://enm.link/ChillNRelax\nGet it on iTunes: https://itunes.apple.com/album/skyward-ep/id640102228\nTrackitdown: http://www.trackitdown.net/track/tunedef/skyward/dubstep/5725241.html\nJunodownload: http://www.junodownload.com/artists/Tunedef/releases/\n\nBecome a fan of TuneDEF\nhttps://www.facebook.com/TUNEDEF\n------------------------------------------------------------\nEpic Network:\nFacebook: https://www.facebook.com/epicnetworkrecords\nTwitter: https://twitter.com/epicnetwork\nGoogle+ http://goo.gl/uO7n1\nSoundcloud: http://soundcloud.com/epicnetworkrecords\n------------------------------------------------------------\nArtwork by Jade Choung\nhttp://www.youtube.com/mzzychan\nhttps://www.facebook.com/mzzazn\nhttp://mzzazn.deviantart.com/\n\nWallpaper Download: \nhttp://mzzazn.deviantart.com/art/snow-stars-327480036\n------------------------------------------------------------\nTrack's title: TuneDEF - Fleeting",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 50,
+    "publishedAt" : "2013-05-04T13:49:24.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "DaWmVvKwk4Y"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/DaWmVvKwk4Y/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/DaWmVvKwk4Y/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/DaWmVvKwk4Y/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/DaWmVvKwk4Y/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/DaWmVvKwk4Y/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "TuneDEF - Fleeting"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "qnydFmqHuVo",
+    "videoPublishedAt" : "2013-04-09T00:15:09.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/Zt2XrOZP-seHEXIcFp_N8zJkjTk\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLnFueWRGbXFIdVZv",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "BLOOPERS: http://www.youtube.com/watch?v=c4UMazLvKco\n\nPatreon: http://full.sc/2hYVmPU",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 51,
+    "publishedAt" : "2013-04-28T08:21:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "qnydFmqHuVo"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/qnydFmqHuVo/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/qnydFmqHuVo/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/qnydFmqHuVo/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/qnydFmqHuVo/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "How Animals Eat Their Food | MisterEpicMann"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "XOeNj3zkSEc",
+    "videoPublishedAt" : "2013-02-09T19:11:00.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/zcmxS0mk5h_XVWH3bmv2GTt7OuU\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLlhPZU5qM3prU0Vj",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Blending the Asian culture.\n\nLocation: unknown\nPerformed by: Strawhatz\nFilm/Edit: 0 FOKUS\nMusic by: HIfana\n\nwww.groundriddim.com\n\nBOOKING INFO: booking@strawhatz.com\n\nLINKS:\n\n\nFacebook: https://www.facebook.com/dancingstrawhats\nInstagram: http://instagram.com/dancingstrawhats\n\nAlso remember to SUBSCRIBE: \nhttps://www.youtube.com/user/dancingstrawhats\n\nThanks for watching!!!=)=)",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 52,
+    "publishedAt" : "2013-04-26T17:17:59.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "XOeNj3zkSEc"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/XOeNj3zkSEc/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/XOeNj3zkSEc/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/XOeNj3zkSEc/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/XOeNj3zkSEc/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/XOeNj3zkSEc/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Strawhatz - A Concept"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "SgHwUh3900U",
+    "videoPublishedAt" : "2013-04-22T13:58:18.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/z1Qzxf5RtWl_x2OkSeoN08MaL30\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLlNnSHdVaDM5MDBV",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Get it on Beatport: http://www.beatport.com/release/chu-va-shy-puerty/1081231\n\nBecome a fan of Tony Core\nhttps://www.facebook.com/Tonycoremusic\n------------------------------------------------------------\nEpic Network:\nFacebook: https://www.facebook.com/epicnetworkrecords\nTwitter: https://twitter.com/epicnetwork\nGoogle+ http://goo.gl/uO7n1\nSoundcloud: http://soundcloud.com/epicnetworkrecords\n------------------------------------------------------------\nArtwork by Dame Tsuna\nhttp://kl-chan.deviantart.com/\n\nWallpaper Download: \nhttp://kl-chan.deviantart.com/art/glomp-attack-177761089\n------------------------------------------------------------\nTrack's title: Tony Core - Chu-Va-Shy",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 53,
+    "publishedAt" : "2013-04-24T14:47:57.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "SgHwUh3900U"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/SgHwUh3900U/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/SgHwUh3900U/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/SgHwUh3900U/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/SgHwUh3900U/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/SgHwUh3900U/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Tony Core - Chu-Va-Shy"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "X6BKBIOtRXw",
+    "videoPublishedAt" : "2009-01-28T00:10:58.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/03MW1MqpYu8HTsOOkEbt_Ma0Xd8\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLlg2QktCSU90Ulh3",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Pendulums single released track showdown from the album 'In Silico'.",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 54,
+    "publishedAt" : "2013-04-16T14:14:49.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "X6BKBIOtRXw"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/X6BKBIOtRXw/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/X6BKBIOtRXw/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/X6BKBIOtRXw/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Pendulum - Showdown (Official Video)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Nx08MK_O_TQ",
+    "videoPublishedAt" : "2012-05-04T09:30:29.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/HSeudbyjjMCAjkRGsv4XZcFyPrI\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLk54MDhNS19PX1RR",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 55,
+    "publishedAt" : "2013-04-10T11:26:14.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Nx08MK_O_TQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Nx08MK_O_TQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Nx08MK_O_TQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Nx08MK_O_TQ/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Pantera - Vulgar Display Of Power ( Full Album )"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "c23ttMF8ZAU",
+    "videoPublishedAt" : "2012-08-24T17:35:57.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/AyYe2fY6J0niNUNXWML1LhTwj1k\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLmMyM3R0TUY4WkFV",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Band: Slayer\nAlbum: Diabolus in Musica\nReleased: June 9, 1998\nGenre: Thrash Metal\n\nTracks:\n1. Bitter Peace [00:00 - 04:32]\n2. Death's Head [04:32 - 08:01]\n3. Stain of Mind [08:01 - 11:27]\n4. Overt Enemy [11:27 - 16:08]\n5. Perversions of Pain [16:08 - 19:40]\n6. Love to Hate [19:40 - 22:45]\n7. Desire [22:45 - 27:03]\n8. In the Name of God [27:03 - 30:42]\n9. Scrum [30:42 - 33:01]\n10. Screaming From the Sky [33:01 - 36:13]\n11. Point [36:13 - 40:26]\n12. Wicked [40:26 - 46:25]\n13. Ungarded Instinct [46:25 - 50:12]\nHeres a link for the lyrics\nhttp://www.darklyrics.com/lyrics/slayer/diabolusinmusica.html#1\nAll Rights to Slayer!\nI do not own any rights!",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 56,
+    "publishedAt" : "2013-04-09T18:53:11.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "c23ttMF8ZAU"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/c23ttMF8ZAU/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/c23ttMF8ZAU/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/c23ttMF8ZAU/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/c23ttMF8ZAU/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/c23ttMF8ZAU/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Slayer - Diabolus In Musica [Full Album]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "cev2VplybkM"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/BNcduds8Z7rRG6hBTs11wx8ufao\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLmNldjJWcGx5YmtN",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "This video is unavailable.",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 57,
+    "publishedAt" : "2013-04-09T18:53:08.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "cev2VplybkM"
+    },
+    "title" : "Deleted video"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "HB_Ertr-PuQ",
+    "videoPublishedAt" : "2012-11-16T16:27:45.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/syeE0SXTVAEax4i4YsZ9bI4aGVY\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLkhCX0VydHItUHVR",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Trivium's new album Vengeance Falls is available now on Roadrunner Records. Download the album on iTunes: http://smarturl.it/vengeancedigital\n\nTrivium on iTunes: http://bit.ly/1aFArZC\nSubscribe: http://www.youtube.com/subscription_center?add_user=trivium\nSite: http://www.trivium.org/\nFanclub: http://www.triviumworld.org\nFacebook: https://www.facebook.com/trivium\nTwitter: https://twitter.com/TriviumOfficial\nInstagram: http://instagram.com/triviumband\n\nDirected by Jonpaul Douglass.",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 58,
+    "publishedAt" : "2013-04-09T12:52:23.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "HB_Ertr-PuQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/HB_Ertr-PuQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/HB_Ertr-PuQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/HB_Ertr-PuQ/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/HB_Ertr-PuQ/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/HB_Ertr-PuQ/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Trivium - Watch The World Burn [OFFICIAL VIDEO]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "lXX7dRULFaE",
+    "videoPublishedAt" : "2013-03-23T10:10:20.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/MAV-m5YNq6o3M5PWODfI5GwsOUY\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLmxYWDdkUlVMRmFF",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "-60FPS VERSION- http://youtu.be/NZfFAPii2gE (YT updated this video to 60fps now, 2 years late)\n\nBestamvsofalltime\nLatest videos here: http://www.facebook.com/Icanonlycarry10lolisatatime\n\nAll the channels I use for uploading are in my channels subscription box on every page or click here: http://tinyurl.com/BestAMVs \n\nEditor - lolligerjoj\n\nAnime & audio used: http://tinyurl.com/pbzmj4y\nlolligerjoj yt: http://tinyurl.com/bmnb6jb\n\nRandom nonsense here: https://twitter.com/#!/bestamvs\n\nIf you cannot watch this video on a mobile device, it's blocked by the copyright owner. Read here for some apps that will still let you watch on mobile devices.\nhttps://www.facebook.com/Icanonlycarry10lolisatatime/posts/447201645395838\n\nPlaylists:\n\nAction - https://www.youtube.com/playlist?list=PLC877BB0D11085A63\nDance & fun - https://www.youtube.com/playlist?list=PL67595BA2D682318B\nDrama & sentimental - https://www.youtube.com/playlist?list=PL0F26AE09BFF68969\nOther - https://www.youtube.com/playlist?list=PLF3BB68F0B2C0BA64\nCrossover - https://www.youtube.com/playlist?list=PLlts7S-MKOl0D9ubx7T2Zn-OdNFJ8Jdhg\nThe best - https://www.youtube.com/playlist?list=PL1E98A898C6C495E9\nStatic MAD - https://www.youtube.com/playlist?list=PLFF886B56352833B7\nAnime MAD - https://www.youtube.com/playlist?list=PL703B7FB941834673\nGame/VN MAD - https://www.youtube.com/playlist?list=PL3EAC0D3A00DE6873\nOpening/Ending Parodies - https://www.youtube.com/playlist?list=PLFB811C20066E9BD1\nMotion Graphics - https://www.youtube.com/playlist?list=PLlts7S-MKOl04S8alBfeNJ5m2oRnLaFl_\nRandom - https://www.youtube.com/playlist?list=PLD241E05C529DF7A3",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 59,
+    "publishedAt" : "2013-03-26T17:39:20.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "lXX7dRULFaE"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/lXX7dRULFaE/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/lXX7dRULFaE/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/lXX7dRULFaE/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/lXX7dRULFaE/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/lXX7dRULFaE/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Into The Labyrinth - Anime MV ♫ AMV"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "wDAlIWgzKMg",
+    "videoPublishedAt" : "2013-03-23T09:31:05.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/IwWq0g7HWN5Tm1ydOe5RUaqkOso\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLndEQWxJV2d6S01n",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Here's my video.\n60FPS download : http://amvnews.ru/index.php?go=Files&in=view&id=4941\n\nMusic: 4:56\nAnime: 4:59\n\nMaking of:\nhttp://youtu.be/Y-WxdvCiT_c (thanks to Pikminiman. It uses the no-effects version, which is linked on the bottom)\n\n\"How I use Twixtor (Motion Interpolation) in AMVs\",\nor \"How I made the Anime look so fluid\":\nhttp://www.animemusicvideos.org/forum/viewtopic.php?f=53&t=120400\n\nEditing-Software:\nAdobe After Effects CS6\n\nPlugins:\nTwixtor\nVideoCopilot Twitch\nVideoCopilot Optical Flares\nTrapcode Shine\nAudio-Software:\nAdobe Audition CS6\n\nThere is a unlisted no-effects-version of this video. If you're not sure what the motion-interpolation does in the AMV, this version really stresses the effect. The comment section over there also serves as a hub for technical and creative questions about the AMV:\nhttp://www.youtube.com/watch?v=uSoPE9W_cRU\n\nAccolades:\nAMV.org Viewer's Choice Awards:\nVideo of the Year\nBest Action Video\nBest Horror Video\nBest Use of Instrumental Music\nNan Desu Kan 2013:\nWinner of Category X \nBest In Show Audience Choice \nBest In Show Editors Choice\nBig Contest 2013: \n2nd Place Overall \nMost Original Video \nBest Editing \nBest Action Video \nBest Horror/Psychedelic Video\nAnime Expo 2013:\nBest Drama/Horror\nSan Japan 2013:\nBest Action\nKumoricon 2013:\nWinner of the \"Intensity\" category\nAudience Choice at the AMV Show 2013 in St. Petersburg",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 60,
+    "publishedAt" : "2013-03-25T20:11:24.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "wDAlIWgzKMg"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/wDAlIWgzKMg/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/wDAlIWgzKMg/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/wDAlIWgzKMg/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/wDAlIWgzKMg/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/wDAlIWgzKMg/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Into The Labyrinth"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "prNYOW0_kms",
+    "videoPublishedAt" : "2013-01-03T00:43:40.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/bUomG0piUsdO_dt-8XnzqXwFjFE\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLnByTllPVzBfa21z",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Ever wondered how a life in Japan might be? 19 foreigners share their personal experiences, likes and dislikes. See the country through the eyes of, mostly western, foreign residents, who have lived in Japan between a few months and several decades. \n\nPlease have a look at my Indigogo campaign to get me a new video camera. https://igg.me/at/videocamera\n\nWithout subtitles: https://www.youtube.com/watch?v=WIkQAPA2BXY\nWith Japanese subtitles: https://www.youtube.com/watch?v=trYqpYHtFPo\nWith Swedish subtitles: https://www.youtube.com/watch?v=DJeEE2TJ5VE\nWith Spanish subtitles: https://www.youtube.com/watch?v=4SRBiMkoNYY\n\nA special edit of the final music: https://www.youtube.com/watch?v=CTiWd7X_cew\n\nHome page: http://www.alifeinjapan.com\nFacebook: https://www.facebook.com/pages/A-Life-in-Japan-Documentary/388307967922654\nMimizukuzu: http://www.mimizukuzu.com",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 61,
+    "publishedAt" : "2013-03-24T17:52:41.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "prNYOW0_kms"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/prNYOW0_kms/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/prNYOW0_kms/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/prNYOW0_kms/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/prNYOW0_kms/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/prNYOW0_kms/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "A Life in Japan - Documentary (English with English subtitles)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "4FDSdg09df8",
+    "videoPublishedAt" : "2012-05-09T16:30:07.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/PZhJYeo16jnL1enkmvIQ-JRJV5o\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLjRGRFNkZzA5ZGY4",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Like VICE News? Subscribe to our news channel: http://bit.ly/Subscribe-to-VICE-News\n\nThe Aokigahara Forest is the most popular site for suicides in Japan. After the novel Kuroi Jukai was published, in which a young lover commits suicide in the forest, people started taking their own lives there at a rate of 50 to 100 deaths a year. The site holds so many bodies that the Yakuza pays homeless people to sneak into the forest and rob the corpses. The authorities sweep for bodies only on an annual basis, as the forest sits at the base of Mt. Fuji and is too dense to patrol more frequently.\n\nOriginally released in 2011 at http://vice.com\n\nNeed help? In the U.S., call 1-800-273-8255 for the National Suicide Prevention Lifeline.\n\nWatch the last VICE Presents here: http://bit.ly/VICE-Presents-011\n\nSubscribe for videos that are actually good: http://bit.ly/Subscribe-to-VICE\nCheck out our full video catalog: http://www.youtube.com/user/vice/videos\nVideos, daily editorial and more: http://vice.com\nLike VICE on Facebook: http://fb.com/vice\nFollow VICE on Twitter: http://twitter.com/vice\nRead our tumblr: http://vicemag.tumblr.com",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 62,
+    "publishedAt" : "2013-03-24T17:35:11.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "4FDSdg09df8"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/4FDSdg09df8/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/4FDSdg09df8/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/4FDSdg09df8/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/4FDSdg09df8/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/4FDSdg09df8/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Suicide Forest in Japan"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "GbHHo6y1gc4",
+    "videoPublishedAt" : "2013-03-14T18:15:03.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/JoVPBBrUbHOdQWe-msUDgYLIqCs\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLkdiSEhvNnkxZ2M0",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Free Download: https://www.facebook.com/SirensCeol?v=app_178091127385\n\nBecome a fan of SirensCeol\nhttps://www.facebook.com/SirensCeol\n\nBecome a fan of The Two Friends\nhttps://www.facebook.com/twofriendsmusic\n------------------------------------------------------------\nEpic Network:\nFacebook: https://www.facebook.com/epicnetworkrecords\nTwitter: https://twitter.com/epicnetwork\nGoogle+ http://goo.gl/uO7n1\nSoundcloud: http://soundcloud.com/epicnetworkrecords\n------------------------------------------------------------\nDeviantArt: http://pancake-waddle.deviantart.com/\n\nWallpaper Download: \nhttp://pancake-waddle.deviantart.com/art/asphyxiate-346135051\n------------------------------------------------------------\nTrack's title: The Two Friends - Your Song (SirensCeol Remix)",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 63,
+    "publishedAt" : "2013-03-14T20:49:14.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "GbHHo6y1gc4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/GbHHo6y1gc4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/GbHHo6y1gc4/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/GbHHo6y1gc4/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/GbHHo6y1gc4/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/GbHHo6y1gc4/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "The Two Friends - Your Song (SirensCeol Remix)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "nKIu9yen5nc",
+    "videoPublishedAt" : "2013-02-26T14:00:29.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/wKYHvufhOkgvetJYpoXpVFkjYhU\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLm5LSXU5eWVuNW5j",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Learn about a new \"superpower\" that isn't being taught in 90% of US schools. \n\nStarring Bill Gates, Mark Zuckerberg, will.i.am, Chris Bosh, Jack Dorsey, Tony Hsieh, Drew Houston, Gabe Newell, Ruchi Sanghvi, Elena Silenok, Vanessa Hurst, and Hadi Partovi. Directed by Lesley Chilcott, executive producers Hadi and Ali Partovi.\n\nCode.org owes special thanks to all the cast and the film crew, and also Microsoft, Google/YouTube, Facebook, Amazon, and Twitter for helping us spread the word\n\n(If you want to help translate to other languages, visit http://www.code.org/translate)",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 64,
+    "publishedAt" : "2013-03-01T12:59:16.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "nKIu9yen5nc"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/nKIu9yen5nc/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/nKIu9yen5nc/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/nKIu9yen5nc/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/nKIu9yen5nc/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "What Most Schools Don't Teach"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "g3TxIYZQn_A",
+    "videoPublishedAt" : "2012-07-18T12:42:23.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/kU0rDH9dzw3UeS-o3AbJ7uHdtZ4\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLmczVHhJWVpRbl9B",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 65,
+    "publishedAt" : "2013-02-10T14:26:48.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "g3TxIYZQn_A"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/g3TxIYZQn_A/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/g3TxIYZQn_A/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/g3TxIYZQn_A/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Ookami-san to Shichinin no Nakama-tachi - Bad Girlfriend"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Wm4jH01Sluc",
+    "videoPublishedAt" : "2013-02-02T18:26:30.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/dFCEFCvGUq1y_8w4HRJW-w9fxWw\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLldtNGpIMDFTbHVj",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Hackintosh Pro vs Mac Pro. It's Part 5, the Finale!\n\nFirst 4 Parts: http://goo.gl/n9iOb\n\nFastest Mac Mini in the World: http://goo.gl/VzTLZ\n\nParts List with Pricing!\n\nIntel Core i7 3930K: http://amzn.to/12yU16D\nCorsair H80i CPU cooler: http://amzn.to/Yhttap\nAsus Sabertooth X79 Motherboard: http://amzn.to/XP7dAB\n2X Corsair Vengeance 16GB RAM kits: http://amzn.to/XP7kMD\n3X 128GB OCZ Vertex 4 SSD's: http://amzn.to/10KuyZS\nGigabyte GTX 670 Windforce Graphics Card:http://amzn.to/13TVOnl\nFractal Newton 1000W PSU: http://amzn.to/W9PNzD\nFractal R4 Case: http://amzn.to/10KIHWX\nNoctua NF-P12 Fan: http://amzn.to/VEq7tJ\nCyborg RAT 9 Mouse: http://amzn.to/XPcK7I\n\nTotal Build Price: http://pcpartpicker.com/p/APnO\n\nDell 30: Monitor: http://amzn.to/XPcLbL\nDell 20\" Monitor in Portrait: http://amzn.to/VErrNa\n\nWindows 8 Pro System Builder: http://amzn.to/Wdz518\n\nFiio E10 DAC: http://amzn.to/10YXVrk\nATH-M50 Headphones: http://amzn.to/Wdzbpr\niKey Audio Studio Monitors: http://goo.gl/F4ccU\n\nOverclocking the Core i7 3930K: http://youtu.be/jFEwRGrFbzk\n\nModding \"About this Mac:\" http://goo.gl/TjUXD\n\nWallpaper: http://goo.gl/yrWdt\n\nIntro Track: \"Splinter\" by Savant\nOutro Track: \"Channel 41\" by Deadmau5\n\n~\nhttp://twitter.com/MKBHD\nhttp://gplus.to/MKBHD\nhttp://facebook.com/MarquesBrownlee\nhttp://facebook.com/MKBHD\nhttp://instagram.com/MKBHD",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 66,
+    "publishedAt" : "2013-02-02T20:50:16.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Wm4jH01Sluc"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Wm4jH01Sluc/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Wm4jH01Sluc/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/Wm4jH01Sluc/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Wm4jH01Sluc/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/Wm4jH01Sluc/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Hackintosh Pro Project! [Part 5: The Finale!]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "QLAw5_S_II0",
+    "videoPublishedAt" : "2008-07-06T20:55:25.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/xIxV2THmCvNe9aHR14UEeW0CU7Y\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLlFMQXc1X1NfSUkw",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Dacian metal from Iasi, Moldavia, Romania",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 67,
+    "publishedAt" : "2013-01-15T19:18:58.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "QLAw5_S_II0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/QLAw5_S_II0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/QLAw5_S_II0/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/QLAw5_S_II0/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Bucovina - Strasnic neamul meu"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "lF_ISeT6On4",
+    "videoPublishedAt" : "2012-03-15T21:31:18.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/19x_BmoXnZdb84VryACsnSll4aY\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLmxGX0lTZVQ2T240",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Share it on Twitter: http://bit.ly/FOgGwH | Facebook: http://on.fb.me/xMj1Qw\nSubscribe for more!: http://bit.ly/sBWb7F | Dubstep T-Shirt: http://bit.ly/HZ1sHI\n\nEpic Network:\nFacebook: https://www.facebook.com/epicnetworkrecords\nTwitter: http://twitter.com/epicnetwork\nGoogle+ http://goo.gl/uO7n1\nSoundcloud: http://soundcloud.com/epicnetworkrecords\n\nTop Best Dubstep March 2012:\n\n00:00 Fatso - Far From Home (Farleon Remix) http://bit.ly/H4hZZg\n05:05 Insan3lik3 - Bad Pitched (Dr. Ozi Rmix) http://bit.ly/HTOvAF\n09:11 Intense - Dawn http://bit.ly/xIKSWC\n12:34 SubVibe & Tide - No Words http://on.fb.me/H4o87B\n\nFollow on Facebook:\n\nFatso: http://on.fb.me/yg1kuv\nFarleon: http://on.fb.me/zLqdxe\nFunkk Sound: http://on.fb.me/uBUWoa\nInsan3lik3: http://on.fb.me/xMHfwM\nDr. Ozi: http://on.fb.me/zeMVU5\nIntense: http://on.fb.me/tE0Gnq\nSubVibe: http://on.fb.me/ACm7Oo\nTide: http://on.fb.me/zDcFa4",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 68,
+    "publishedAt" : "2012-12-09T13:15:12.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "lF_ISeT6On4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/lF_ISeT6On4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/lF_ISeT6On4/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/lF_ISeT6On4/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/lF_ISeT6On4/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/lF_ISeT6On4/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Top Best Dubstep March 2012"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "X96OM7WrMXI",
+    "videoPublishedAt" : "2012-08-26T11:27:21.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/Z2Ywbft09VZSYB9jbSjmcKJ-GZg\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLlg5Nk9NN1dyTVhJ",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "download Chronicles here:\nfortiori.bandcamp.com/album/chronicles\n\nretracked version with the pod hd pro:\nhttp://www.youtube.com/watch?v=TYpiXZxZvpQ\n\na new song for the new album. that´s the basic sound to it. nice and crispy and rough sounding. thanks to Sithu Aye for playing a guest solo in this one. his style just fits perfectly in that section he covered. check his stuff out: http://sithuayemusic.bandcamp.com/\ni think somewhere along the way of rendering the vid the sync of audio and video got a little messed up. sorry about that. hope you can still enjoy the song. just an fyi, this is not the finalized version. that´s all you get to know, though.\n\nhttp://www.facebook.com/ForTiorI.de",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 69,
+    "publishedAt" : "2012-09-19T15:02:16.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "X96OM7WrMXI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/X96OM7WrMXI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/X96OM7WrMXI/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/X96OM7WrMXI/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/X96OM7WrMXI/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "ForTiorI - Redemption Defiled (guest solo by Sithu Aye)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "OsKVlgzDCj4",
+    "videoPublishedAt" : "2012-08-01T18:46:35.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/HYhr__r64L3S6vSWLTN2WHdcvWU\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLk9zS1ZsZ3pEQ2o0",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "THANK YOU ALL FOR YOUR SUPPORT! We're only doing cover songs from now until the album comes out some time this winter. All of the original songs we're writing right now are going toward the album. Enjoy! :) Which song should we cover next?\n\nDOWNLOAD THE SONG HERE:\nhttp://itunes.apple.com/us/album/alien-unplugged-single/id548654804\n\nNEW YFM T-SHIRTS! http://shop.raywj.com/\n\nOUR FACEBOOK: http://www.facebook.com/urfavoritemartian",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 70,
+    "publishedAt" : "2012-08-06T10:52:30.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "OsKVlgzDCj4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/OsKVlgzDCj4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/OsKVlgzDCj4/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/OsKVlgzDCj4/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/OsKVlgzDCj4/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/OsKVlgzDCj4/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "ALIEN (Unplugged)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "vuoYP6WlIJY",
+    "videoPublishedAt" : "2009-05-17T16:41:19.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/z2KHwZcYGkgsp0AV-8NwBO13jw0\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLnZ1b1lQNldsSUpZ",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "A high quality stream of BSE's Boris the Blade.",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 71,
+    "publishedAt" : "2012-06-21T15:12:21.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "vuoYP6WlIJY"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/vuoYP6WlIJY/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/vuoYP6WlIJY/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/vuoYP6WlIJY/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Black Sun Empire - Boris The Blade"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "ZEQH09QgdPI",
+    "videoPublishedAt" : "2011-01-01T18:23:34.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/hGIhTXpu-R0ufag65E7rhdSG7Kw\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLlpFUUgwOVFnZFBJ",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "これは、私の始めて日本語で書いた、オリジナルの歌です。\n\nLike me on facebook or add me as a friend here http://www.facebook.com/MissJewelia\n\n\nThis is the first song I wrote in Japanese..I'm really proud of it. I didn't think I'd be able to pull off some lyrics that actually make sense in such a short time :P Once my knowledge of Japanese will improve, I'm sure I will do better. Enjoy!",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 72,
+    "publishedAt" : "2012-04-23T19:56:10.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "ZEQH09QgdPI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/ZEQH09QgdPI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/ZEQH09QgdPI/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/ZEQH09QgdPI/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Jewelia - Aitai  会いたい"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "UNWFoWgBMKU",
+    "videoPublishedAt" : "2010-05-09T08:25:05.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/I1UD0PLfO-iv569TFp4i-KBzVRc\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLlVOV0ZvV2dCTUtV",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "My new EP containing 5 songs has been released and is available at https://missjewelia.bandcamp.com/\nhttp://www.facebook.com/MissJewelia\nhttps://soundcloud.com/missjewelia   - for original songs\n\nAlso check my \"God Knows\" cover from 'The Melancholy of Haruhi Suzumiya'\nhttp://www.youtube.com/watch?v=i0ty4EfKju4\nMy first original song in Japanese: http://www.youtube.com/watch?v=ZEQH09QgdPI\n\nJanne da Arc cover http://www.youtube.com/watch?v=PXJsJmJ22JI\n\n\n*Death Note Ending 1 - Alumina by Nightmare recorded by me.\nI took the instrumental from here:  http://www.youtube.com/watch?v=NZOMAD98qHo",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 73,
+    "publishedAt" : "2012-04-23T19:56:06.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "UNWFoWgBMKU"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/UNWFoWgBMKU/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/UNWFoWgBMKU/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/UNWFoWgBMKU/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Death Note Closing fandub"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "W20gqMqF4_U",
+    "videoPublishedAt" : "2009-06-10T00:52:30.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/V1G83dFqOcIQ2Sb6BSLbIcCjuaQ\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLlcyMGdxTXFGNF9V",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "from the 2002 album Highvision.",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 74,
+    "publishedAt" : "2012-04-11T09:13:18.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "W20gqMqF4_U"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/W20gqMqF4_U/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/W20gqMqF4_U/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/W20gqMqF4_U/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Storywriter by Supercar"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "1eNFkzXEHUE",
+    "videoPublishedAt" : "2007-09-11T02:48:08.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/9QR3LpYwSqF5NZVLapCREM4YI4E\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLjFlTkZrelhFSFVF",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Disclaimer: I DO NOT OWN THIS MUSIC. THIS VIDEO IS PURELY FANMADE AND IS IN NO WAY ASSOCIATED WITH THE MUSICAL ARTISTS ALL OF THE COPYRIGHTS BELONG TO THEIR RESPECTIVE OWNERS. MY ONLY GOAL WITH THIS IS TO SPREAD THE WORD OF MY FAVORITE BANDS.\n\nToate drepturile apartin MediaPro Music & Cargo",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 75,
+    "publishedAt" : "2012-03-24T19:49:30.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "1eNFkzXEHUE"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/1eNFkzXEHUE/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/1eNFkzXEHUE/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/1eNFkzXEHUE/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Cargo - Daca ploaia s-ar opri"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "dpagaXMC6EY",
+    "videoPublishedAt" : "2011-12-19T12:57:06.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/SaXtEgR6NMthdusMv17n6-ZNEmE\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLmRwYWdhWE1DNkVZ",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "remember when i put up a bulletin in which i said i would upload Nightmares in Daydreams when my latest upload (the two new songs) will get 2k views? ... not important. anyway i´m taking an arrow to the knee and uploaded this song earlier because my latest album \"Triton\" broke the 1000 download mark. HURRAY \\m/\nso freaking enjoy this freaking song and tell your freaking pears to freaking download my freaking album: http://fortiori.bandcamp.com/\ncomment, rate, subscribe and enjoy...",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 76,
+    "publishedAt" : "2012-03-03T21:27:16.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "dpagaXMC6EY"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/dpagaXMC6EY/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/dpagaXMC6EY/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/dpagaXMC6EY/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/dpagaXMC6EY/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "ForTiorI - Nightmares in Daydreams (you asked for it, you got it)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "lkM6VU4XxXo",
+    "videoPublishedAt" : "2011-11-12T16:26:10.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/9P_BScd8JnXo3v5AllxZ2UsUBX4\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLmxrTTZWVTRYeFhv",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "actually today i wanted to make a play through video of two new songs i made, but i got caught up in making this cover of Skrillex´s song Equinox. on top of that the SD card for my camera broke down so i thought i´m just gonna upload this one instead. \r\nthis dubstep song was not easy to transfer into djenty riffs but i guess it didn´t turn out too bad.\r\ncomment, rate and subscribe.\r\nalso download my latest album \"Triton\" for FREE here:\r\nhttp://fortiori.bandcamp.com/\r\nenjoy...",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 77,
+    "publishedAt" : "2012-03-01T13:48:51.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "lkM6VU4XxXo"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/lkM6VU4XxXo/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/lkM6VU4XxXo/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/lkM6VU4XxXo/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/lkM6VU4XxXo/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Skrillex - Equinox (djent cover by ForTiorI)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "XSyLDclz6iM",
+    "videoPublishedAt" : "2012-02-11T19:14:31.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/95y5Y5uIG1S18cwACNq-kya-_uc\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLlhTeUxEY2x6NmlN",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Dubstep metal with a nice breakdown at 1:00\n\nEnjoy listening :-)\n\n---\nmetal rock dubstep dubmetal metalstep heavy breakdown riff best song metalcore mix mixdown nuendo cakewalk bass guitar vocals scream grunt rock hardrock heavy double Nuendo, Fruity Loops, addictive drums, waves GTR 3.0, steinberg virtual instruments for the bass",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 78,
+    "publishedAt" : "2012-03-01T13:48:49.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "XSyLDclz6iM"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/XSyLDclz6iM/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/XSyLDclz6iM/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/XSyLDclz6iM/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/XSyLDclz6iM/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/XSyLDclz6iM/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Dubstep metal - metalstep - brutal breakdown"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "WuyyZiRHh68",
+    "videoPublishedAt" : "2012-02-28T18:03:14.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/_72oETS-2VJynTlP3m_l8DTxLIY\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLld1eXlaaVJIaDY4",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Free Download: http://soundcloud.com/boyinabanddotcom/rock-n-roll-skrillex-djent\nJon's Channel: http://www.youtube.com/user/MojoJojo378\n\nHis metal tutorial (He suggests part 6 as a starting point for non-noobs)\nPart 1: http://www.youtube.com/watch?v=i00E-O0cafA\nPart 6: http://www.youtube.com/watch?v=EYh4kCUj9-w\n\nYou know what will take you to the mountain?   A Djent metal remix / cover of Skrillex's Rock n Roll.   Hope you like this version!\n\nLove this song.\n\nAnd yes, Jon is getting that guitar tone with a bass O_O",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 79,
+    "publishedAt" : "2012-03-01T13:48:47.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "WuyyZiRHh68"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/WuyyZiRHh68/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/WuyyZiRHh68/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/WuyyZiRHh68/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/WuyyZiRHh68/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/WuyyZiRHh68/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Skrillex - Rock n Roll (Djent Metal Cover on Bass Guitar + MPC)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "N1_7rLUKOIE",
+    "videoPublishedAt" : "2011-11-12T18:29:58.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/zhfVqCH7msrOzYRakZh8lVs7rq0\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLk4xXzdyTFVLT0lF",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Crazy cover !! check out his channel : http://www.youtube.com/user/MojoJojo378",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 80,
+    "publishedAt" : "2012-03-01T13:45:30.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "N1_7rLUKOIE"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/N1_7rLUKOIE/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/N1_7rLUKOIE/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/N1_7rLUKOIE/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/N1_7rLUKOIE/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/N1_7rLUKOIE/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Skrillex - Scatta (Djent Metal Version)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "oH-8_-0iygE",
+    "videoPublishedAt" : "2011-10-25T12:56:34.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/USrBgOgUz7BRvPv4_3WCp4v5p-E\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLm9ILThfLTBpeWdF",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Download it here :) - iTunes: http://bit.ly/VKqVMb\nAmazon: http://amzn.to/VAR9ke\nBandcamp: http://boyinaband.bandcamp.com/track/djentstep\n\nhttp://boyinaband.bigcartel.com/ - You can buy the T-Shirt there.\nhttp://www.twitter.com/DavePBrown - Tweet me what genres to mash next!\nhttp://www.boyinaband.com - For mo' vids, tutorials, samples etc.\n\nDjent Metal has always been a passion of mine, So I decided to mash up two of my favourite genres Djent Metal and Dubstep\n\nPolyrhythic Beats and Piercing Basses, side by side.   \n\nAlso, there was post-processing, hence why the guitar magically stutters etc.\n\nhttp://www.noisetrade.com/youandwhatarmy - For anyone wanting more Electronica/Metal crossover tunes, here's my band \"You And What Army\"'s free EP.",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 81,
+    "publishedAt" : "2012-03-01T12:58:31.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "oH-8_-0iygE"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/oH-8_-0iygE/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/oH-8_-0iygE/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/oH-8_-0iygE/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/oH-8_-0iygE/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/oH-8_-0iygE/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "DJENTSTEP (Metal + Dubstep Genre Mash)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "CcQG2Ulm198",
+    "videoPublishedAt" : "2011-12-14T02:18:44.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/qJPdZ8K_3mihNsCtUilHOVqoXvU\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLkNjUUcyVWxtMTk4",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "CLICK TO TWEET! http://clicktotweet.com/4Zpjm :D\n\nSANTA HATES POOR KIDS: http://www.youtube.com/watch?v=U_Q2cXLhHhU\n\nRAY'S TWITTER: https://twitter.com/RayWJ \n\nRAY'S FACEBOOK: http://www.facebook.com/raywilliamjohnson\n\nRAY'S GOOGLE+  http://Gplus.to/RayWJ\n\nSTORE: http://www.raywj.com/shop/\n\nWEBSITE: http://raywj.com\n\n=3 Tshirt Girl: http://twitter.com/TheKylaLeon\n\nEQUALS 3 IN SPANISH: http://www.youtube.com/IgualATres\n\n**********************************************************************\n   Here are the links to the full reviews of the content discussed in this video. Please don't harass the video creators or send them hate-messages. If you like what you see on each of their channels, feel free to subscribe to them. \n:) Thanx:\n\nTRAMPOLINE TRAMPOLINE (CRAZY WINDS)\nhttp://www.youtube.com/watch?v=UPKb9z4l7eM&feature=youtu.be\n\nPlastic Bag Bored Of News Interview\nhttp://www.youtube.com/watch?feature=player_embedded&v=FPzBtvZmk84\n\nTaekwondo \"Finger\" Performance in Korea\nhttp://www.youtube.com/watch?feature=player_embedded&v=X6fDomrm_KE\n\nComment Question\nhttp://www.youtube.com/watch?v=d7U2_fELlLs\n\n---\n\"RAY WILLIAM JOHNSON\" \"Ray William Johnson\" RAYWILLIAMJOHNSON video videos VIDEO VIDEOS  raywilliamjohnson \"ray william johnson\" rwj equals three equalsthree =3 \"equals three\" \"equals 3\" raywiliamjohnson \"ray wiliam johnson\" \"ray williams johnson\" \"Taekwondo \"Finger\" Performance in Korea\" \"Plastic Bag Bored Of News Interview\" \"TRAMPOLINE TRAMPOLINE (CRAZY WINDS)\"",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 82,
+    "publishedAt" : "2011-12-15T12:08:28.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "CcQG2Ulm198"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/CcQG2Ulm198/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/CcQG2Ulm198/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/CcQG2Ulm198/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/CcQG2Ulm198/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/CcQG2Ulm198/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "(Dec, 2011) THE TROLL RETURNS"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "1hBQaDaWi8w",
+    "videoPublishedAt" : "2011-02-10T06:04:28.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/YyGFP-nIOTxe6q-ZgyHUrc13KAo\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLjFoQlFhRGFXaTh3",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "from Slow Transcending Agony album\n2005 \ntrack # 03\nL'ataraxie\nFuneral doom metal \n------------------lyric's----------------\nEvery day this nausea of life is growing\nDeep inside my sickening mind\nLike a cancer these torments weaken me\nAnd will undeniably endanger my life someday\n\nToo proud to confess these sufferings\nI keep on walking with these thorns beneath my feet\nYet the wounds are still there and torture me\nFinally they become completly infected\n\nSo many loveless nights I have spent\nShedding all the tears from my body\nSo many times I have tried to hide\nThese signs of weaknesses on my face\n\nJe voudrais atteindre l'ataraxie que je mérite tant.\nL'absence d'émotions dans cette âme mourante\nQui saura me libérer enfin de ces tourments\n---------------------------------",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 83,
+    "publishedAt" : "2011-09-21T19:20:12.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "1hBQaDaWi8w"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/1hBQaDaWi8w/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/1hBQaDaWi8w/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/1hBQaDaWi8w/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Ataraxie-L'ataraxie"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "iijKLHCQw5o",
+    "videoPublishedAt" : "2008-01-30T11:40:57.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/qR0EskafkDLMf6sB5VZwjE7Xntw\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLmlpaktMSENRdzVv",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Eluveitie \"Inis Mona\" official music video.\nOrder at: http://smarturl.it/ELU-SLA-NB\nSubscribe to Nuclear Blast: http://bit.ly/subs-nb-yt\nSubscribe to Eluveitie: http://bit.ly/subs-eluvtie-yt\n\nORDER AT\nNuclear Blast: http://smarturl.it/ELU-SLA-NB\niTunes: http://georiot.co/2LaN\nAmazon: http://smarturl.it/ELU-SLA-AMZ\nAmazon MP3: http://smarturl.it/ELU-SLA-AMZ-MP3\n\nFrom the 2008 album, Slania, out now via Nuclear Blast Records.\n\nLike: https://www.facebook.com/eluveitie\nFollow: https://twitter.com/eluveitie\nWatch: http://bit.ly/subs-eluvtie-yt\n\n© Nuclear Blast Records",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 84,
+    "publishedAt" : "2011-09-19T17:10:32.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "iijKLHCQw5o"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/iijKLHCQw5o/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/iijKLHCQw5o/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/iijKLHCQw5o/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "ELUVEITIE - Inis Mona (OFFICIAL MUSIC VIDEO)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "gtKhX6Zd_Hk",
+    "videoPublishedAt" : "2008-12-17T15:45:42.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/DMGve0YbQs28Dy4RRQLlzgLBRd0\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLmd0S2hYNlpkX0hr",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "-Lyrics-\nIt seems like you're waiting for nothing,\nLooks like time had deleted it all,\nIt may be everything that could have been was thrown away,\nSo just take what is left, don't somehow fill the space,\nWhen I can see through it, oh I feel safe again,\nI feel warmer...\n\n[Chorus]\nSounds of life outside\nWhy do I retire\nSounds of life outside\nOne by one...\nGot nothing to hide\nOne by one\n\nCouldn't have seen it come, from an inch away,\nBut it's here, right on time,\nWait for the flash of grey and we will feel the same,\nIf we can just drift for a while,\nWhen I'm back on the ground I feel safe again,\nI feel warmer...\n\nSounds of life outside\nWhy do I retire\nSounds of life outside\nOne by one...\nGot nothing to hide\n\nSounds of life outside\nWhy do I retire\nSounds of life outside\nOne by one...\nGot nothing to hide\nOne by one",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 85,
+    "publishedAt" : "2011-07-29T12:32:00.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "gtKhX6Zd_Hk"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/gtKhX6Zd_Hk/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/gtKhX6Zd_Hk/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/gtKhX6Zd_Hk/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Pendulum - Sounds Of Life"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Xw-m4jEY-Ns",
+    "videoPublishedAt" : "2009-10-10T14:33:22.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/_1wU67GrzluIcuOIqU9K3HmP0Jo\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLlh3LW00akVZLU5z",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "http://www.youtube.com/watch?v=HpexC1zFdX4 Check this if you like electronic music!!",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 86,
+    "publishedAt" : "2011-07-17T09:45:18.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Xw-m4jEY-Ns"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Xw-m4jEY-Ns/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Xw-m4jEY-Ns/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Xw-m4jEY-Ns/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Dope - Die Mother Fucker Die"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "9lL4f2I3QPA",
+    "videoPublishedAt" : "2009-10-08T21:25:43.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/0GU994Lpw_f6yxDltNQLqnu51Io\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLjlsTDRmMkkzUVBB",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Disturbed - Run - Bonus Track",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 87,
+    "publishedAt" : "2010-03-11T13:30:28.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "9lL4f2I3QPA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/9lL4f2I3QPA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/9lL4f2I3QPA/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/9lL4f2I3QPA/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Disturbed - Run (HQ)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "j3EUk23J00g",
+    "videoPublishedAt" : "2008-12-02T08:48:24.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/J0gXZQL43tH0YvM1X-XIvK3199s\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLmozRVVrMjNKMDBn",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "La Familia - Cine a zis ca e usor [1998]    ;)",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 88,
+    "publishedAt" : "2009-03-30T15:53:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "j3EUk23J00g"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/j3EUk23J00g/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/j3EUk23J00g/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/j3EUk23J00g/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "La Familia - Cine a zis ca e usor 2012"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "acZn7XbShFA",
+    "videoPublishedAt" : "2009-03-19T02:55:32.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/6RzUGOhZzq1MZJZLutOrz6VFcYQ\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLmFjWm43WGJTaEZB",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Production, mixing and mastering sessions\r\nPuya Romanisme 2009",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 89,
+    "publishedAt" : "2009-03-30T15:51:07.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "acZn7XbShFA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/acZn7XbShFA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/acZn7XbShFA/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/acZn7XbShFA/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "LL's THIS IS LIVIN - Production Puya Romanisme 2009"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "f0gic8DymlI",
+    "videoPublishedAt" : "2009-03-24T09:19:01.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/N0hWcuctwD1ICpzbjEf8CWNlVSo\"",
+  "id" : "TExqSFFZdGFnMFFJd3lzTFc4aWhMLUJRLmYwZ2ljOER5bWxJ",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Puya - Undeva-n Balcani (varianta necenzurata)",
+    "playlistId" : "LLjHQYtag0QIwysLW8ihL-BQ",
+    "position" : 90,
+    "publishedAt" : "2009-03-26T13:03:16.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "f0gic8DymlI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/f0gic8DymlI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/f0gic8DymlI/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/f0gic8DymlI/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Puya - Undeva-n Balcani"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+} ]

@@ -1,0 +1,24 @@
+[ {
+  "contentDetails" : {
+    "videoId" : "WF3j4WytyY4"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/qElRJrDj4np-245rUZ9F5iKRAGo\"",
+  "id" : "UExwNi1CeXYxZjlrTVRYc0d3amVCWEtDTEVuUFoyV1ZGRi41NkI0NEY2RDEwNTU3Q0M2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "This video is unavailable.",
+    "playlistId" : "PLp6-Byv1f9kMTXsGwjeBXKCLEnPZ2WVFF",
+    "position" : 0,
+    "publishedAt" : "2015-07-14T11:50:13.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "WF3j4WytyY4"
+    },
+    "title" : "Deleted video"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+} ]

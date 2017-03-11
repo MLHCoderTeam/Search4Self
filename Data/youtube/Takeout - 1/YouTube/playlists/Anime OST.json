@@ -1,0 +1,93 @@
+[ {
+  "contentDetails" : {
+    "videoId" : "4-WqkCZ7p-o",
+    "videoPublishedAt" : "2012-10-18T09:50:06.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/h2vzWOc_jkdVDOGr196g8GWJr38\"",
+  "id" : "UExwNi1CeXYxZjlrUGFSa3BWQ2dTMnMweXhIWFJHcHhfLS41NkI0NEY2RDEwNTU3Q0M2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "---------------------------Disclaimer--------------------------\n\"Copyright Disclaimer Under Section 107 of the Copyright Act 1976,\nallowance is made for 'fair use' for purposes such as criticism, \ncomment, news reporting, teaching, scholarship, and research. \nFair use is a use permitted by copyright statute that might otherwise be infringing.Non-profit, educational or personal use tips the balance in favor of fair use.\"\n\nAll audio and third party content in this video belong to their rightful owners.\n________________________________________\n\nGintama OST 2 :\nSong Track : 31 - Jinsei wa Belt Conveyor no You\nBy : Kamagata Eiichi\nAnime : Gintama\n\nThere are some missing OST because (example) 01 - Temeera! Hajimeruzee!, is when Gintama the anime shows the title of the Episode. Other Various are Short OPs, EDs and commercial break.\n\nShort OPs and EDs last for a minute and I'm pretty sure people rather listen to the full length ones (2~6mins).",
+    "playlistId" : "PLp6-Byv1f9kPaRkpVCgS2s0yxHXRGpx_-",
+    "position" : 0,
+    "publishedAt" : "2015-09-18T14:52:09.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "4-WqkCZ7p-o"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/4-WqkCZ7p-o/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/4-WqkCZ7p-o/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/4-WqkCZ7p-o/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Gintama OST 2 : 31 Jinsei wa Belt Conveyor no You"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "HswIHVN5D4o",
+    "videoPublishedAt" : "2013-09-03T09:06:38.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/7JuJNv6nGIy2g5g3T7khTDFmrYs\"",
+  "id" : "UExwNi1CeXYxZjlrUGFSa3BWQ2dTMnMweXhIWFJHcHhfLS4yODlGNEE0NkRGMEEzMEQy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "「アウターサイエンス｜じん」\nじん（自然の敵P）2ndALBUM「メカクシティレコーズ」収録楽曲になります。\n\n音楽家・小説家の顔を持つマルチクリエイター\"じん\"が2011年2月17日「人造エ­­ネミー」を動画サイトへ公開し始まった\"カゲロウプロジェクト\"。\n現在では関連動画再生数2000万再生を越える大ヒットを記録。ニコニコ動画、第４回­­動画アワードでは「如月アテンション」がグランプリを受賞。 そして2012年5月に待望ファーストアルバム「メカクシティデイズ」が発売されオリ­­コンウィークリー初登場6位を記録、 続くファーストシングル「チルドレンレコード」はオリコンウィークリー初登場3位を記­­録し「第27回日本ゴールドディスク大賞」 ベスト５ニュー・アーティストを受賞！更に自身執筆の「カゲロウデイズ -in a daze-」が発売され続刊「カゲロウデイズII -a headphone actor-」合わせ70万部を突破！ 月刊少年コミックジーンにて漫画版「カゲロウデイズ」が連載がスタートする等、数々の­­記録を打ち立てた一連の楽曲群\"カゲロウプロジェクト\"待望のセカンド・アルバム、­「­チルドレンレコード」「群青レイン」を再ミックスし、更に新曲を多数追加し、遂に­堂々­の完結編、初回限定盤・通常版の２種、発売！\n\n発売日：2013.05.29\nレーベル：株式会社 ソニーミュージック・ダイレクト\n\n［収録曲］\nロスタイムメモリー、チルドレンレコード(Re Ver.)、夜咄ディセイブ、夕景イエスタデイ、アヤノの幸福理論、群青レイン(Re Ver.)、オツキミリサイタル、マリーの架空世界　他（全13曲収録）",
+    "playlistId" : "PLp6-Byv1f9kPaRkpVCgS2s0yxHXRGpx_-",
+    "position" : 1,
+    "publishedAt" : "2015-12-24T15:38:30.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "HswIHVN5D4o"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/HswIHVN5D4o/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/HswIHVN5D4o/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/HswIHVN5D4o/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/HswIHVN5D4o/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/HswIHVN5D4o/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "【じん】アウターサイエンス【MV】"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+} ]
