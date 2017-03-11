@@ -17,8 +17,8 @@ namespace Search4Self.Service
         public const string YoutubeVideos = @"Takeout\Youtube\history\watch-history.json";
         public const string Searches = @"Takeout\Searches";
 
-        public const string YoutubePythonExecutablePath = @"";
-        public const string SearchesPythonExecutablePath = @"";
+        public const string YoutubePythonExecutablePath = @"python";
+        public const string SearchesPythonExecutablePath = @"python";
 
         public static async Task UnzipAsync(Stream fileStream, Guid userId)
         {
@@ -70,6 +70,8 @@ namespace Search4Self.Service
 
             using (var unitOfWork = new UnitOfWork())
             {
+                unitOfWork.YoutubeSearchHistoryRepository.DeleteForUser(userId);
+
                 unitOfWork.YoutubeSearchHistoryRepository.InsertAll(models);
             }
         }
@@ -84,6 +86,8 @@ namespace Search4Self.Service
 
             using (var unitOfWork = new UnitOfWork())
             {
+                unitOfWork.MusicGenreRepository.DeleteForUser(userId);
+
                 foreach (var entry in result.Histogram)
                 {
                     var models = entry.Value.Select(i => new MusicGenreEntity
@@ -110,6 +114,8 @@ namespace Search4Self.Service
 
             using (var unitOfWork = new UnitOfWork())
             {
+                unitOfWork.SearchesRepository.DeleteForUser(userId);
+
                 var models = result.Select(i => new SearchEntity
                 {
                     UserId = userId,

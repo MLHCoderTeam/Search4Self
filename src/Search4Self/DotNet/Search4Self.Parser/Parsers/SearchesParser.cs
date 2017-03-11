@@ -53,7 +53,7 @@ namespace Search4Self.Parser.Parsers
             {
                 if (Directory.Exists(folderName))
                 {
-                    Directory.Delete(folderName);
+                    Directory.Delete(folderName, true);
                 }
             }
         }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Search4Self.Service;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -32,6 +33,11 @@ namespace Search4Self.Controllers
             //var originalFileName = GetDeserializedFileName(result.FileData.First());
             // var uploadedFileInfo = new FileInfo(result.FileData.First().LocalFileName);
             string path = result.FileData.First().LocalFileName;
+
+            using (var fileStream = File.OpenRead(path))
+            {
+                await ArchiveService.UnzipAsync(fileStream, User.Id).ConfigureAwait(false);
+            }
 
             // Delete the file at the end
             File.Delete(path);

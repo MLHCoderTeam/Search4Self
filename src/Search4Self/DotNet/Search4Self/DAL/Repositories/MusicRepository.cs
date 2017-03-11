@@ -13,5 +13,9 @@ namespace Search4Self.DAL.Repositories
         {
         }
 
+        public void DeleteForUser(Guid userId)
+        {
+            _dbSet.RemoveRange(_dbSet.Where(y => y.UserId == userId));
+        }
     }
 }
