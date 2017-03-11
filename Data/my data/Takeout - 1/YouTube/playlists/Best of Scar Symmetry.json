@@ -1,0 +1,823 @@
+[ {
+  "contentDetails" : {
+    "videoId" : "4WAwU4uduCE",
+    "videoPublishedAt" : "2008-04-10T19:44:32.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/Ky6pDxmsPK4B8CfGxXFlP9klIAM\"",
+  "id" : "UExwNi1CeXYxZjlrTnl0aVltYmx0M3B0WkpiZUI4VTJONS41Mzk2QTAxMTkzNDk4MDhF",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Bonus track from Scar Symmetry's 2006 album \"Pitch Black Progress\"",
+    "playlistId" : "PLp6-Byv1f9kNytiYmblt3ptZJbeB8U2N5",
+    "position" : 0,
+    "publishedAt" : "2013-02-26T19:53:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "4WAwU4uduCE"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/4WAwU4uduCE/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/4WAwU4uduCE/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/4WAwU4uduCE/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Scar Symmetry - Deviate From The Form"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "6E0jE6NgtxY",
+    "videoPublishedAt" : "2008-01-10T23:58:31.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/j13cjhyqeKiMN6AtsT761J0_NOA\"",
+  "id" : "UExwNi1CeXYxZjlrTnl0aVltYmx0M3B0WkpiZUI4VTJONS5EQUE1NTFDRjcwMDg0NEMz",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Affecting all of universe with my mind\r\nThrough my will\r\nSolar systems live and die\r\n\r\nOmnipotence in a world of limits\r\nOmniscient, stars will fall\r\nOn my command\r\n\r\nBut those who live within this world\r\nFind ways to label me\r\nGodhood or devilry\r\n\r\nCollision as a spark of me entered flesh\r\nStill I keep the ability to form\r\nUntil the day I leave my cage\r\nI design this world in my image\r\n\r\nWhat I create I can destroy\r\nStars fall on my command\r\nTomorrow's in my hand\r\nI'm the grand orchestrator\r\nIn finite form and the infinite design\r\nBeyond wings and horns I am\r\nIn wordless thought\r\nOrchestrate the infinite\r\n\r\nWith focus on the things\r\nCertain to face death\r\nMy essence will elude you 'til you die\r\n\r\nOmnipotence has no beginning\r\nOmniscience has no end\r\nIt can't be grasped\r\n\r\nBut those who live within this world\r\nFind ways to label me\r\nGodhood or devilry\r\nI'm the grand orchestrator\r\nIn finite form and the infinite design\r\nBeyond wings and horns I am\r\nIn wordless thought\r\nOrchestrate the infinite\r\nOrchestrate the infinite\r\n\r\nOrchestrate the infinite\r\nNo horns and no crown of thorns\r\nWill fit on me\r\n\r\nOn a field where the judgment\r\nAnd all the pain you feel\r\nCan no longer reach you\r\nIn the silence existing\r\nBetween your every thoughts\r\nThis is where I'll meet you\r\n\r\nBut those who live within this world\r\nFind ways to label me\r\nGodhood or devilry\r\nI'm the grand orchestrator\r\nIn finite form and the infinite design\r\nBeyond wings and horns I am\r\nIn wordless thought\r\nOrchestrate the infinite\r\nOrchestrate the infinite\r\n\r\nOrchestrate the infinite\r\nNo horns and no crown of thorns\r\nWill fit on me",
+    "playlistId" : "PLp6-Byv1f9kNytiYmblt3ptZJbeB8U2N5",
+    "position" : 1,
+    "publishedAt" : "2013-02-26T20:18:51.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "6E0jE6NgtxY"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/6E0jE6NgtxY/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/6E0jE6NgtxY/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/6E0jE6NgtxY/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Scar Symmetry - Orchestrate The Infinite"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Da3OHwJppa0",
+    "videoPublishedAt" : "2008-04-17T09:12:18.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/DWeVi1SEYC6fUdZYOH1lwaEX9Lc\"",
+  "id" : "UExwNi1CeXYxZjlrTnl0aVltYmx0M3B0WkpiZUI4VTJONS41QTY1Q0UxMTVCODczNThE",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Scar Symmetry - Seeds Of Rebellion\r\n\r\nAlbum: Symmetric in Design",
+    "playlistId" : "PLp6-Byv1f9kNytiYmblt3ptZJbeB8U2N5",
+    "position" : 2,
+    "publishedAt" : "2013-02-26T20:18:51.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Da3OHwJppa0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Da3OHwJppa0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Da3OHwJppa0/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Da3OHwJppa0/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Scar Symmetry - Seeds Of Rebellion"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "_aR7ZP9j2u0",
+    "videoPublishedAt" : "2011-04-15T12:53:10.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/vbW_sNnftK_yLMiN5AjZbJe4ydc\"",
+  "id" : "UExwNi1CeXYxZjlrTnl0aVltYmx0M3B0WkpiZUI4VTJONS41MzJCQjBCNDIyRkJDN0VD",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "",
+    "playlistId" : "PLp6-Byv1f9kNytiYmblt3ptZJbeB8U2N5",
+    "position" : 3,
+    "publishedAt" : "2013-02-24T13:14:05.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "_aR7ZP9j2u0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/_aR7ZP9j2u0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/_aR7ZP9j2u0/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/_aR7ZP9j2u0/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Scar Symmetry   The Anomaly"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "EZxAT59TVxI",
+    "videoPublishedAt" : "2010-01-30T01:14:46.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/3PON931d3Eh8d3tK09754eHNbH8\"",
+  "id" : "UExwNi1CeXYxZjlrTnl0aVltYmx0M3B0WkpiZUI4VTJONS41NkI0NEY2RDEwNTU3Q0M2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Song: The Missing Coordinates\nArtist: Scar Symmetry\nAlbum: Holographic Universe\n\nLyrics:\n\nA psi-experiment to seek out the enemy\nUnleashed abilities obscured within the self\nTrace the site, start to decode\nI seek signal lines, go through the grid and back again\n\nAnd then I'm finding the withering light in me\nSenses waking up again\n\nGiven coordinates reveals the place we search\nThe field contains all info in states where time is still\nSites to view and things to know\nI use forgotten skills to soar this grid and re-access the soul\n\nAnd then I'm finding the withering light in me\nSenses waking up again\n\nWhat I sense is always real\nAs i rip through the threads of time\nWaging wars to be on my own\nWill it ever end\n\nA psi-experiment to seek out the enemy\nUnleashed abilities obscured within the self\nTrace the site, start to decode\nI seek signal lines, go through the grid and back again\n\nAnd then I'm finding the withering light in me\nSenses waking up again\n\nWhat I sense is always real\nAs i rip through the threads of time\nWaging wars to be on my own\nWill it ever end\n\nCredits to Nuclear Blast http://nuclearblast.de\n\nSubscribe! :D",
+    "playlistId" : "PLp6-Byv1f9kNytiYmblt3ptZJbeB8U2N5",
+    "position" : 4,
+    "publishedAt" : "2013-02-24T13:14:05.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "EZxAT59TVxI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/EZxAT59TVxI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/EZxAT59TVxI/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/EZxAT59TVxI/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Scar Symmetry - The Missing Coordinates"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "3JdD2p-RPv0",
+    "videoPublishedAt" : "2008-01-10T23:34:48.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/29Ul_5Uw9x_5hxNngAZYPdcRyEU\"",
+  "id" : "UExwNi1CeXYxZjlrTnl0aVltYmx0M3B0WkpiZUI4VTJONS5DQUNERDQ2NkIzRUQxNTY1",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Pinnacle of evolution\r\nThe end of linear time\r\nProgress or termination\r\nCosmic ray mutation\r\n\r\nIt's the question that burns inside\r\nWill we perish or rise with the tide\r\nWhen the waters of consequence\r\nComes rushing forth\r\n\r\nFor the lines on the fractal wave\r\nFits the course of history\r\nThey're created to work as one 'til the end\r\n\r\nA dimensional shift\r\nLeap in consciousness\r\nOr a dire destiny\r\nAsteroid fatality\r\n\r\nIt's the question that burns inside\r\nWill we perish or rise with the tide\r\nWhen the waters of consequence\r\nComes rushing forth\r\n\r\nFor the lines on the fractal wave\r\nFits the course of history\r\nThey're created to work as one 'til the end\r\nAt a time when terrestrial\r\nAnd galactic grids align\r\nThe demise in 2012 realized\r\n\r\nPinnacle of evolution, the end of linear time\r\nProgress or termination\r\nCosmic ray mutation\r\nA dimensional shift, leap in consciousness\r\nOr a dire destiny, asteroid fatality\r\n\r\nSolo: Per\r\nSolo: Jonas\r\n\r\nFor the lines on the fractal wave\r\nFits the course of history\r\nThey're created to work as one 'til the end\r\nWhen the winter solstice comes\r\nActualizing the prophecy\r\nThe demise in 2012 realized",
+    "playlistId" : "PLp6-Byv1f9kNytiYmblt3ptZJbeB8U2N5",
+    "position" : 5,
+    "publishedAt" : "2013-02-24T13:14:05.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "3JdD2p-RPv0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/3JdD2p-RPv0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/3JdD2p-RPv0/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/3JdD2p-RPv0/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Scar Symmetry - 2012 - Demise of The 5th Sun"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "gQZwsXnDQJc",
+    "videoPublishedAt" : "2009-06-11T19:45:18.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/qulexkwhjpBDseAPkLke-RINE7w\"",
+  "id" : "UExwNi1CeXYxZjlrTnl0aVltYmx0M3B0WkpiZUI4VTJONS40NzZCMERDMjVEN0RFRThB",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "=)   Scar Symmetry!!!!  =)      \r\n\r\nlyrics:  \r\n\r\nBathe in laser light, the beam will underline \r\nThe birth of universe from nothingness \r\nPrime awakening, the second beam comes in \r\nTo bounce and interfere as drawn by will \r\n\r\nWe're finding that we can never die \r\nA subject no more to loss gain \r\nThe more you try connect with form \r\nThe less you're yearning to see all you could behold \r\n\r\nThen the third beam comes in to bring it all alive \r\nAnd bring to form the once chaotic swirl \r\nSee creation sing the word infinity \r\nBehold this organized constructive skill \r\n\r\nWe're finding that we can never die \r\nA subject no more to loss gain \r\nThe more you try connect with form \r\nThe less you're yearning to see all you could behold \r\n\r\nWhile all we did was to divide \r\nBreaking down the whole \r\nWhe never looked at what we found- \r\nHologram within \r\nWhile we relied on space and time \r\nNo one here can know \r\nAt last we looked at what we found \r\n\r\nHolographic worlds are in sight \r\nTo consciousness we moved from where we used to find a god \r\nWhe have made this concept our own \r\nNow we believe that this reality came from a dream \r\n\r\nForever tried to tell us: \"Time is on our side\" \r\nYou recite this knowing and you find it all \r\n\r\nNight leads to day as mind finds a way \r\nYou were asleep now you leave the role of one forsaken play \r\n\r\nThis time we found a way to view the world inside \r\nNow we've come to know it and leave the past behind \r\n\r\nWhile all we did was to divide \r\nBreaking down the whole \r\nWhe never looked at what we found \r\n\r\nRise from decay in worlds gone astray \r\nTruth lies beneath, hiding deep within a once forsaken way \r\n\r\nWhile all we did was to divide \r\nBreaking down the whole \r\nWhe never looked at what we found- \r\nHologram within \r\nWhile we relied on space and time \r\nNo one here can know \r\nAt last we looked at what we found \r\n\r\nHere unfolds the truth of all that is alive \r\nAnd here we wash away what was proclaimed \r\nHail awakening, forever lead us in the urge to be alive \r\nWe know you will",
+    "playlistId" : "PLp6-Byv1f9kNytiYmblt3ptZJbeB8U2N5",
+    "position" : 6,
+    "publishedAt" : "2013-02-24T13:14:05.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "gQZwsXnDQJc"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/gQZwsXnDQJc/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/gQZwsXnDQJc/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/gQZwsXnDQJc/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Scar Symmetry - Holographic Universe"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "jMZ-ENcfr74",
+    "videoPublishedAt" : "2011-04-18T17:53:49.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/uwqiJ567EB1VEtWCGHdZM9g6jrg\"",
+  "id" : "UExwNi1CeXYxZjlrTnl0aVltYmx0M3B0WkpiZUI4VTJONS4wOTA3OTZBNzVEMTUzOTMy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Scar Symmetry - The Draconian Arrival",
+    "playlistId" : "PLp6-Byv1f9kNytiYmblt3ptZJbeB8U2N5",
+    "position" : 7,
+    "publishedAt" : "2013-02-24T13:14:05.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "jMZ-ENcfr74"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/jMZ-ENcfr74/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/jMZ-ENcfr74/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/jMZ-ENcfr74/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/jMZ-ENcfr74/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/jMZ-ENcfr74/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Scar Symmetry - The Draconian Arrival"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "CAJdWPvaKV4",
+    "videoPublishedAt" : "2010-02-10T01:08:57.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/U5vgffntiVJSCURsUxJhGID27jU\"",
+  "id" : "UExwNi1CeXYxZjlrTnl0aVltYmx0M3B0WkpiZUI4VTJONS4yMUQyQTQzMjRDNzMyQTMy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Song: The Kaleidoscopic God\nArtist: Scar Symmetry\nAlbum: Pitch Black Progress\n\nLyrics:\nThe lifeless worlds come alive\nGathered here both low and high\nShow me sights I dreamt at night\nI shall return with the dreaming tide\n\nAs above, so below\nMicrocosm is macrocosm\nAnything I visualize\nTakes place for real\n\nThe formless takes the shape I want\nI am the decoder of wavelengths\nUnobserved it is but nothing\nBut the potential for everything\n\nAs above, so below\nMicrocosm is macrocosm\nAnything I visualize\nTakes place for real\n\nStray into the silence\nStray into my soul\nStray beyond the shallow entombment\nFate - forms a complex kaleidoscope\n\nPlanets interact within my head\nUniverses moved with the will\nAnything I imagine occurs\nManifestation is a fact\n\nStray into the silence\nStray into my soul\nStray beyond the shallow entombment\nFate - forms a complex kaleidoscope\n\nThe outside appears to move\nBut never really does\nThe mind is in movement\nUnknowing, unaware\nEarth appears in my head\n\nDoes the rules of manifestation apply\nAt such dense place\nIn such soulless waste\n\nTravel forth light-years away\nBeyond the form of night and day\nKaleidoscopic shapes at play\nColours sparkle in every way\n\nAs above, so below\nMicrocosm is macrocosm\nAnything I visualize\nTakes place for real\n\nStray into the silence\nStray into my soul\nStray beyond the shallow entombment\nFate - forms a complex kaleidoscope\n\nThe outside appears to move\nBut never really does\nEarth appears in my head\nDoes the rules of manifestation apply\n\nCredits to Nuclear Blast http://nuclearblast.de\n\nSubscribe! :D",
+    "playlistId" : "PLp6-Byv1f9kNytiYmblt3ptZJbeB8U2N5",
+    "position" : 8,
+    "publishedAt" : "2013-02-26T20:18:51.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "CAJdWPvaKV4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/CAJdWPvaKV4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/CAJdWPvaKV4/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/CAJdWPvaKV4/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Scar Symmetry - The Kaleidoscopic God"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "GKnyvtzMRRA",
+    "videoPublishedAt" : "2010-01-30T01:15:52.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/zxRmMJW5Vh5A68jtTTdT6FuhlNA\"",
+  "id" : "UExwNi1CeXYxZjlrTnl0aVltYmx0M3B0WkpiZUI4VTJONS4yODlGNEE0NkRGMEEzMEQy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Song: Ghost Prototype I - Measurement of Thought\nArtist: Scar Symmetry\nAlbum: Holographic Universe\n\nLyrics:\n\nA law of nature undefined\nSubtle force we find at play\nA door to thoughts revealed now\nOpen the gate, step outside the frame\n\nThen you will find that your shallow role is but a symptom of thoughts inside\nDon't say you must play that role to define yourself\n\nNow space and time seem to decline\nSee the sky behind the wave\nInternal worlds reveal how\nThoughts can descend like a falling rain\n\nThen you will find that your shallow role is but a symptom of thoughts inside\nDon't say you must play that role to define yourself\n\nRide beyond time and you'll know\nThat new thoughts descend now\nFly beyond time and you'll know\n\nI am at one with all things\nWhen you measure your thoughts you will find that i have no form\n\nA law of nature undefined\nRevealed now\nOpen the gate, step outside the frame\n\nThen you will find that your shallow role is but a symptom of thoughts inside\nDon't say you must play that role to define yourself\n\nRide beyond time and you'll know\nThat new thoughts descend now\nFly beyond time and you'll know \n\nCredits to Nuclear Blast http://nuclearblast.de\n\nSubscribe! :D",
+    "playlistId" : "PLp6-Byv1f9kNytiYmblt3ptZJbeB8U2N5",
+    "position" : 9,
+    "publishedAt" : "2013-02-24T13:14:05.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "GKnyvtzMRRA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/GKnyvtzMRRA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/GKnyvtzMRRA/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/GKnyvtzMRRA/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Scar Symmetry - Ghost Prototype I - Measurement of Thought"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "tq4GwlyP8zI",
+    "videoPublishedAt" : "2008-06-27T16:06:20.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/l9McNPYNzFbLg1yKo_XaRu9ExZg\"",
+  "id" : "UExwNi1CeXYxZjlrTnl0aVltYmx0M3B0WkpiZUI4VTJONS45RTgxNDRBMzUwRjQ0MDhC",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Scar Symmetry The Path of Least Resistance",
+    "playlistId" : "PLp6-Byv1f9kNytiYmblt3ptZJbeB8U2N5",
+    "position" : 10,
+    "publishedAt" : "2013-02-26T20:18:51.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "tq4GwlyP8zI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/tq4GwlyP8zI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/tq4GwlyP8zI/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/tq4GwlyP8zI/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Scar Symmetry - The Path of Least Resistance"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "mebSi4PDC34",
+    "videoPublishedAt" : "2008-09-17T19:43:56.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/vkU7e0deOqSKyOZuGAihuzA0he8\"",
+  "id" : "UExwNi1CeXYxZjlrTnl0aVltYmx0M3B0WkpiZUI4VTJONS5GNjNDRDREMDQxOThCMDQ2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Scar Symmetry \"Morphogenesis\" official music video.\nOrder at: http://smarturl.it/SS-HU-NB\nSUBSCRIBE to Scar Symmetry: http://bit.ly/subs-scrsym-yt\nSUBSCRIBE to Nuclear Blast: http://bit.ly/subs-nb-yt\n\nORDER AT\nNuclear Blast: http://smarturl.it/SS-HU-NB\niTunes: http://georiot.co/kMn\nAmazon: http://smarturl.it/SS-HU-AMZ\nAmazon MP3: http://smarturl.it/SS-HU-AMZ-MP3\n\nFrom the 2008 album, Holographic Universe, out now via Nuclear Blast Records.\n\nLike: https://www.facebook.com/scarsymmetry\nFollow: https://twitter.com/ScarSymmetry\nWatch: http://bit.ly/subs-scrsym-yt",
+    "playlistId" : "PLp6-Byv1f9kNytiYmblt3ptZJbeB8U2N5",
+    "position" : 11,
+    "publishedAt" : "2013-02-24T13:14:05.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "mebSi4PDC34"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/mebSi4PDC34/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/mebSi4PDC34/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/mebSi4PDC34/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "SCAR SYMMETRY - Morphogenesis (OFFICIAL MUSIC VIDEO)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "GDGhRtiBGj4",
+    "videoPublishedAt" : "2008-07-03T05:20:16.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/6fOS2WNqA7ijsOxCULZyn3tf7QE\"",
+  "id" : "UExwNi1CeXYxZjlrTnl0aVltYmx0M3B0WkpiZUI4VTJONS41MjE1MkI0OTQ2QzJGNzNG",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Artist - Scar Symmetry\r\nSong - The Three-Dimensional Shadow\r\nAlbum - Holographic Universe\r\n\r\nIf you like metal music, subscribe!\r\nI take suggestions on what songs to upload next.",
+    "playlistId" : "PLp6-Byv1f9kNytiYmblt3ptZJbeB8U2N5",
+    "position" : 12,
+    "publishedAt" : "2013-02-24T13:14:05.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "GDGhRtiBGj4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/GDGhRtiBGj4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/GDGhRtiBGj4/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/GDGhRtiBGj4/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Scar Symmetry - The Three-Dimensional Shadow"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "ladtf7nA39E",
+    "videoPublishedAt" : "2010-01-30T01:15:18.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/kaa6I70TPZ5e12ML2PrtZcxY4d8\"",
+  "id" : "UExwNi1CeXYxZjlrTnl0aVltYmx0M3B0WkpiZUI4VTJONS4wMTcyMDhGQUE4NTIzM0Y5",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Song: Artificial Sun Projection\nArtist: Scar Symmetry\nAlbum: Holographic Universe\n\nLyrics:\n\nAn invented sun, rays reflecting the cosmic glow\nDeceptive radiance\nOur invented gods halt the active mind\nNo alteration\n\nIllusory acts in circles count the days and nights\nEarth time\nFinding the only way out means to arise, ascend\n\nI shall ascend\n\nForm the passing time, building day and night\n\nThy will be done, shape the sand to hours\nMy time will come, clear as day the signs\nConceptional, shape the sand of ours\nYour will's been done since the dawn of time\n\nForever to renew the universe\nWaiting as cold daylight turns into night\n\nAn invented sun, rays reflecting the cosmic glow\nDeceptives radiance\nOur invented gods halt the active mind\nNo alteration\nThy will be done, shape the sand to hours\nMy time will come, clear as day the signs\nConceptional, shape the sand of ours\nYour will's been done since the dawn of time\n\nCredits to Nuclear Blast http://nuclearblast.de\n\nSubscribe! :D",
+    "playlistId" : "PLp6-Byv1f9kNytiYmblt3ptZJbeB8U2N5",
+    "position" : 13,
+    "publishedAt" : "2013-02-24T13:14:05.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "ladtf7nA39E"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/ladtf7nA39E/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/ladtf7nA39E/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/ladtf7nA39E/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/ladtf7nA39E/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Scar Symmetry - Artificial Sun Projection"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Fq7Mn8sw4Tk",
+    "videoPublishedAt" : "2008-04-16T16:47:47.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/FbMLuzsk3dKKPniRQkIne3rIQhE\"",
+  "id" : "UExwNi1CeXYxZjlrTnl0aVltYmx0M3B0WkpiZUI4VTJONS5EMEEwRUY5M0RDRTU3NDJC",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "I am the conscious soul\r\nSupreme awareness\r\nThe serpent rising, following the spine\r\n\r\nNothing has really changed\r\nNo nothing's really new\r\nEverything is still the same\r\nBut I see in different ways\r\n\r\nFlesh and spirit\r\nObscure alliance pass unseen\r\nSoul in zenith\r\nUnharmed it stares into the sun\r\n\r\nWith death as guiding star\r\nI am transcendence\r\nWithin the rising I see the fall\r\n\r\nNothing has really changed\r\nNo nothing's really new\r\nEverything is still the same\r\nBut I see in different ways\r\n\r\nFlesh and spirit\r\nObscure alliance pass unseen\r\nSoul in zenith\r\nUnharmed it stares into the sun\r\n\r\nSolo: Per\r\n\r\nThe empire within swirls and changes\r\nNever stagnant, ever morphing\r\nAlligned with the unseen\r\n\r\nFlesh and spirit\r\nObscure alliance pass unseen\r\nSoul in zenith\r\nUnharmed it stares into the sun\r\nWorlds in hiding\r\nObscure alliance of the planes\r\nStill abiding\r\nUnbound in every phase",
+    "playlistId" : "PLp6-Byv1f9kNytiYmblt3ptZJbeB8U2N5",
+    "position" : 14,
+    "publishedAt" : "2013-02-24T13:14:05.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Fq7Mn8sw4Tk"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Fq7Mn8sw4Tk/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Fq7Mn8sw4Tk/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Fq7Mn8sw4Tk/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Scar Symmetry - Obscure Alliance"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "5SPiWBmA1l8",
+    "videoPublishedAt" : "2008-06-25T14:27:37.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/ZqeAp2-uEddrVpFP9VzYN8fcwMQ\"",
+  "id" : "UExwNi1CeXYxZjlrTnl0aVltYmx0M3B0WkpiZUI4VTJONS45NDk1REZENzhEMzU5MDQz",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Scar Symmetry- Timewave Zero",
+    "playlistId" : "PLp6-Byv1f9kNytiYmblt3ptZJbeB8U2N5",
+    "position" : 15,
+    "publishedAt" : "2013-02-24T13:14:05.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "5SPiWBmA1l8"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/5SPiWBmA1l8/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/5SPiWBmA1l8/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/5SPiWBmA1l8/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Scar Symmetry- Timewave Zero"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "qWfdH-FMGtQ",
+    "videoPublishedAt" : "2010-02-10T01:06:51.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/HRtywV36z8Kaqpj7n5PX91m2d00\"",
+  "id" : "UExwNi1CeXYxZjlrTnl0aVltYmx0M3B0WkpiZUI4VTJONS5ENDU4Q0M4RDExNzM1Mjcy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Song: Abstracted\nArtist: Scar Symmetry\nAlbum: Pitch Black Progress\n\nLyrics:\nDarkness falls, light descending\nFrom the sky and towards the ground\n\nElectric presence\nProlonged strobe flash\nRays of light\nNow shatters the night\n\nAbstracted shape\nAbstracted one\nHigh voltage bolt was aimed at the head and chest\n\nOne taken\nLost to the skies\nGone, taken away\nFive days absent\nThe manhunt fails\nNone can explain\nThe course of events\n\nAbstracted shape\nAbstracted one\nHigh voltage bolt was aimed at the head and chest\nAbducted soul\nAbducted mind\nBright bolts of energy slays reality\n\nDeparture\nStrange sights\nChaos within me\nDeparture\nBright lights\nI can't believe my eyes\n\nElectric presence\nProlonged strobe flash\nRays of light\nNow shatters the night\n\nAbstracted shape\nAbstracted one\nHigh voltage bolt was aimed at the head and chest\nAbducted soul\nAbducted mind\nBright bolts of energy slays reality\n\nDeparture\nStrange sights\nChaos within me\nDeparture\nBright lights\nI can't believe my eyes\n\nDarkness falls, light descending\nFrom the sky and towards the ground\n\nCredits to Nuclear Blast http://nuclearblast.de\n\nSubscribe! :D",
+    "playlistId" : "PLp6-Byv1f9kNytiYmblt3ptZJbeB8U2N5",
+    "position" : 16,
+    "publishedAt" : "2013-02-26T20:18:51.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "qWfdH-FMGtQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/qWfdH-FMGtQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/qWfdH-FMGtQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/qWfdH-FMGtQ/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Scar Symmetry - Abstracted"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "n8h4t1FrSug"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/BuO5Ymm56nfyKuWagvNAW5XovEA\"",
+  "id" : "UExwNi1CeXYxZjlrTnl0aVltYmx0M3B0WkpiZUI4VTJONS4zMDg5MkQ5MEVDMEM1NTg2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "This video is unavailable.",
+    "playlistId" : "PLp6-Byv1f9kNytiYmblt3ptZJbeB8U2N5",
+    "position" : 17,
+    "publishedAt" : "2013-02-24T13:14:05.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "n8h4t1FrSug"
+    },
+    "title" : "Deleted video"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Z5aB9bW5B00",
+    "videoPublishedAt" : "2010-02-10T01:07:25.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/KeMx4pKy6GOrAWF563I1uMLxfPw\"",
+  "id" : "UExwNi1CeXYxZjlrTnl0aVltYmx0M3B0WkpiZUI4VTJONS45ODRDNTg0QjA4NkFBNkQy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Song: Ghost Prototype II-Deus Ex Machina\nArtist: Scar Symmetry\nAlbum: Holographic Universe\n\nLyrics:\nAnd then we found it all caged inside a dream\nAll-seeing eye sees afloat\nSoon it will see no more\n\nFor we will not conform\nWe're ghosts in the machine\n\nA holographic world-view, existence in display\nWhere everything must work as one and never break in two\nThis concept lives forever outside all state control\nAnd ever shedding skin\n\nAll things new are fought against\nEven though their time has come\nStretch and reach to conscious mind\nSeek defeat in those who fear\n\nFor we will not conform\nWe're ghosts in the machine\n\nEach separated droplet seek to rejoin the sea\nThe structure of the hologram can never break in two\nWays to embrace and enter the oneness of it all\nAre ever shedding skin\n\nWhile it's waiting to rise within\nKnow you'll never conform\nWhile it's rising, for once, for all\nRise on your own\n\nRising just to remind you\nThe inner sector is where you built this nightmare\nRivers will always flow forth into the ocean\nA manifest of silent rhyme\n\nSilent rhyme\nWordless rhyme\n\nAnd then we found it all caged inside a dream\nAll-seeing eye sees afloat\nSoon it will see no more\n\nAll things new are fought against\nEven though their time has come\n\nFor we will not conform\nWe're ghosts in the machine\n\nChange how you look at all things and what you see will change\nObserver and what is observed can never break in two\nThe quantum revolution never cease to evolve\nForever shedding skin\n\nWhile it's waiting to rise within\nKnow you'll never confrom\nWhile it's rising, for once, for all\nRise on your own\n\nCredits to Nuclear Blast http://nuclearblast.de\n\nSubscribe! :D",
+    "playlistId" : "PLp6-Byv1f9kNytiYmblt3ptZJbeB8U2N5",
+    "position" : 18,
+    "publishedAt" : "2013-02-24T13:14:05.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Z5aB9bW5B00"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Z5aB9bW5B00/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Z5aB9bW5B00/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Z5aB9bW5B00/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Scar Symmetry - Ghost Prototype II-Deus Ex Machina"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Un9vqJbMgVc",
+    "videoPublishedAt" : "2011-04-18T23:12:05.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/6D7G7KATtOQX1N3CCVJhzcmTS0M\"",
+  "id" : "UExwNi1CeXYxZjlrTnl0aVltYmx0M3B0WkpiZUI4VTJONS4xMkVGQjNCMUM1N0RFNEUx",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "Scar Symmetry - The Unseen Empire - 07 Rise Of The Reptilian Regime\nLyrics:\nAs the spirit serpents slither, caught between the worlds they wait\nThey're infiltrating each vibration, strands of reptoid DNA\n\nInvasion of the mind\nTheir essence crawls through the portals of our dimensional level\n\nThere is proof of their grotesque presence on display throughout our world\nIn a gesture of invitation placed in art and written word\n\nA reign eternal, they saw the birth of the sun\nThey will remain where we are all dead and gone\n\nReptilian regime\nRise to reign\nDraconian descent emerging from above\nReptilian regime\nRise to reign\nDraconian descent from above\n\nPossessing by design through ritual\nGaining access to our dimensional level\n\nAs the spirit serpents slither, caught between the worlds they wait\nThey're infiltrating each vibration, strands of reptoid DNA\n\nA reign eternal, they saw the birth of the sun\nThey will remain where we are all dead and gone\n\nReptilian regime\nRise to reign\nDraconian descent emerging from above\nReptilian regime\nRise to reign\nDraconian descent from above\n\nRising to reign from times of old\nAnd forsake the afterlife\n\n[Lead: Kjellgren]\n\nA reign eternal, they saw the birth of the sun\nThey will remain where we are all dead and gone\n\nReptilian regime\nRise to reign\nDraconian descent emerging from above\nReptilian regime\nRise to reign\nDraconian descent from above",
+    "playlistId" : "PLp6-Byv1f9kNytiYmblt3ptZJbeB8U2N5",
+    "position" : 19,
+    "publishedAt" : "2013-02-24T13:14:05.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Un9vqJbMgVc"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Un9vqJbMgVc/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Un9vqJbMgVc/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Un9vqJbMgVc/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/Un9vqJbMgVc/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Scar Symmetry -  Rise Of The Reptilian Regime"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+} ]

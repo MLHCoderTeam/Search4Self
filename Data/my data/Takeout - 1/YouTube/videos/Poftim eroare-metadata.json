@@ -1,0 +1,77 @@
+[ {
+  "contentDetails" : {
+    "caption" : "false",
+    "definition" : "hd",
+    "dimension" : "2d",
+    "duration" : "PT20S",
+    "hasCustomThumbnail" : false,
+    "licensedContent" : false,
+    "projection" : "rectangular"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/-63fs4b8inUeXk2p3mia24CI-eE\"",
+  "fileDetails" : {
+    "fileName" : "VID_20130710_152444.mp4"
+  },
+  "id" : "OZrnTu21G3M",
+  "kind" : "youtube#video",
+  "player" : {
+    "embedHtml" : "<iframe width=\"480\" height=\"360\" src=\"//www.youtube.com/embed/OZrnTu21G3M\" frameborder=\"0\" allowfullscreen></iframe>"
+  },
+  "processingDetails" : {
+    "processingStatus" : "terminated"
+  },
+  "snippet" : {
+    "categoryId" : "22",
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "",
+    "liveBroadcastContent" : "none",
+    "localized" : {
+      "description" : "",
+      "title" : "Poftim eroare"
+    },
+    "publishedAt" : "2013-07-10T12:44:20.000Z",
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/OZrnTu21G3M/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/OZrnTu21G3M/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/OZrnTu21G3M/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/OZrnTu21G3M/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/OZrnTu21G3M/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Poftim eroare"
+  },
+  "statistics" : {
+    "commentCount" : "0",
+    "dislikeCount" : "0",
+    "favoriteCount" : "0",
+    "likeCount" : "0",
+    "viewCount" : "2"
+  },
+  "status" : {
+    "embeddable" : true,
+    "license" : "youtube",
+    "privacyStatus" : "unlisted",
+    "publicStatsViewable" : true,
+    "uploadStatus" : "processed"
+  }
+} ]
