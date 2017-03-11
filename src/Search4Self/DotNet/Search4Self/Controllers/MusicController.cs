@@ -7,12 +7,14 @@ using System.Web.Http;
 namespace Search4Self.Controllers
 {
     [RoutePrefix("api/music")]
-    public class MusicController : ApiController
+    public class MusicController : AuthInjectedController
     {
         [Route("Test")]
         [HttpGet]
         public IHttpActionResult Test()
         {
+            Authorize();
+
             var v = new
             {
                 Date = DateTime.Now,
@@ -22,5 +24,8 @@ namespace Search4Self.Controllers
 
             return Ok(v);
         }
+
+
+
     }
 }

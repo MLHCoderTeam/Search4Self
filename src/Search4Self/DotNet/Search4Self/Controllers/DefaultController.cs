@@ -7,7 +7,7 @@ using System.Web.Http;
 namespace Search4Self.Controllers
 {
     [RoutePrefix("api/Default")]
-    public class DefaultController : ApiController
+    public class DefaultController : AuthInjectedController
     {
         [Route("Test")]
         [HttpGet]

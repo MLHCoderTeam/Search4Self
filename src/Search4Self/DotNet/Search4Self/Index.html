@@ -21,6 +21,16 @@
             <h2>
                 <span>Search4Self</span>
             </h2>
+            <md-button ng-href="/" ng-disabled="false">
+                Home
+            </md-button>
+            <md-button ng-href="/music" ng-disabled="false">
+                Music
+            </md-button>
+            <md-button  aria-label="Logout" ng-disabled="false">
+                Google Search
+            </md-button>
+
             <span flex></span>
             <!--<md-button md-no-ink aria-label="Logout" ng-disabled="false">
                 Logout
@@ -31,21 +41,17 @@
 
     <section layout="row" flex>
         <!--$mdMedia('gt-md')-->
-        <md-sidenav class="md-sidenav-left"
+        <!--<md-sidenav class="md-sidenav-left"
                     md-component-id="left"
                     md-is-locked-open="true"
                     md-whiteframe="4">
-
-            <!--<md-toolbar class="md-theme-indigo">
-                <h1 class="md-toolbar-tools">Sidenav Left</h1>
-            </md-toolbar>-->
 
             <md-list flex>
                 <a href="/">
                     <md-list-item ng-click="null">
                         Home
                     </md-list-item>
-                </a> 
+                </a>
                 <a href="/music">
                     <md-list-item ng-click="null">
                         Music
@@ -53,17 +59,12 @@
                 </a>
             </md-list>
 
-        </md-sidenav>
+        </md-sidenav>-->
 
-        <md-content flex layout="column">
+        <md-content flex layout="column" class="with-background">
 
             <div layout="column" layout-align="top center">
-                <!--<p>
-                    The left sidenav will 'lock open' on a medium (>=960px wide) device.
-                </p>
-                <p>
-                    The right sidenav will focus on a specific child element.
-                </p>-->
+               
 
                 <ng-view></ng-view>
 
