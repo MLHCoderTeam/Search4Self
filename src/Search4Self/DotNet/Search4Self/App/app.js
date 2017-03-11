@@ -1,7 +1,7 @@
 ﻿/**
      * You must include the dependency on 'ngMaterial'
      */
-angular.module('Search4Self', ['ngMaterial', 'ngRoute', 'ngResource'])
+angular.module('Search4Self', ['ngMaterial', 'ngRoute', 'ngResource', 'ngFileUpload'])
     //.controller('LeftCtrl', function ($scope, $timeout, $mdSidenav, $log) {
     //    $scope.close = function () {
     //        // Component lookup should always be available since we are not using `ng-if`

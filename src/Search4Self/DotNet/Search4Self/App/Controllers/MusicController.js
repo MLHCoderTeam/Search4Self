@@ -32,6 +32,7 @@
                 console.log('acum');
             }, 1000);
 
+            HelperService.ShowMessage("Un mesaj!", true);
         }
 
         $scope.acceptProblem = function (problem) {

@@ -1,2 +1,18 @@
-﻿<h1>Welcome to Search4Self!</h1>
-
+﻿<center>
+    <h1>Welcome to Search4Self! <span style="font-size:12px">Name subject to change!</span></h1>
+    <h2>Find out more about your online activity in just a few easy steps.</h2>
+    <br />
+        <div style="font-size:20px">
+            <div>1. Go to your <a href="https://takeout.google.com/settings/takeout" target="_blank">Google Takeout</a>!</div>
+            <div>2. Select Search and Youtube data!</div>
+            <div>3. Generate & Download!</div>
+            <div>4. Upload zip file here!</div>
+        </div>
+    <br />
+    <br />
+    <br />
+    <md-button class="md-raised md-primary" ngf-select="upload($file)" style="font-size:36px;padding:15px;">
+        <span ng-hide="zipFile">Select Google ZIP</span>
+        <span ng-show="zipFile">{{zipFile.name}}... {{progress}}%</span>
+    </md-button>
+</center>

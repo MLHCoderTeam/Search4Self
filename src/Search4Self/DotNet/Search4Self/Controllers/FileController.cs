@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
@@ -22,7 +23,7 @@ namespace Search4Self.Controllers
 
             Authorize();
 
-            string root = HttpContext.Current.Server.MapPath("~/temp/uploads");
+            string root = HttpContext.Current.Server.MapPath("~/temp");
             var provider = new MultipartFormDataStreamProvider(root);
             var result = await Request.Content.ReadAsMultipartAsync(provider);
 
@@ -31,6 +32,9 @@ namespace Search4Self.Controllers
             //var originalFileName = GetDeserializedFileName(result.FileData.First());
             // var uploadedFileInfo = new FileInfo(result.FileData.First().LocalFileName);
             string path = result.FileData.First().LocalFileName;
+
+            // Delete the file at the end
+            File.Delete(path);
 
             return Ok();
         }

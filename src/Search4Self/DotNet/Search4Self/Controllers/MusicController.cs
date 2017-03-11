@@ -26,6 +26,15 @@ namespace Search4Self.Controllers
         }
 
 
+        [Route("genres")]
+        [HttpGet]
+        public IHttpActionResult Genres()
+        {
+            Authorize();
+
+
+            return Ok();
+        }
 
     }
 }
