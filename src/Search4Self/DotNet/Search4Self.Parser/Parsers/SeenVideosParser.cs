@@ -20,9 +20,9 @@ namespace Search4Self.Parser.Parsers
                     await stream.CopyToAsync(file).ConfigureAwait(false);
                 }
 
-                var processInfo = new ProcessStartInfo(pythonExecutablePath)
+                var processInfo = new ProcessStartInfo("python")
                 {
-                    Arguments = $"python {fileName}",
+                    Arguments = $"{pythonExecutablePath} {fileName}",
                     UseShellExecute = false,
                     RedirectStandardOutput = true
                 };
