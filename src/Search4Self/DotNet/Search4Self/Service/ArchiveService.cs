@@ -18,7 +18,7 @@ namespace Search4Self.Service
         public const string Searches = @"Takeout\Searches";
 
         public const string YoutubePythonExecutablePath = @"Parsers\youtube_watched_hist_parser.py";
-        public const string SearchesPythonExecutablePath = @"Parsers\";
+        public const string SearchesPythonExecutablePath = @"Parsers\get_google_searches.py";
 
         public static async Task UnzipAsync(Stream fileStream, Guid userId)
         {
