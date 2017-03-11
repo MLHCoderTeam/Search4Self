@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using ARDrone.DotNetCore.Config;
+using ARDrone.DotNetCore.Service;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -33,6 +34,9 @@ namespace ARDrone.DotNetCore
             services.AddOptions();
 
             services.Configure<TwilioConfig>(Configuration.GetSection(nameof(TwilioConfig)));
+            services.Configure<DroneConfig>(Configuration.GetSection(nameof(DroneConfig)));
+
+            services.AddSingleton<IHttpClientService, HttpClientService>();
 
             // Add framework services.
             services.AddMvcCore();
