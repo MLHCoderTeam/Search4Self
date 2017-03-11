@@ -32,7 +32,7 @@ namespace Search4Self.Service
                 if (searchHistoryPart != null)
                 {
                     using (var stream = searchHistoryPart.Open())
-                        tasks.Add(HandleSearchHistoryAsync(stream, userId).ConfigureAwait(false));
+                        tasks.Add(HandleVideoSearchHistoryAsync(stream, userId).ConfigureAwait(false));
                 }
 
                 var seenVideosPart = archive.Entries.FirstOrDefault(p => p.FullName == YoutubeVideos);
@@ -56,7 +56,7 @@ namespace Search4Self.Service
             }
         }
 
-        private static async Task HandleSearchHistoryAsync(Stream stream, Guid userId)
+        private static async Task HandleVideoSearchHistoryAsync(Stream stream, Guid userId)
         {
             var wordResult = await VideoSearchHistoryParser.ParseFile(stream).ConfigureAwait(false);
 
@@ -70,6 +70,7 @@ namespace Search4Self.Service
 
             using (var unitOfWork = new UnitOfWork())
             {
+                unitOfWork.YoutubeSearchHistoryRepository.DeleteForUser(userId);
                 unitOfWork.YoutubeSearchHistoryRepository.InsertAll(models);
             }
         }
@@ -95,6 +96,7 @@ namespace Search4Self.Service
                         Hits = i.Value
                     }).ToArray();
 
+                    unitOfWork.MusicGenreRepository.DeleteForUser(userId);
                     unitOfWork.MusicGenreRepository.InsertAll(models);
                 }
             }
@@ -118,6 +120,7 @@ namespace Search4Self.Service
                     Query = i.Key
                 }).ToArray();
 
+                unitOfWork.SearchesRepository.DeleteForUser(userId);
                 unitOfWork.SearchesRepository.InsertAll(models);
             }
         }
