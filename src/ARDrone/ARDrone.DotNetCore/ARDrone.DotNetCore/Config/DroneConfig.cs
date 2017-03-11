@@ -2,5 +2,6 @@
 {
     public class DroneConfig
     {
+        public string DroneServer { get; set; }
     }
 }

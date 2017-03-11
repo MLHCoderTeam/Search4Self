@@ -17,8 +17,8 @@ namespace Search4Self.Service
         public const string YoutubeVideos = @"Takeout\Youtube\history\watch-history.json";
         public const string Searches = @"Takeout\Searches";
 
-        public const string YoutubePythonExecutablePath = @"";
-        public const string SearchesPythonExecutablePath = @"";
+        public const string YoutubePythonExecutablePath = @"Parsers\youtube_watched_hist_parser.py";
+        public const string SearchesPythonExecutablePath = @"Parsers\";
 
         public static async Task UnzipAsync(Stream fileStream, Guid userId)
         {

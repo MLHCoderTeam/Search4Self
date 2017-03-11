@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Net;
+using System.Net.Http;
 using System.Threading.Tasks;
 using ARDrone.DotNetCore.Config;
 using ARDrone.DotNetCore.Service;
@@ -25,16 +26,24 @@ namespace ARDrone.DotNetCore.Controllers
 
         [HttpPost]
         [Route("start")]
-        public Task<IActionResult> StartDrone()
+        public async Task<IActionResult> StartDrone()
         {
             try
             {
-                return Task.FromResult<IActionResult>(Ok());
+                var request = new HttpRequestMessage
+                {
+                    RequestUri = new Uri(_config.DroneServer),
+                    Method = HttpMethod.Post
+                };
+
+                await _httpClientService.SendAsync(request).ConfigureAwait(false);
+
+                return Ok();
             }
             catch (Exception ex)
             {
                 _logger.LogError(ex.Message);
-                return Task.FromResult<IActionResult>(StatusCode((int)HttpStatusCode.InternalServerError));
+                return StatusCode((int)HttpStatusCode.InternalServerError);
             }
         }
     }
