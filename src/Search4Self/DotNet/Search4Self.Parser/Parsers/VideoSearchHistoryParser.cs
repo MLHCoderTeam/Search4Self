@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace Search4Self.Parser
+namespace Search4Self.Parser.Parsers
 {
-    public static class FileParser
+    public static class VideoSearchHistoryParser
     {
         private const string LinkRegex = @"<td><a href='https:\/\/www.youtube.com\/results\?q=(.+)'>(\w+\s)+\w+<\/a><\/td>";
 
