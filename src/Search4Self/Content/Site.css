@@ -1,0 +1,21 @@
+﻿.loading {
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    margin-left: -300px;
+    margin-top: -100px;
+    width: 600px;
+    height: 200px;
+    background-image: url("/Content/Images/loading.gif");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    -webkit-animation: fadeInOut 1s infinite;
+    animation: fadeInOut 1s infinite;
+    display: none;
+    z-index: 9000;
+}
+
+md-list > a{
+    text-decoration:none;
+}

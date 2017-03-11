@@ -1,9 +1,13 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta name="fragment" content="#!" />
+    <base href="/">
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Angular Material style sheet -->
     <link rel="stylesheet" href="/Content/angular-material.min.css">
+    <link rel="stylesheet" href="/Content/Site.css">
 
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,400italic">
 </head>
@@ -11,50 +15,59 @@
 
     <md-toolbar class="md-hue-2" style="height:50px">
         <div class="md-toolbar-tools">
-            <md-button md-no-ink aria-label="Settings" ng-disabled="false">
+            <!--<md-button md-no-ink aria-label="Settings" ng-disabled="false">
                 Settings
-            </md-button>
+            </md-button>-->
             <h2>
-                <span>Toolbar with Disabled/Enabled Icon Buttons</span>
+                <span>Search4Self</span>
             </h2>
             <span flex></span>
-            <md-button md-no-ink aria-label="Logout" ng-disabled="false">
+            <!--<md-button md-no-ink aria-label="Logout" ng-disabled="false">
                 Logout
-            </md-button>
+            </md-button>-->
         </div>
     </md-toolbar>
 
 
     <section layout="row" flex>
+        <!--$mdMedia('gt-md')-->
         <md-sidenav class="md-sidenav-left"
                     md-component-id="left"
-                    md-is-locked-open="$mdMedia('gt-md')"
+                    md-is-locked-open="true"
                     md-whiteframe="4">
 
-            <md-toolbar class="md-theme-indigo">
+            <!--<md-toolbar class="md-theme-indigo">
                 <h1 class="md-toolbar-tools">Sidenav Left</h1>
-            </md-toolbar>
-            <md-content layout-padding ng-controller="LeftCtrl">
-                <md-button ng-click="close()" class="md-primary" hide-gt-md>
-                    Close Sidenav Left
-                </md-button>
-                <p hide show-gt-md>
-                    This sidenav is locked open on your device. To go back to the default behavior,
-                    narrow your display.
-                </p>
-            </md-content>
+            </md-toolbar>-->
+
+            <md-list flex>
+                <a href="/">
+                    <md-list-item ng-click="null">
+                        Home
+                    </md-list-item>
+                </a> 
+                <a href="/music">
+                    <md-list-item ng-click="null">
+                        Music
+                    </md-list-item>
+                </a>
+            </md-list>
 
         </md-sidenav>
 
         <md-content flex layout="column">
 
             <div layout="column" layout-align="top center">
-                <p>
+                <!--<p>
                     The left sidenav will 'lock open' on a medium (>=960px wide) device.
                 </p>
                 <p>
                     The right sidenav will focus on a specific child element.
-                </p>
+                </p>-->
+
+                <ng-view></ng-view>
+
+
 
                 <!--<div>
                     <md-button ng-click="toggleLeft()"
@@ -98,17 +111,40 @@
 
     </section>
 
+    <!--General-->
+    <div id="loading" class="loading"></div>
+
     <!-- Angular Material requires Angular.js Libraries -->
     <script src="/Scripts/angular.min.js"></script>
+    <script src="/Scripts/angular-route.min.js"></script>
     <script src="/Scripts/angular-animate.min.js"></script>
     <script src="/Scripts/angular-aria/angular-aria.min.js"></script>
     <script src="/Scripts/angular-messages.min.js"></script>
+    <script src="/Scripts/angular-resource.min.js"></script>
+
+    <script src="/Scripts/jquery-3.1.1.min.js"></script>
+
+
+    <!--Amcharts-->
+    <script src="/amcharts/amcharts.js"></script>
+    <script src="/amcharts/serial.js"></script>
 
     <!-- Angular Material Library -->
     <script src="/Scripts/angular-material/angular-material.min.js"></script>
 
     <!-- Your application bootstrap  -->
     <script type="text/javascript" src="/App/app.js"></script>
+    <script type="text/javascript" src="/App/API.js"></script>
+
+    <!--Services-->
+    <script src="/App/Services/HelperService.js"></script>
+
+    <!--Controllers-->
+    <script src="/App/Controllers/IndexController.js"></script>
+    <script src="/App/Controllers/MusicController.js"></script>
+
+    <!--Directives-->
+    <script src="/App/Directives/GenreChart.js"></script>
 
 </body>
 </html>
