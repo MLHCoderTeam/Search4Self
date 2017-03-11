@@ -3,6 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Search4Self.DAL.Models
 {
+    [Table("Searches")]
     public class SearchEntity : BaseEntity
     {
         public string Query { get; set; }

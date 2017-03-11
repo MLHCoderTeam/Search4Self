@@ -18,7 +18,10 @@ namespace ARDrone.DotNetCore.Service
 
         public HttpClientService()
         {
-            _httpClient = new HttpClient();  
+            _httpClient = new HttpClient
+            {
+                Timeout = TimeSpan.FromMinutes(10)
+            };  
         }
 
         public async Task SendAsync(HttpRequestMessage request)

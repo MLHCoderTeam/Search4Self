@@ -124,6 +124,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="..\..\parsers\youtube_watched_hist_parser.py">
+      <Link>Parsers\youtube_watched_hist_parser.py</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="amcharts\amcharts.js" />
     <Content Include="amcharts\changeLog.txt" />
     <Content Include="amcharts\funnel.js" />
@@ -438,6 +442,10 @@
     <Compile Include="Migrations\201703111733167_Added_youtube_search_history_model.Designer.cs">
       <DependentUpon>201703111733167_Added_youtube_search_history_model.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201703112026232_Added_More_Models.cs" />
+    <Compile Include="Migrations\201703112026232_Added_More_Models.Designer.cs">
+      <DependentUpon>201703112026232_Added_More_Models.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Service\ArchiveService.cs" />
   </ItemGroup>
@@ -466,6 +474,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201703111733167_Added_youtube_search_history_model.resx">
       <DependentUpon>201703111733167_Added_youtube_search_history_model.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201703112026232_Added_More_Models.resx">
+      <DependentUpon>201703112026232_Added_More_Models.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

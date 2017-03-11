@@ -1,0 +1,52 @@
+[ {
+  "contentDetails" : {
+    "videoId" : "M5VQfaL0Xzw",
+    "videoPublishedAt" : "2016-10-18T05:45:13.000Z"
+  },
+  "etag" : "\"uQc-MPTsstrHkQcRXL3IWLmeNsM/BxF5GFW6X_7pLdZty2-Omb5YWd0\"",
+  "id" : "UExwNi1CeXYxZjlrTXJhLVotZWJicXBUUS1sR3JpalBQWC41NkI0NEY2RDEwNTU3Q0M2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCjHQYtag0QIwysLW8ihL-BQ",
+    "channelTitle" : "Claudiu Codoban",
+    "description" : "FROG LEAP STUDIOS\n\nYoutube channel: https://www.youtube.com/leolego\nFacebook: https://www.facebook.com/frogleapstudios\nTwitter: https://twitter.com/FrogLeapStudios\nInstagram: https://instagram.com/frogleapstudios/\nWebsite: http://frogleapstudios.com\n\nSUBSCRIBE LEO: https://goo.gl/sAr9CF\n\nFollow Me On Facebook ➥ https://goo.gl/PEImBL\n\n● Metal Cover Songs Mix..\n\nTracklist:\n\n00:00 Twenty One Pilots - Heathens (metal cover by Leo Moracchioli)\n03:29 Sail - Awolnation (metal cover by Leo Moracchioli)\n07:47 Twenty One Pilots - Stressed Out (metal cover by Leo Moracchioli)\n11:41 Imagine Dragons - Radioactive (metal cover by Leo Moracchioli)\n15:21 Shawn Mendes - Stitches (metal cover by Leo Moracchioli)\n19:22 Sia - Cheap Thrills (metal cover by Leo Moracchioli)\n22:57 Gotye - Somebody That I Used To Know (metal cover by Leo Moracchioli)\n28:08 Hozier - Take Me To Church (metal cover by Leo Moracchioli)\n32:25 Motorhead - Ace of Spades (metal cover by Leo Moracchioli)\n35:15 Rage Against The Machine - Killing In The Name (metal cover by Leo Moracchioli)\n40:23 R.E.M. - Losing My Religion (metal cover by Leo Moracchioli)\n45:05 The Cranberries - Zombie (metal cover by Leo & Stine Moracchioli)\n50:00 Beyoncé - Halo (metal cover by Leo Moracchioli)\n54:18 Lady Gaga - Paparazzi (metal cover by Leo Moracchioli)\n58:27 Lorde - Royals (metal cover by Leo Moracchioli)\n01:02:51 The Mamas & The Papas - California Dreamin (metal cover by Leo Moracchioli)\n01:05:21 Cyndi Lauper - Girls Just Want To Have Fun (metal cover by Leo Moracchioli)\n01:08:39 House of Pain - Jump Around (metal cover by Leo Moracchioli)\n01:12:18 Snow - Informer (metal cover by Leo Moracchioli)\n01:15:57 Justin Timberlake - Can´t Stop the Feeling (metal cover by Leo Moracchioli)\n01:19:33 Kenny Loggins - Danger Zone (metal cover by Leo Moracchioli feat. Erock)\n01:22:19 Tegan and Sara - Everything Is AWESOME!!! (metal cover by Leo Moracchioli)\n01:25:01 Elle King - Ex´s & Oh´s (metal cover by Leo Moracchioli)\n01:28:55 Milli Vanilli - Girl You Know It´s True (metal cover by Leo Moracchioli)\n01:33:18 Marvin Gaye - I Heard It Through the Grapevine (metal cover by Leo Moracchioli)\n01:36:56 Abba - Mamma Mia (metal cover by Leo Moracchioli)\n01:40:49 Lydia Ulsaker - The Wheels On The Bus (metal cover by Leo Moracchioli)\n01:43:32 U2 - Vertigo (metal cover by Leo Moracchioli)\n01:46:40 Wham! - Wake Me Up Before You Go-Go (metal cover by Leo Moracchioli)\n01:50:22 Spice Girls - Wannabe (metal cover by Leo Moracchioli)\n01:53:03 Louis Armstrong - What A Wonderful World (cover by Leo Moracchioli)\n01:56:08 Beatles - While My Guitar Gently Weeps (metal cover by Leo Moracchioli)\n01:59:37 Carly Rae Jepsen - Call Me Maybe (metal cover by Leo Moracchioli)\n02:03:17 Psy - Gangnam Style (metal cover by Leo Moracchioli)\n02:08:08 Daft Punk - Get Lucky (metal cover by Leo Moracchioli)\n02:11:33 Drake - Hotline Bling (metal cover by Leo Moracchioli)\n02:14:34 Justin Bieber - Sorry (metal cover by Leo Moracchioli)\n02:18:13 Miley Cyrus - Wrecking Ball (metal cover by Leo Moracchioli)\n\n\\m/ \\m/",
+    "playlistId" : "PLp6-Byv1f9kMra-Z-ebbqpTQ-lGrijPPX",
+    "position" : 0,
+    "publishedAt" : "2017-01-16T17:31:20.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "M5VQfaL0Xzw"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/M5VQfaL0Xzw/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/M5VQfaL0Xzw/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/M5VQfaL0Xzw/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/M5VQfaL0Xzw/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/M5VQfaL0Xzw/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Metal Covers of Popular Songs 2016 [Leo Moracchioli]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+} ]

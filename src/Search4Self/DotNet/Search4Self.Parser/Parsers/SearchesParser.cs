@@ -13,7 +13,7 @@ namespace Search4Self.Parser.Parsers
         public static async Task<IDictionary<string, int>> ParseSeenVideosAsync(IEnumerable<ZipArchiveEntry> searchesFiles,
             string pythonExecutablePath)
         {
-            var folderName = Guid.NewGuid().ToString();
+            var folderName = Path.Combine("temp", Guid.NewGuid().ToString());
 
             try
             {
@@ -22,7 +22,7 @@ namespace Search4Self.Parser.Parsers
                 foreach (var entry in searchesFiles)
                 {
                     using (var stream = entry.Open())
-                    using (var file = File.Create(Path.Combine(folder.Name, entry.Name)))
+                    using (var file = File.Create(Path.Combine(folder.FullName, entry.Name)))
                     {
                         await stream.CopyToAsync(file).ConfigureAwait(false);
                     }
