@@ -32,8 +32,24 @@ namespace Search4Self.Controllers
         {
             Authorize();
 
+            var groupData = User.MusicGenres.GroupBy(m => m.Date.AddDays(-(int)m.Date.DayOfWeek)).ToList();
 
-            return Ok();
+            var result = new BOL.MusicGenres()
+            {
+                Data = new List<Tuple<DateTime, List<Tuple<string, int>>>>(),
+                Genres = User.MusicGenres.Select(m => m.Genre).Distinct().ToList()
+            };
+
+            foreach(var group in groupData)
+            {
+                var element = new Tuple<DateTime, List<Tuple<string, int>>>(group.Key, new List<Tuple<string, int>>());
+                foreach (var genreGroup in group.GroupBy(g => g.Genre))
+                {
+                    element.Item2.Add(new Tuple<string, int>(genreGroup.Key, genreGroup.Select(g => g.Hits).DefaultIfEmpty(0).Sum()));
+                }
+            }
+
+            return Ok(result);
         }
 
     }

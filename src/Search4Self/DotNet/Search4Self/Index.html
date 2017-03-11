@@ -27,7 +27,7 @@
             <md-button ng-href="/music" ng-disabled="false">
                 Music
             </md-button>
-            <md-button  aria-label="Logout" ng-disabled="false">
+            <md-button aria-label="Logout" ng-disabled="false">
                 Google Search
             </md-button>
 
@@ -63,30 +63,15 @@
 
         <md-content flex layout="column" class="with-background">
 
-            <div layout="column" layout-align="top center">
-               
-
-                <ng-view></ng-view>
+            <div layout="row" layout-align="top center">
 
 
+                <ng-view flex></ng-view>
 
-                <!--<div>
-                    <md-button ng-click="toggleLeft()"
-                               class="md-primary" hide-gt-md>
-                        Toggle left
-                    </md-button>
-                </div>
 
-                <div>
-                    <md-button ng-click="toggleRight()"
-                               ng-hide="isOpenRight()"
-                               class="md-primary">
-                        Toggle right
-                    </md-button>
-                </div>-->
             </div>
 
-            <div flex></div>
+            <!--<div flex></div>-->
 
         </md-content>
 

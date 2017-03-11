@@ -13,5 +13,8 @@ namespace Search4Self.DAL.Models
         [Index]
         public Guid Session { get; set; }
 
+        public virtual List<MusicGenreEntity> MusicGenres { get; set; } = new List<MusicGenreEntity>();
+        public virtual List<YoutubeSearchHistoryEntity> YoutubeSearches { get; set; } = new List<YoutubeSearchHistoryEntity>();
+
     }
 }

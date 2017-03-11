@@ -12,17 +12,11 @@
         $rootScope.baseUrl = baseUrl;
 
         var res = $resource('/', {}, {
-            //Users
-            updateUserProblems: {
-                url: baseUrl + 'admin/sourceProviders',
-                method: 'POST',
-                isArray: false
-            },
-            getTest: {
-                url: baseUrl + 'test/test/:userName',
+            // Music
+            getMusicGenres: {
+                url: baseUrl + 'music/genres',
                 method: 'GET',
-                params: { userName: '@userName' },
-                isArray: true
+                isArray: false
             },
 
             getMe: {
