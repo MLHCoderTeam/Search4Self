@@ -1,9 +1,6 @@
 ﻿using Search4Self.DAL.Repositories;
 using System;
-using System.Collections.Generic;
 using System.Data.Entity;
-using System.Linq;
-using System.Web;
 
 namespace Search4Self.DAL
 {
@@ -56,6 +53,7 @@ namespace Search4Self.DAL
 
         private UserRepository _userRepository;
         private MusicGenreRepository _musicGenreRepository;
+        private YoutubeSearchHistoryRepository _youtubeSearchHistoryRepository;
 
         #endregion
 
@@ -63,6 +61,8 @@ namespace Search4Self.DAL
 
         public UserRepository UserRepository => _userRepository ?? (_userRepository = new UserRepository(_dbContext));
         public MusicGenreRepository MusicGenreRepository => _musicGenreRepository ?? (_musicGenreRepository = new MusicGenreRepository(_dbContext));
+        public YoutubeSearchHistoryRepository YoutubeSearchHistoryRepository => _youtubeSearchHistoryRepository
+            ?? (_youtubeSearchHistoryRepository = new YoutubeSearchHistoryRepository(_dbContext));
 
         #endregion
     }
