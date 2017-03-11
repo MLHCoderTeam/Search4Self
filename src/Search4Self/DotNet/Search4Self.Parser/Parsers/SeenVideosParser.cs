@@ -4,6 +4,7 @@ using System.IO;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
 using Search4Self.Parser.Models;
+using System.Configuration;
 
 namespace Search4Self.Parser.Parsers
 {
@@ -20,7 +21,7 @@ namespace Search4Self.Parser.Parsers
                     await stream.CopyToAsync(file).ConfigureAwait(false);
                 }
 
-                var processInfo = new ProcessStartInfo("python")
+                var processInfo = new ProcessStartInfo(ConfigurationManager.AppSettings["PythonPath"])
                 {
                     Arguments = $"{pythonExecutablePath} {fileName}",
                     UseShellExecute = false,

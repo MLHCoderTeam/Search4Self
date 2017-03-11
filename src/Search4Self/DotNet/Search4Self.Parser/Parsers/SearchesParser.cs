@@ -5,6 +5,7 @@ using System.IO;
 using System.IO.Compression;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
+using System.Configuration;
 
 namespace Search4Self.Parser.Parsers
 {
@@ -28,7 +29,7 @@ namespace Search4Self.Parser.Parsers
                     }
                 }
 
-                var processInfo = new ProcessStartInfo("python")
+                var processInfo = new ProcessStartInfo(ConfigurationManager.AppSettings["PythonPath"])
                 {
                     Arguments = $"{pythonExecutablePath} {folderName}",
                     UseShellExecute = false,
