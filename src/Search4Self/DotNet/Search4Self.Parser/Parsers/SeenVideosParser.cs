@@ -11,7 +11,7 @@ namespace Search4Self.Parser.Parsers
     {
         public static async Task<SeenVideosHistoryModel> ParseSeenVideosAsync(Stream stream, string pythonExecutablePath)
         {
-            var fileName = Guid.NewGuid().ToString();
+            var fileName = Path.Combine("temp", Guid.NewGuid().ToString());
 
             try
             {
