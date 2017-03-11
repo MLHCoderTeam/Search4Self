@@ -415,10 +415,12 @@
     <Compile Include="DAL\DatabaseInitializer.cs" />
     <Compile Include="DAL\Models\BaseEntity.cs" />
     <Compile Include="DAL\Models\MusicGenreEntity.cs" />
+    <Compile Include="DAL\Models\SearchEntity.cs" />
     <Compile Include="DAL\Models\YoutubeSearchHistoryEntity.cs" />
     <Compile Include="DAL\Models\UserEntity.cs" />
     <Compile Include="DAL\Repositories\BaseRepository.cs" />
     <Compile Include="DAL\Repositories\MusicRepository.cs" />
+    <Compile Include="DAL\Repositories\SearchesRepository.cs" />
     <Compile Include="DAL\Repositories\UserRepository.cs" />
     <Compile Include="DAL\Repositories\YoutubeSearchHistoryRepository.cs" />
     <Compile Include="DAL\UnitOfWork.cs" />

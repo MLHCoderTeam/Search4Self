@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.IO;
 using System.IO.Compression;
 using System.Linq;
@@ -16,8 +15,10 @@ namespace Search4Self.Service
     {
         public const string YoutubeSearch = @"Takeout\Youtube\history\search-history.html";
         public const string YoutubeVideos = @"Takeout\Youtube\history\watch-history.json";
+        public const string Searches = @"Takeout\Searches";
 
-        public const string PythonExecutablePath = @"";
+        public const string YoutubePythonExecutablePath = @"";
+        public const string SearchesPythonExecutablePath = @"";
 
         public static async Task UnzipAsync(Stream fileStream, Guid userId)
         {
@@ -36,7 +37,15 @@ namespace Search4Self.Service
                 if (seenVideosPart != null)
                 {
                     using (var stream = seenVideosPart.Open())
-                        tasks.Add(HandleSeenVideosAsync(stream).ConfigureAwait(false));
+                        tasks.Add(HandleSeenVideosHistoryAsync(stream, userId).ConfigureAwait(false));
+                }
+
+                var dirName = Path.GetDirectoryName(Searches);
+                var searchesFiles = archive.Entries.Where(p => Path.GetDirectoryName(p.FullName) == dirName).ToList();
+
+                if (searchesFiles.Any())
+                {
+                    tasks.Add(HandleSearchesAsync(searchesFiles, userId).ConfigureAwait(false));
                 }
 
                 // Wait for all the tasks to finish
@@ -58,51 +67,58 @@ namespace Search4Self.Service
                 Word = i.Key,
                 UserId = userId
             }).ToArray();
-            
+
             using (var unitOfWork = new UnitOfWork())
             {
                 unitOfWork.YoutubeSearchHistoryRepository.InsertAll(models);
             }
         }
 
-        private static async Task HandleSeenVideosAsync(Stream stream)
+        private static async Task HandleSeenVideosHistoryAsync(Stream stream, Guid userId)
         {
-            var fileName = Guid.NewGuid().ToString();
-
-            try
+            var result = await SeenVideosParser.ParseSeenVideosAsync(stream, YoutubePythonExecutablePath).ConfigureAwait(false);
+            if (result == null)
             {
-                using (var file = File.Create(fileName))
-                {
-                    await stream.CopyToAsync(file).ConfigureAwait(false);
-                }
-
-                var processInfo = new ProcessStartInfo(PythonExecutablePath)
-                {
-                    Arguments = $"python {fileName}",
-                    UseShellExecute = false,
-                    RedirectStandardOutput = true
-                };
-
-                string executionResult;
-                using (var process = Process.Start(processInfo))
-                using (var reader = process?.StandardOutput)
-                {
-                    if (reader == null)
-                    {
-                        return;
-                    }
-
-                    executionResult = await reader.ReadToEndAsync().ConfigureAwait(false);
-                }
-
-                await SeenVideosParser.ParseSeenVideosAsync(executionResult).ConfigureAwait(false);
+                return;
             }
-            finally
+
+            using (var unitOfWork = new UnitOfWork())
             {
-                if (File.Exists(fileName))
+                foreach (var entry in result.Histogram)
                 {
-                    File.Delete(fileName);
+                    var models = entry.Value.Select(i => new MusicGenreEntity
+                    {
+                        Id = Guid.NewGuid(),
+                        UserId = userId,
+                        Date = entry.Key,
+                        Genre = i.Key,
+                        Hits = i.Value
+                    }).ToArray();
+
+                    unitOfWork.MusicGenreRepository.InsertAll(models);
                 }
+            }
+        }
+
+        private static async Task HandleSearchesAsync(IEnumerable<ZipArchiveEntry> searchesFiles, Guid userId)
+        {
+            var result = await SearchesParser.ParseSeenVideosAsync(searchesFiles, SearchesPythonExecutablePath).ConfigureAwait(false);
+            if (result == null)
+            {
+                return;
+            }
+
+            using (var unitOfWork = new UnitOfWork())
+            {
+                var models = result.Select(i => new SearchEntity
+                {
+                    UserId = userId,
+                    Id = Guid.NewGuid(),
+                    Count = i.Value,
+                    Query = i.Key
+                }).ToArray();
+
+                unitOfWork.SearchesRepository.InsertAll(models);
             }
         }
     }

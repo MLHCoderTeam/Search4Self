@@ -1,28 +1,36 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
+using System.IO.Compression;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
-using Search4Self.Parser.Models;
 
 namespace Search4Self.Parser.Parsers
 {
-    public static class SeenVideosParser
+    public static class SearchesParser
     {
-        public static async Task<SeenVideosHistoryModel> ParseSeenVideosAsync(Stream stream, string pythonExecutablePath)
+        public static async Task<IDictionary<string, int>> ParseSeenVideosAsync(IEnumerable<ZipArchiveEntry> searchesFiles,
+            string pythonExecutablePath)
         {
-            var fileName = Guid.NewGuid().ToString();
+            var folderName = Guid.NewGuid().ToString();
 
             try
             {
-                using (var file = File.Create(fileName))
+                var folder = Directory.CreateDirectory(folderName);
+
+                foreach (var entry in searchesFiles)
                 {
-                    await stream.CopyToAsync(file).ConfigureAwait(false);
+                    using (var stream = entry.Open())
+                    using (var file = File.Create(Path.Combine(folder.Name, entry.Name)))
+                    {
+                        await stream.CopyToAsync(file).ConfigureAwait(false);
+                    }
                 }
 
                 var processInfo = new ProcessStartInfo(pythonExecutablePath)
                 {
-                    Arguments = $"python {fileName}",
+                    Arguments = $"python {folderName}",
                     UseShellExecute = false,
                     RedirectStandardOutput = true
                 };
@@ -39,13 +47,13 @@ namespace Search4Self.Parser.Parsers
                     executionResult = await reader.ReadToEndAsync().ConfigureAwait(false);
                 }
 
-                return JsonConvert.DeserializeObject<SeenVideosHistoryModel>(executionResult);
+                return JsonConvert.DeserializeObject<IDictionary<string, int>>(executionResult);
             }
             finally
             {
-                if (File.Exists(fileName))
+                if (Directory.Exists(folderName))
                 {
-                    File.Delete(fileName);
+                    Directory.Delete(folderName);
                 }
             }
         }

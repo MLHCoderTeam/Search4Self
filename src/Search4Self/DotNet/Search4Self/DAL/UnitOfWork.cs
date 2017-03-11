@@ -54,6 +54,7 @@ namespace Search4Self.DAL
         private UserRepository _userRepository;
         private MusicGenreRepository _musicGenreRepository;
         private YoutubeSearchHistoryRepository _youtubeSearchHistoryRepository;
+        private SearchesRepository _searchesRepository;
 
         #endregion
 
@@ -63,6 +64,7 @@ namespace Search4Self.DAL
         public MusicGenreRepository MusicGenreRepository => _musicGenreRepository ?? (_musicGenreRepository = new MusicGenreRepository(_dbContext));
         public YoutubeSearchHistoryRepository YoutubeSearchHistoryRepository => _youtubeSearchHistoryRepository
             ?? (_youtubeSearchHistoryRepository = new YoutubeSearchHistoryRepository(_dbContext));
+        public SearchesRepository SearchesRepository => _searchesRepository ?? (_searchesRepository = new SearchesRepository(_dbContext));
 
         #endregion
     }
