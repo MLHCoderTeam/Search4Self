@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Security.Policy;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
@@ -39,7 +40,7 @@ namespace Search4Self.Parser.Parsers
                     continue;
                 }
 
-                var value = match.Value.Substring(2, match.Value.Length - 6);
+                var value = Uri.UnescapeDataString(match.Value.Substring(2, match.Value.Length - 6));
                 var words = value.Split(' ');
 
                 foreach (var word in words)

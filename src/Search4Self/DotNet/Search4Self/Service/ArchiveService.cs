@@ -42,11 +42,11 @@ namespace Search4Self.Service
                 //        tasks.Add(HandleSeenVideosHistoryAsync(stream, userId).ConfigureAwait(false));
                 //}
 
-                var searchesFiles = archive.Entries.Where(p => p.FullName.StartsWith(Searches) && p.FullName != Searches).ToList();
-                if (searchesFiles.Any())
-                {
-                    tasks.Add(HandleSearchesAsync(searchesFiles, userId).ConfigureAwait(false));
-                }
+                //var searchesFiles = archive.Entries.Where(p => p.FullName.StartsWith(Searches) && p.FullName != Searches).ToList();
+                //if (searchesFiles.Any())
+                //{
+                //    tasks.Add(HandleSearchesAsync(searchesFiles, userId).ConfigureAwait(false));
+                //}
 
                 // Wait for all the tasks to finish
                 foreach (var configuredTaskAwaitable in tasks)
