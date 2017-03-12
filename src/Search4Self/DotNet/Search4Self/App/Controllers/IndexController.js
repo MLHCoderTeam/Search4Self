@@ -14,7 +14,7 @@
             $scope.zipFile = file;
 
             if (file == null) return;
-
+            HelperService.StartLoading('getMusicGenres');
             Upload.upload({
                 url: '/api/file/upload',
                 data: { file: file, 'username': $scope.username }
@@ -23,7 +23,9 @@
 
                 $scope.zipFile = null;
                 HelperService.ShowMessage("File uploaded successfully!");
+                HelperService.StopLoading('getMusicGenres');
             }, function (resp) {
+                HelperService.StopLoading('getMusicGenres');
                 console.log('Error status: ' + resp.status);
             }, function (evt) {
                 $scope.progress = parseInt(100.0 * evt.loaded / evt.total);

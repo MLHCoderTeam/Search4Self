@@ -325,6 +325,7 @@
     <Content Include="App\API.js" />
     <Content Include="App\app.js" />
     <Content Include="App\Controllers\IndexController.js" />
+    <Content Include="App\Controllers\GoogleController.js" />
     <Content Include="App\Controllers\MusicController.js" />
     <Content Include="App\Directives\BarChart.js" />
     <Content Include="App\Directives\GenreChart.js" />
@@ -409,6 +410,7 @@
     <Content Include="Scripts\ng-file-upload.js" />
     <Content Include="Scripts\ng-file-upload.min.js" />
     <Content Include="temp\upload-here.html" />
+    <Content Include="Views\Google.html" />
     <Content Include="Views\Music.html" />
     <Content Include="Views\Index.html" />
     <Content Include="Web.config" />
@@ -418,6 +420,7 @@
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="BOL\MusicGenres.cs" />
     <Compile Include="Controllers\AuthInjectedController.cs" />
+    <Compile Include="Controllers\GoogleController.cs" />
     <Compile Include="Controllers\FileController.cs" />
     <Compile Include="Controllers\MusicController.cs" />
     <Compile Include="Controllers\DefaultController.cs" />

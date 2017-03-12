@@ -15,6 +15,7 @@ namespace Search4Self.DAL.Models
 
         public virtual List<MusicGenreEntity> MusicGenres { get; set; } = new List<MusicGenreEntity>();
         public virtual List<YoutubeSearchHistoryEntity> YoutubeSearches { get; set; } = new List<YoutubeSearchHistoryEntity>();
+        public virtual List<SearchEntity> Searches { get; set; } = new List<SearchEntity>();
 
     }
 }

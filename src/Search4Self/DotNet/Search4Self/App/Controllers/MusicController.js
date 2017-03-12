@@ -41,8 +41,15 @@
                 ctrl.genres = success.genres;
 
                 success.data.forEach(function (el) {
+                    var entry = { date: el.item1 };
+                    el.item2.forEach(function (genre) {
+                        entry[genre.item1] = genre.item2;
+                    });
 
+                    ctrl.genresData.push(entry);
                 });
+
+                console.log(ctrl.genresData);
 
                 HelperService.StopLoading('getMusicGenres');
             }, function (error) {
@@ -68,6 +75,6 @@
             });
         }
 
-      
+
         init();
     });

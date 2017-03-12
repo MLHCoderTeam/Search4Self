@@ -23,6 +23,11 @@
                 method: 'GET',
                 isArray: true
             },
+            getGoogleSearches: {
+                url: baseUrl + 'google/searches',
+                method: 'GET',
+                isArray: true
+            },
 
             getMe: {
                 url: baseUrl + 'account/whoAmI',

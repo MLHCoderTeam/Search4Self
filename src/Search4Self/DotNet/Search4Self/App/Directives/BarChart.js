@@ -10,7 +10,7 @@
                 //replace: true,
                 scope: {
                     data: '=data',
-                    title:'=title'
+                    title: '=title'
                 },
                 template: '<div id="chartdiv-bar-chart" style="min-width: 310px; height: 500px; margin: 0 auto"></div>',
                 link: function (scope, element, attrs) {
@@ -27,14 +27,14 @@
 
 
                         var data = [
-                            {
-                                "word": "killer",
-                                "count": 18,
-                            },
-                            {
-                                "word": "cars",
-                                "count": 8,
-                            },
+                            //{
+                            //    "word": "killer",
+                            //    "count": 18,
+                            //},
+                            //{
+                            //    "word": "cars",
+                            //    "count": 8,
+                            //},
                         ];
                         if (scope.data && scope.data.length > 0)
                             data = scope.data;
@@ -67,7 +67,8 @@
                                 "gridPosition": "start",
                                 "gridAlpha": 0,
                                 "tickPosition": "start",
-                                "tickLength": 20
+                                "tickLength": 20,
+                                "labelRotation": 45
                             }
                         };
 

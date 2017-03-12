@@ -23,10 +23,15 @@ angular.module('Search4Self', ['ngMaterial', 'ngRoute', 'ngResource', 'ngFileUpl
             //    templateUrl: '/Views/District.html',
             //    controller: 'DistrictController'
             //})
-            .when('/music', {
+            .when('/youtube', {
                 templateUrl: '/Views/Music.html',
                 controller: 'MusicController',
                 controllerAs:'ctrl'
+            })
+            .when('/google', {
+                templateUrl: '/Views/Google.html',
+                controller: 'GoogleController',
+                controllerAs: 'ctrl'
             })
 
             .otherwise({

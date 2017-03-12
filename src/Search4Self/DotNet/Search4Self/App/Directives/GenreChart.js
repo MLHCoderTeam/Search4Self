@@ -25,21 +25,21 @@
                     var initChart = function () {
                         if (chart) chart.destroy();
 
-                        var genres = ['rock', 'classic'];
+                        var genres = [/*'rock', 'classic'*/];
                         if (scope.genres && scope.genres.length > 0)
                             genres = scope.genres;
 
                         var data = [
-                            {
-                                "date": "2014-03-01",
-                                "rock": 18,
-                                "classic": 15
-                            },
-                            {
-                                "date": "2014-03-02",
-                                "rock": 8,
-                                "classic": 5
-                            },
+                            //{
+                            //    "date": "2014-03-01",
+                            //    "rock": 18,
+                            //    "classic": 15
+                            //},
+                            //{
+                            //    "date": "2014-03-02",
+                            //    "rock": 8,
+                            //    "classic": 5
+                            //},
                         ];
                         if (scope.data && scope.data.length > 0)
                             data = scope.data;
@@ -109,7 +109,7 @@
                                 "bullet": "round",
                                 "id": "AmGraph-" + i,
                                 "title": genre,
-                                "valueField": "column-" + genre,
+                                "valueField": "column-" + i,
                                 "balloon": {
                                     "drop": true,
                                     "adjustBorderColor": false,
@@ -129,8 +129,8 @@
                             var element = {
                                 date: d.date
                             };
-                            genres.forEach(function (genre) {
-                                element['column-' + genre] = d[genre];
+                            genres.forEach(function (genre, index) {
+                                element['column-' + (index+1)] = d[(index+1)+''];
                             });
                             config.dataProvider.push(element);
                         });
