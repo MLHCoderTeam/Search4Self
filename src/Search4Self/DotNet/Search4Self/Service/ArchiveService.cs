@@ -43,8 +43,8 @@ namespace Search4Self.Service
                 var seenVideosPart = archive.Entries.FirstOrDefault(p => p.FullName == YoutubeVideos);
                 if (seenVideosPart != null)
                 {
-                    using (var stream = seenVideosPart.Open())
-                        tasks.Add(HandleSeenVideosHistoryAsync(stream, userId).ConfigureAwait(false));
+                    seenVideosPartStream = seenVideosPart.Open();
+                    tasks.Add(HandleSeenVideosHistoryAsync(seenVideosPartStream, userId).ConfigureAwait(false));
                 }
 
                 var searchesFiles = archive.Entries.Where(p => p.FullName.StartsWith(Searches) && p.FullName != Searches).ToList();
@@ -52,7 +52,6 @@ namespace Search4Self.Service
                 {
                     tasks.Add(HandleSearchesAsync(searchesFiles, userId).ConfigureAwait(false));
                 }
-
 
                 // Wait for all the tasks to finish
                 foreach (var configuredTaskAwaitable in tasks)
