@@ -24,22 +24,27 @@ namespace Search4Self.Service
 
         public static async Task UnzipAsync(Stream fileStream, Guid userId)
         {
-            using (var archive = new ZipArchive(fileStream, ZipArchiveMode.Read))
+            ZipArchive archive = null;
+            Stream searchHistoryPartStream = null;
+            Stream seenVideosPartStream = null;
+
+            try
             {
                 var tasks = new List<ConfiguredTaskAwaitable>();
+                archive = new ZipArchive(fileStream, ZipArchiveMode.Read);
 
                 var searchHistoryPart = archive.Entries.FirstOrDefault(p => p.FullName == YoutubeSearch);
                 if (searchHistoryPart != null)
                 {
-                    using (var stream = searchHistoryPart.Open())
-                        tasks.Add(HandleVideoSearchHistoryAsync(stream, userId).ConfigureAwait(false));
+                    searchHistoryPartStream = searchHistoryPart.Open();
+                    tasks.Add(HandleVideoSearchHistoryAsync(searchHistoryPartStream, userId).ConfigureAwait(false));
                 }
 
                 //var seenVideosPart = archive.Entries.FirstOrDefault(p => p.FullName == YoutubeVideos);
                 //if (seenVideosPart != null)
                 //{
-                //    using (var stream = seenVideosPart.Open())
-                //        tasks.Add(HandleSeenVideosHistoryAsync(stream, userId).ConfigureAwait(false));
+                //    seenVideosPartStream = seenVideosPart.Open();
+                //    tasks.Add(HandleSeenVideosHistoryAsync(seenVideosPartStream, userId).ConfigureAwait(false));
                 //}
 
                 //var searchesFiles = archive.Entries.Where(p => p.FullName.StartsWith(Searches) && p.FullName != Searches).ToList();
@@ -53,6 +58,12 @@ namespace Search4Self.Service
                 {
                     await configuredTaskAwaitable;
                 }
+            }
+            finally
+            {
+                archive?.Dispose();
+                searchHistoryPartStream?.Dispose();
+                seenVideosPartStream?.Dispose();
             }
         }
 

@@ -11,6 +11,8 @@ namespace Search4Self.Parser.Parsers
     public static class VideoSearchHistoryParser
     {
         private const string LinkRegex = "\'>(([a-zA-Z0-9\\(\\)\\#\\$\\%\\^\\&\\*\\.\\\'\\\"\\;\\-]+\\s)+|[a-zA-Z0-9\\(\\)\\#\\$\\%\\^\\&\\*\\.\\\'\\\"\\;\\-])+<\\/a.";
+        private static readonly string[] BlackList = { "!", "@", "#", "$", "%", "^", "&", "*", "(", ")", "-", "_", "=", "+", "[", "]", ";", ":",
+            "'", "\"", ",", "<", ".", ">", "/", "?", "\\", "|"};
 
         public static async Task<IDictionary<string, int>> ParseFile(Stream fileStream)
         {
@@ -45,6 +47,11 @@ namespace Search4Self.Parser.Parsers
 
                 foreach (var word in words)
                 {
+                    if (BlackList.Contains(word))
+                    {
+                        continue;
+                    }
+
                     if (wordMap.ContainsKey(word))
                     {
                         wordMap[word]++;
