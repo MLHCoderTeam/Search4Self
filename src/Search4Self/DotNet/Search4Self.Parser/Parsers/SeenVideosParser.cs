@@ -37,7 +37,7 @@ namespace Search4Self.Parser.Parsers
                         return null;
                     }
 
-                    executionResult = await reader.ReadToEndAsync().ConfigureAwait(false);
+                    executionResult = reader.ReadToEnd();
                 }
 
                 return JsonConvert.DeserializeObject<SeenVideosHistoryModel>(executionResult);
