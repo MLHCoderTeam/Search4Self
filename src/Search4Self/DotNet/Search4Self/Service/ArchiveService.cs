@@ -96,6 +96,8 @@ namespace Search4Self.Service
 
             using (var unitOfWork = new UnitOfWork())
             {
+                unitOfWork.MusicGenreRepository.DeleteForUser(userId);
+
                 foreach (var entry in result.Histogram)
                 {
                     var models = entry.Value.Select(i => new MusicGenreEntity
@@ -107,7 +109,6 @@ namespace Search4Self.Service
                         Hits = i.Value
                     }).ToArray();
 
-                    unitOfWork.MusicGenreRepository.DeleteForUser(userId);
                     unitOfWork.MusicGenreRepository.InsertAll(models);
                 }
             }
