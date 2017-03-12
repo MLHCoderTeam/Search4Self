@@ -25,5 +25,6 @@ namespace Search4Self.DAL
         public DbSet<UserEntity> Users { get; set; }
         public DbSet<MusicGenreEntity> MusicGenres { get; set; }
         public DbSet<YoutubeSearchHistoryEntity> YoutubeSearchHistory { get; set; }
+        public DbSet<SearchEntity> Searches { get; set; }
     }
 }

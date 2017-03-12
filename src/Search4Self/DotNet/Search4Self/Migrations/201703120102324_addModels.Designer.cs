@@ -7,13 +7,13 @@ namespace Search4Self.DAL
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.1.3-40302")]
-    public sealed partial class Added_More_Models : IMigrationMetadata
+    public sealed partial class addModels : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(Added_More_Models));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(addModels));
         
         string IMigrationMetadata.Id
         {
-            get { return "201703112026232_Added_More_Models"; }
+            get { return "201703120102324_addModels"; }
         }
         
         string IMigrationMetadata.Source

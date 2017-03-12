@@ -447,9 +447,9 @@
     <Compile Include="Migrations\201703111733167_Added_youtube_search_history_model.Designer.cs">
       <DependentUpon>201703111733167_Added_youtube_search_history_model.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\201703112026232_Added_More_Models.cs" />
-    <Compile Include="Migrations\201703112026232_Added_More_Models.Designer.cs">
-      <DependentUpon>201703112026232_Added_More_Models.cs</DependentUpon>
+    <Compile Include="Migrations\201703120102324_addModels.cs" />
+    <Compile Include="Migrations\201703120102324_addModels.Designer.cs">
+      <DependentUpon>201703120102324_addModels.cs</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Service\ArchiveService.cs" />
@@ -480,8 +480,8 @@
     <EmbeddedResource Include="Migrations\201703111733167_Added_youtube_search_history_model.resx">
       <DependentUpon>201703111733167_Added_youtube_search_history_model.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201703112026232_Added_More_Models.resx">
-      <DependentUpon>201703112026232_Added_More_Models.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201703120102324_addModels.resx">
+      <DependentUpon>201703120102324_addModels.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
