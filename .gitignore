@@ -448,4 +448,6 @@ ENV/
 # Rope project settings
 .ropeproject
 
+temp/
+
 # End of https://www.gitignore.io/api/go,visualstudio,visualstudiocode,dotsettings,vim,notepadpp,sublimetext

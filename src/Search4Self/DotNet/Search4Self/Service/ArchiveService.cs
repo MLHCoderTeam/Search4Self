@@ -35,12 +35,12 @@ namespace Search4Self.Service
                         tasks.Add(HandleVideoSearchHistoryAsync(stream, userId).ConfigureAwait(false));
                 }
 
-                var seenVideosPart = archive.Entries.FirstOrDefault(p => p.FullName == YoutubeVideos);
-                if (seenVideosPart != null)
-                {
-                    using (var stream = seenVideosPart.Open())
-                        tasks.Add(HandleSeenVideosHistoryAsync(stream, userId).ConfigureAwait(false));
-                }
+                //var seenVideosPart = archive.Entries.FirstOrDefault(p => p.FullName == YoutubeVideos);
+                //if (seenVideosPart != null)
+                //{
+                //    using (var stream = seenVideosPart.Open())
+                //        tasks.Add(HandleSeenVideosHistoryAsync(stream, userId).ConfigureAwait(false));
+                //}
 
                 var searchesFiles = archive.Entries.Where(p => p.FullName.StartsWith(Searches) && p.FullName != Searches).ToList();
                 if (searchesFiles.Any())
