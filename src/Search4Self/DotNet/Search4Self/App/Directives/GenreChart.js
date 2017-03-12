@@ -17,7 +17,6 @@
 
                     scope.$watch('genres', function (newValue, oldValue) {
                         initChart();
-                        console.log(newValue);
                     });
 
 
@@ -80,31 +79,9 @@
                             },
                             "trendLines": [],
                             "graphs": [
-                                //{
-                                //    "bullet": "round",
-                                //    "id": "AmGraph-1",
-                                //    "title": "graph 1",
-                                //    "valueField": "column-1",
-                                //    "balloon": {
-                                //        "drop": true,
-                                //        "adjustBorderColor": false,
-                                //        "color": "#ffffff"
-                                //    },
-                                //    "bulletBorderAlpha": 1,
-                                //    "bulletColor": "#FFFFFF",
-                                //    "bulletSize": 5,
-                                //    "hideBulletsCount": 50,
-                                //    "lineThickness": 2,
-                                //    "useLineColorForBulletBorder": true,
-                                //},
-
                             ],
                             "guides": [],
                             "valueAxes": [
-                                //{
-                                //    "id": "ValueAxis-1",
-                                //    "title": "Axis title"
-                                //}
                             ],
                             "allLabels": [],
                             "balloon": {
@@ -123,11 +100,6 @@
                                 }
                             ],
                             "dataProvider": [
-                                //{
-                                //    "date": "2014-03-01",
-                                //    "column-1": 8,
-                                //    "column-2": 5
-                                //}
                             ]
                         };
 

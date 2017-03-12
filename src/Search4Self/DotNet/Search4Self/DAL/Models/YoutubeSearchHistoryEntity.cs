@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Search4Self.DAL.Models
@@ -13,6 +14,7 @@ namespace Search4Self.DAL.Models
         public Guid UserId { get; set; }
 
         [ForeignKey("UserId")]
+        [JsonIgnore]
         public virtual UserEntity User { get; set; }
     }
 }

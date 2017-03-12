@@ -322,6 +322,7 @@
     <Content Include="App\app.js" />
     <Content Include="App\Controllers\IndexController.js" />
     <Content Include="App\Controllers\MusicController.js" />
+    <Content Include="App\Directives\BarChart.js" />
     <Content Include="App\Directives\GenreChart.js" />
     <Content Include="App\Services\HelperService.js" />
     <Content Include="Content\angular-material.css" />

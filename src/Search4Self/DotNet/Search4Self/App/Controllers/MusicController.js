@@ -26,6 +26,7 @@
             //HelperService.ShowMessage("Un mesaj!", true);
 
             $scope.getMusicGenres();
+            $scope.getMusicWords();
         }
 
         $scope.getMusicGenres = function () {
@@ -45,6 +46,23 @@
                 HelperService.StopLoading('getMusicGenres');
             }, function (error) {
                 HelperService.StopLoading('getMusicGenres');
+                HelperService.ShowMessage("Check Internet connection and reload!");
+            });
+        }
+
+        $scope.getMusicWords = function () {
+            HelperService.StartLoading('getMusicWords');
+            API.getMusicWords(function (success) {
+
+                if (success == null || success.length == 0) {
+                    HelperService.ShowMessage("There is no data, please upload on the main page!");
+                }
+
+                ctrl.words = success;
+
+                HelperService.StopLoading('getMusicWords');
+            }, function (error) {
+                HelperService.StopLoading('getMusicWords');
                 HelperService.ShowMessage("Check Internet connection and reload!");
             });
         }

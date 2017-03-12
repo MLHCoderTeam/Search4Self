@@ -18,6 +18,11 @@
                 method: 'GET',
                 isArray: false
             },
+            getMusicWords: {
+                url: baseUrl + 'music/words',
+                method: 'GET',
+                isArray: true
+            },
 
             getMe: {
                 url: baseUrl + 'account/whoAmI',

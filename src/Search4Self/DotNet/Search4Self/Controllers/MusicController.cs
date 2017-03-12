@@ -52,5 +52,16 @@ namespace Search4Self.Controllers
             return Ok(result);
         }
 
+        [Route("words")]
+        [HttpGet]
+        public IHttpActionResult Words()
+        {
+            Authorize();
+
+            var result = User.YoutubeSearches.ToList();
+
+            return Ok(result);
+        }
+
     }
 }

@@ -61,15 +61,18 @@
 
         </md-sidenav>-->
 
-        <md-content flex layout="column" class="with-background">
-
-            <div layout="row" layout-align="top center">
 
 
-                <ng-view flex></ng-view>
+        <md-content flex layout="row" class="with-background">
+
+            <!--<div layout="row" flex layout-align="top center">
 
 
-            </div>
+
+
+            </div>-->
+            <ng-view flex></ng-view>
+
 
             <!--<div flex></div>-->
 
@@ -116,6 +119,7 @@
     <!--Amcharts-->
     <script src="/amcharts/amcharts.js"></script>
     <script src="/amcharts/serial.js"></script>
+    <script src="/amcharts/themes/light.js"></script>
 
     <!-- Angular Material Library -->
     <script src="/Scripts/angular-material/angular-material.min.js"></script>
@@ -133,6 +137,7 @@
 
     <!--Directives-->
     <script src="/App/Directives/GenreChart.js"></script>
+    <script src="/App/Directives/BarChart.js"></script>
 
 </body>
 </html>
