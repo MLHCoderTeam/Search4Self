@@ -31,7 +31,7 @@ namespace Search4Self.Parser.Parsers
 
                 var processInfo = new ProcessStartInfo(ConfigurationManager.AppSettings["PythonPath"])
                 {
-                    Arguments = $"{pythonExecutablePath} {folderName}",
+                    Arguments = $"\"{Path.Combine(appDir, pythonExecutablePath)}\" \"{folderName}\"",
                     UseShellExecute = false,
                     RedirectStandardOutput = true
                 };
