@@ -24,15 +24,20 @@ namespace Search4Self.Service
 
         public static async Task UnzipAsync(Stream fileStream, Guid userId)
         {
-            using (var archive = new ZipArchive(fileStream, ZipArchiveMode.Read))
+            ZipArchive archive = null;
+            Stream searchHistoryPartStream = null;
+            Stream seenVideosPartStream = null;
+
+            try
             {
                 var tasks = new List<ConfiguredTaskAwaitable>();
+                archive = new ZipArchive(fileStream, ZipArchiveMode.Read);
 
                 var searchHistoryPart = archive.Entries.FirstOrDefault(p => p.FullName == YoutubeSearch);
                 if (searchHistoryPart != null)
                 {
-                    using (var stream = searchHistoryPart.Open())
-                        tasks.Add(HandleVideoSearchHistoryAsync(stream, userId).ConfigureAwait(false));
+                    searchHistoryPartStream = searchHistoryPart.Open();
+                    tasks.Add(HandleVideoSearchHistoryAsync(searchHistoryPartStream, userId).ConfigureAwait(false));
                 }
 
                 var seenVideosPart = archive.Entries.FirstOrDefault(p => p.FullName == YoutubeVideos);
@@ -48,11 +53,18 @@ namespace Search4Self.Service
                     tasks.Add(HandleSearchesAsync(searchesFiles, userId).ConfigureAwait(false));
                 }
 
+
                 // Wait for all the tasks to finish
                 foreach (var configuredTaskAwaitable in tasks)
                 {
                     await configuredTaskAwaitable;
                 }
+            }
+            finally
+            {
+                archive?.Dispose();
+                searchHistoryPartStream?.Dispose();
+                seenVideosPartStream?.Dispose();
             }
         }
 
