@@ -13,12 +13,14 @@ namespace Search4Self.Service
 {
     public static class ArchiveService
     {
-        public const string YoutubeSearch = @"Takeout\Youtube\history\search-history.html";
-        public const string YoutubeVideos = @"Takeout\Youtube\history\watch-history.json";
-        public const string Searches = @"Takeout\Searches";
+        public const string YoutubeSearch = @"Takeout/YouTube/history/search-history.html";
+        public const string YoutubeVideos = @"Takeout/YouTube/history/watch-history.json";
+        public const string Searches = @"Takeout/Searches/";
 
         public const string YoutubePythonExecutablePath = @"Parsers\youtube_watched_hist_parser.py";
-        public const string SearchesPythonExecutablePath = @"Parsers\";
+        public const string SearchesPythonExecutablePath = @"Parsers\get_google_searches.py";
+
+        private static string WorkingDirectory => Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "bin");
 
         public static async Task UnzipAsync(Stream fileStream, Guid userId)
         {
@@ -30,23 +32,21 @@ namespace Search4Self.Service
                 if (searchHistoryPart != null)
                 {
                     using (var stream = searchHistoryPart.Open())
-                        tasks.Add(HandleSearchHistoryAsync(stream, userId).ConfigureAwait(false));
+                        tasks.Add(HandleVideoSearchHistoryAsync(stream, userId).ConfigureAwait(false));
                 }
 
-                var seenVideosPart = archive.Entries.FirstOrDefault(p => p.FullName == YoutubeVideos);
-                if (seenVideosPart != null)
-                {
-                    using (var stream = seenVideosPart.Open())
-                        tasks.Add(HandleSeenVideosHistoryAsync(stream, userId).ConfigureAwait(false));
-                }
+                //var seenVideosPart = archive.Entries.FirstOrDefault(p => p.FullName == YoutubeVideos);
+                //if (seenVideosPart != null)
+                //{
+                //    using (var stream = seenVideosPart.Open())
+                //        tasks.Add(HandleSeenVideosHistoryAsync(stream, userId).ConfigureAwait(false));
+                //}
 
-                var dirName = Path.GetDirectoryName(Searches);
-                var searchesFiles = archive.Entries.Where(p => Path.GetDirectoryName(p.FullName) == dirName).ToList();
-
-                if (searchesFiles.Any())
-                {
-                    tasks.Add(HandleSearchesAsync(searchesFiles, userId).ConfigureAwait(false));
-                }
+                //var searchesFiles = archive.Entries.Where(p => p.FullName.StartsWith(Searches) && p.FullName != Searches).ToList();
+                //if (searchesFiles.Any())
+                //{
+                //    tasks.Add(HandleSearchesAsync(searchesFiles, userId).ConfigureAwait(false));
+                //}
 
                 // Wait for all the tasks to finish
                 foreach (var configuredTaskAwaitable in tasks)
@@ -56,7 +56,7 @@ namespace Search4Self.Service
             }
         }
 
-        private static async Task HandleSearchHistoryAsync(Stream stream, Guid userId)
+        private static async Task HandleVideoSearchHistoryAsync(Stream stream, Guid userId)
         {
             var wordResult = await VideoSearchHistoryParser.ParseFile(stream).ConfigureAwait(false);
 
@@ -70,13 +70,14 @@ namespace Search4Self.Service
 
             using (var unitOfWork = new UnitOfWork())
             {
+                unitOfWork.YoutubeSearchHistoryRepository.DeleteForUser(userId);
                 unitOfWork.YoutubeSearchHistoryRepository.InsertAll(models);
             }
         }
 
         private static async Task HandleSeenVideosHistoryAsync(Stream stream, Guid userId)
         {
-            var result = await SeenVideosParser.ParseSeenVideosAsync(stream, YoutubePythonExecutablePath).ConfigureAwait(false);
+            var result = await SeenVideosParser.ParseSeenVideosAsync(WorkingDirectory, stream, YoutubePythonExecutablePath).ConfigureAwait(false);
             if (result == null)
             {
                 return;
@@ -95,6 +96,7 @@ namespace Search4Self.Service
                         Hits = i.Value
                     }).ToArray();
 
+                    unitOfWork.MusicGenreRepository.DeleteForUser(userId);
                     unitOfWork.MusicGenreRepository.InsertAll(models);
                 }
             }
@@ -102,7 +104,7 @@ namespace Search4Self.Service
 
         private static async Task HandleSearchesAsync(IEnumerable<ZipArchiveEntry> searchesFiles, Guid userId)
         {
-            var result = await SearchesParser.ParseSeenVideosAsync(searchesFiles, SearchesPythonExecutablePath).ConfigureAwait(false);
+            var result = await SearchesParser.ParseSearchesAsync(WorkingDirectory, searchesFiles, SearchesPythonExecutablePath).ConfigureAwait(false);
             if (result == null)
             {
                 return;
@@ -118,6 +120,7 @@ namespace Search4Self.Service
                     Query = i.Key
                 }).ToArray();
 
+                unitOfWork.SearchesRepository.DeleteForUser(userId);
                 unitOfWork.SearchesRepository.InsertAll(models);
             }
         }

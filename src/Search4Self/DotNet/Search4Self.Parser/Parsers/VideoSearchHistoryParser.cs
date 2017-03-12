@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Security.Policy;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
@@ -9,7 +10,7 @@ namespace Search4Self.Parser.Parsers
 {
     public static class VideoSearchHistoryParser
     {
-        private const string LinkRegex = @"<td><a href='https:\/\/www.youtube.com\/results\?q=(.+)'>(\w+\s)+\w+<\/a><\/td>";
+        private const string LinkRegex = "\'>(([a-zA-Z0-9\\(\\)\\#\\$\\%\\^\\&\\*\\.\\\'\\\"\\;\\-]+\\s)+|[a-zA-Z0-9\\(\\)\\#\\$\\%\\^\\&\\*\\.\\\'\\\"\\;\\-])+<\\/a.";
 
         public static async Task<IDictionary<string, int>> ParseFile(Stream fileStream)
         {
@@ -39,9 +40,7 @@ namespace Search4Self.Parser.Parsers
                     continue;
                 }
 
-                var startIndex = match.Value.IndexOf(">", 5, StringComparison.Ordinal) + 1;
-                var value = match.Value.Substring(startIndex, match.Value.Length - startIndex);
-                value = value.Replace("</a></td>", string.Empty);
+                var value = Uri.UnescapeDataString(match.Value.Substring(2, match.Value.Length - 6));
                 var words = value.Split(' ');
 
                 foreach (var word in words)

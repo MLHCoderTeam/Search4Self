@@ -10,15 +10,15 @@ namespace Search4Self.Parser.Parsers
 {
     public static class SeenVideosParser
     {
-        public static async Task<SeenVideosHistoryModel> ParseSeenVideosAsync(Stream stream, string pythonExecutablePath)
+        public static async Task<SeenVideosHistoryModel> ParseSeenVideosAsync(string appDir, Stream stream, string pythonExecutablePath)
         {
-            var fileName = Path.Combine("temp", Guid.NewGuid().ToString());
+            var fileName = Path.Combine(appDir, "temp", Guid.NewGuid().ToString());
 
             try
             {
-                using (var file = File.Create(fileName))
+                using (var fileStream = new FileStream(fileName, FileMode.Create))
                 {
-                    await stream.CopyToAsync(file).ConfigureAwait(false);
+                    await stream.CopyToAsync(fileStream).ConfigureAwait(false);
                 }
 
                 var processInfo = new ProcessStartInfo(ConfigurationManager.AppSettings["PythonPath"])
@@ -41,6 +41,11 @@ namespace Search4Self.Parser.Parsers
                 }
 
                 return JsonConvert.DeserializeObject<SeenVideosHistoryModel>(executionResult);
+            }
+            catch (Exception ex)
+            {
+                Debug.WriteLine(ex.Message);
+                return null;
             }
             finally
             {

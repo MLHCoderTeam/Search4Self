@@ -8,13 +8,13 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from collections import Counter
 
-files = os.listdir(sys.argv[1])
-nrSearches = int(sys.argv[2])
+folder = sys.argv[1]
+files = os.listdir(folder)
 
 searches = []
 dates = []
-for file in files:
-    with open("Data/Searches/%s"%(file)) as json_data:
+for _file in files:
+    with open(folder + "/" + _file) as json_data:
         d = json.load(json_data)
 
     for i in range(len(d['event'])):
@@ -28,8 +28,9 @@ hours = [datetime.datetime.strptime(i, '%Y-%m-%d %H:%M:%S').hour for i in dates]
 
 combo = [entry.lower().translate(str.maketrans("", "", string.punctuation)) for entry in searches if len(entry) > 3]
 freqs = Counter(combo)
-top = freqs.most_common(nrSearches)
 
-words = {k:v for (k,v) in freqs.most_common(nrSearches)}
+if len(sys.argv) > 2:
+    words = {k:v for (k,v) in freqs.most_common(sys.argv[2])}
+    freqs = words
 
-print(json.dumps(words))
+print(json.dumps(freqs))

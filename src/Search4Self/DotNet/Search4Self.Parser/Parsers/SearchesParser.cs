@@ -11,10 +11,10 @@ namespace Search4Self.Parser.Parsers
 {
     public static class SearchesParser
     {
-        public static async Task<IDictionary<string, int>> ParseSeenVideosAsync(IEnumerable<ZipArchiveEntry> searchesFiles,
+        public static async Task<IDictionary<string, int>> ParseSearchesAsync(string appDir, IEnumerable<ZipArchiveEntry> searchesFiles,
             string pythonExecutablePath)
         {
-            var folderName = Path.Combine("temp", Guid.NewGuid().ToString());
+            var folderName = Path.Combine(appDir, "temp", Guid.NewGuid().ToString());
 
             try
             {
@@ -23,9 +23,9 @@ namespace Search4Self.Parser.Parsers
                 foreach (var entry in searchesFiles)
                 {
                     using (var stream = entry.Open())
-                    using (var file = File.Create(Path.Combine(folder.FullName, entry.Name)))
+                    using (var fileStream = new FileStream(Path.Combine(folder.FullName, entry.Name), FileMode.Create))
                     {
-                        await stream.CopyToAsync(file).ConfigureAwait(false);
+                        await stream.CopyToAsync(fileStream).ConfigureAwait(false);
                     }
                 }
 
@@ -49,6 +49,11 @@ namespace Search4Self.Parser.Parsers
                 }
 
                 return JsonConvert.DeserializeObject<IDictionary<string, int>>(executionResult);
+            }
+            catch(Exception ex)
+            {
+                Debug.WriteLine(ex.Message);
+                return null;
             }
             finally
             {
