@@ -29,11 +29,11 @@
                         var data = [
                             {
                                 "word": "killer",
-                                "hits": 18,
+                                "count": 18,
                             },
                             {
                                 "word": "cars",
-                                "hits": 8,
+                                "count": 8,
                             },
                         ];
                         if (scope.data && scope.data.length > 0)
@@ -55,7 +55,7 @@
                                 "fillAlphas": 0.8,
                                 "lineAlpha": 0.2,
                                 "type": "column",
-                                "valueField": "hits"
+                                "valueField": "count"
                             }],
                             "chartCursor": {
                                 "categoryBalloonEnabled": false,

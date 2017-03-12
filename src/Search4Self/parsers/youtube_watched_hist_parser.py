@@ -31,7 +31,7 @@ def worker(inQueue, outQueue):
 
 
 if __name__ == '__main__':
-    js = json.loads(open(sys.argv[1]).read())
+    js = json.loads(open(sys.argv[1], encoding='utf8').read())
 
     l = []
     inQueue = Queue()

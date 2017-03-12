@@ -4,8 +4,6 @@ import sys
 import datetime
 import string
 import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
 from collections import Counter
 
 folder = sys.argv[1]
@@ -14,7 +12,7 @@ files = os.listdir(folder)
 searches = []
 dates = []
 for _file in files:
-    with open(folder + "/" + _file) as json_data:
+    with open(folder + "/" + _file, encoding='utf-8') as json_data:
         d = json.load(json_data)
 
     for i in range(len(d['event'])):

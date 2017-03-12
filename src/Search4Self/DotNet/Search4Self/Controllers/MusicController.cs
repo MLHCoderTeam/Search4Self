@@ -58,7 +58,7 @@ namespace Search4Self.Controllers
         {
             Authorize();
 
-            var result = User.YoutubeSearches.ToList();
+            var result = User.YoutubeSearches.OrderByDescending(y=>y.Count).Take(15).ToList();
 
             return Ok(result);
         }

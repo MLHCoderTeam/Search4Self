@@ -6,6 +6,7 @@
 
         ctrl.genres = [];
         ctrl.genresData = [];
+        ctrl.words = [];
 
         function init() {
             //$timeout(function () {
